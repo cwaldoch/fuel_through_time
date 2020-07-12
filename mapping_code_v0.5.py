@@ -21,7 +21,7 @@ start = datetime.datetime.now()
 dataSource = r'C:\Users\.3\Desktop\fuel_through_time\\'
 fName = 'test8_va.mp4'
 
-vaShape = gpd.read_file(dataSource+"gis_data\va_counties.shp")
+vaShape = gpd.read_file(dataSource+"gis_data\\va_counties.shp")
 
 vaShape2 = gpd.GeoDataFrame(vaShape,geometry='geometry',crs={'init':'epsg:4269'})
 vaShape3 = vaShape2.to_crs("epsg:32618")
