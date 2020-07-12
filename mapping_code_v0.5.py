@@ -48,6 +48,7 @@ faceColors = []
 dfDict = {}
 
 for year in range(min(dfPlants['year']),max(dfPlants['year'])+1):
+    print(year)
     circlesArray = []
     yearPlants = dfPlants[dfPlants['year'] == year]
     plantNames = list(set(yearPlants['plant_name']))
@@ -84,13 +85,13 @@ for year in range(min(dfPlants['year']),max(dfPlants['year'])+1):
                 try:
                     cVals = fuelRef['rgb'].values[0].replace('(','').replace(')', '').replace(' ', '').split(',')
                     
-                    circColor = (int(cVals[0])/255,int(cVals[1])/255,int(cVals[2])/255,0.7)
-                    faceColor = (int(cVals[0])/255,int(cVals[1])/255,int(cVals[2])/255,0.7)
-                    faceColor = (int(cVals[0])/255,int(cVals[1])/255,int(cVals[2])/255,0.7)
+                    circColor = (int(cVals[0])/255,int(cVals[1])/255,int(cVals[2])/255,0.8)
+                    faceColor = (int(cVals[0])/255,int(cVals[1])/255,int(cVals[2])/255,0.8)
+                    faceColor = (int(cVals[0])/255,int(cVals[1])/255,int(cVals[2])/255,0.8)
                 except AttributeError:
                     # this is lazy, but accurate for the data as it exists, some
                     # MSW got N/A in color assignment
-                    hexColor = (133/255,75/255,25/255,1)
+                    hexColor = (133/255,75/255,25/255,0.8)
                 circlesArray.append([hexCircle, circColor, sumMW, plantName, year])
                     
                 hexColors.append(circColor)
