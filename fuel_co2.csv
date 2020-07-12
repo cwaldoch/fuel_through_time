@@ -1,0 +1,42 @@
+fuel_code,color,rgb,co2_mmbtu,Desc
+SC,black,"(0,0,0)",0.08,"Coal-based Synfuel. Including briquettes, pellets, or extrusions, which are formed by binding materials or processes that recycle materials."
+ANT,black,"(0,0,0)",0.10,Anthracite Coal
+BIT,black,"(0,0,0)",0.10,Bituminous Coal
+LIG,black,"(0,0,0)",0.10,Lignite Coal
+PC,black,"(0,0,0)",0.10,Petroleum Coke
+RC,black,"(0,0,0)",0.10,Refined Coal
+SUB,black,"(0,0,0)",0.10,Subbituminous Coal
+TDF,black,"(0,0,0)",0.10,Tire-derived Fuels
+WC,black,"(0,0,0)",0.10,"Waste/Other Coal. Including anthracite culm, bituminous gob, fine coal, lignite waste, waste coal."
+WAT,blue,"(36, 99, 224)",0.00,"Water at a Conventional Hydroelectric Turbine and water used in Wave Buoy Hydrokinetic Technology, current Hydrokinetic Technology, Tidal Hydrokinetic Technology, and Pumping Energy for Reversible (Pumped Storage) Hydroelectric Turbines."
+GEO,brick red,"(207, 50, 6)",0.00,Geothermal
+NUC,bright green,"(22, 255, 5)",0.00,"Nuclear. Including Uranium, Plutonium, and Thorium."
+AB,brown,"(133, 75, 25)",0.08,Agricultural By-Products
+OBL,brown,"(133, 75, 25)",0.08,Other Biomass Liquids
+MSB,brown,"(133, 75, 25)",0.10,Biogenic Municipal Solid Waste
+MSN,brown,"(133, 75, 25)",0.10,Non-biogenic Municipal Solid Waste
+OBS,brown,"(133, 75, 25)",0.10,Other Biomass Solids
+WDL,brown,"(133, 75, 25)",0.10,"Wood Waste Liquids, excluding Black Liquor. Including red liquor, sludge wood, spent sulfite liquor, and other wood-based liquids."
+WDS,brown,"(133, 75, 25)",0.10,"Wood/Wood Waste Solids. Including paper pellets, railroad ties, utility polies, wood chips, bark, and other wood waste solids."
+SLW,brown,"(133, 75, 25)",0.80,Sludge Waste
+BLQ,dark gray,"(105, 102, 100)",0.08,Black Liquor
+DFO,dark gray,"(105, 102, 100)",0.08,"Distillate Fuel Oil. Including diesel, No. 1, No. 2, and No. 4 fuel oils."
+JF,dark gray,"(105, 102, 100)",0.08,Jet Fuel
+KER,dark gray,"(105, 102, 100)",0.08,Kerosene
+OTH,dark gray,"(105, 102, 100)",0.08,Other Fuel
+RFO,dark gray,"(105, 102, 100)",0.08,Residual Fuel Oil. Including No. 5 & 6 fuel oils and bunker C fuel oil.
+WO,dark gray,"(105, 102, 100)",0.08,"Waste/Other Oil. Including crude oil, liquid butane, liquid propane, naphtha, oil waste, re-refined moto oil, sludge oil, tar oil, or other petroleum-based liquid wastes."
+WND,dark green,"(32, 135, 70)",0.00,Wind
+SUN,goldenrod,"(240, 206, 17)",0.00,Solar
+MWH,purple,"(209, 8, 199)",0.00,Electricity used for energy storage
+PUR,salmon,"(237, 104, 38)",0.00,Purchased Steam
+WH,salmon,"(237, 104, 38)",0.00,Waste Heat not directly attributed to a fuel source
+BFG,salmon,"(237, 104, 38)",0.06,Blast Furnace Gas
+LFG,salmon,"(237, 104, 38)",0.06,Landfill Gas
+NG,salmon,"(237, 104, 38)",0.06,Natural Gas
+OBG,salmon,"(237, 104, 38)",0.06,"Other Biomass Gas. Including digester gas, methane, and other biomass gases."
+OG,salmon,"(237, 104, 38)",0.06,Other Gas
+PG,salmon,"(237, 104, 38)",0.06,Gaseous Propane
+SGC,salmon,"(237, 104, 38)",0.06,Coal-Derived Synthesis Gas
+SGP,salmon,"(237, 104, 38)",0.06,Synthesis Gas from Petroleum Coke
+MSW,brown,"(133, 75, 25)",0.10,Municipal solid waste

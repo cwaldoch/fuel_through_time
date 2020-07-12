@@ -14,12 +14,14 @@ import matplotlib as mpl
 import matplotlib.animation as animation
 import matplotlib.patches as mpatches
 import imageio
-import os, sys
+import os, sys, pdb
 
 start = datetime.datetime.now()
 
 dataSource = r'C:\Users\.3\Desktop\fuel_through_time\\'
-fName = 'test8_va.mp4'
+fName = 'test9_va.mp4'
+
+fColorMap = pd.read_csv(dataSource+'fuel_co2.csv')
 
 vaShape = gpd.read_file(dataSource+"gis_data\\va_counties.shp")
 
@@ -48,36 +50,51 @@ dfDict = {}
 for year in range(min(dfPlants['year']),max(dfPlants['year'])+1):
     circlesArray = []
     yearPlants = dfPlants[dfPlants['year'] == year]
-    plantNames = list(set(yearPlants['plant-fuel']))
+    plantNames = list(set(yearPlants['plant_name']))
     for plantName in plantNames:
-
-        plantValues = allPlants2[allPlants2['plant-fuel'] == plantName]
+        plantValues = allPlants2[allPlants2['Plant Name'] == plantName[:-1]]
         
-        yearPlant = yearPlants[yearPlants['plant-fuel'] == plantName]
-        sumMW = yearPlant['gen'].values[0]
-    
-        if sumMW <= 5000:
-            cSize = 3000
+        yearPlant = yearPlants[yearPlants['plant_name'] == plantName]
+        
+        plantFuels = list(set(yearPlant['fuel']))
+        
+        if len(plantValues) > 1:
+            singlePoint = plantValues[:1]
         else:
-            cSize = normBubble(sumMW) * 25000
+            singlePoint = plantValues
+        
+        for fuel in plantFuels:
+            
+            dfPlantFuel = yearPlant[yearPlant['fuel'] == fuel]
+            fuelRef = fColorMap[fColorMap['fuel_code'] == fuel]
+#            print(type(singlePoint))
+#            print(type(plantValues))
+#            
+#            pdb.set_trace()
+            sumMW = dfPlantFuel['gen'].values[0]
+        
+            if sumMW <= 5000:
+                cSize = 3000
+            else:
+                cSize = normBubble(sumMW) * 25000
+        
+            hexCircle = singlePoint.buffer(cSize)
     
-        hexCircle = plantValues.buffer(cSize)
-
-        if len(plantValues) >1:
-            try:
-                cVals = plantValues['color'].values[0].replace('(','').replace(')', '').replace(' ', '').split(',')
-                
-                circColor = (int(cVals[0])/255,int(cVals[1])/255,int(cVals[2])/255,0.7)
-                faceColor = (int(cVals[0])/255,int(cVals[1])/255,int(cVals[2])/255,0.7)
-                faceColor = (int(cVals[0])/255,int(cVals[1])/255,int(cVals[2])/255,0.7)
-            except AttributeError:
-                # this is lazy, but accurate for the data as it exists, some
-                # MSW got N/A in color assignment
-                hexColor = (133/255,75/255,25/255,1)
-            circlesArray.append([hexCircle, circColor, sumMW, plantName, year])
-                
-            hexColors.append(circColor)
-            faceColors.append(faceColor)
+            if len(plantValues) >1:
+                try:
+                    cVals = fuelRef['rgb'].values[0].replace('(','').replace(')', '').replace(' ', '').split(',')
+                    
+                    circColor = (int(cVals[0])/255,int(cVals[1])/255,int(cVals[2])/255,0.7)
+                    faceColor = (int(cVals[0])/255,int(cVals[1])/255,int(cVals[2])/255,0.7)
+                    faceColor = (int(cVals[0])/255,int(cVals[1])/255,int(cVals[2])/255,0.7)
+                except AttributeError:
+                    # this is lazy, but accurate for the data as it exists, some
+                    # MSW got N/A in color assignment
+                    hexColor = (133/255,75/255,25/255,1)
+                circlesArray.append([hexCircle, circColor, sumMW, plantName, year])
+                    
+                hexColors.append(circColor)
+                faceColors.append(faceColor)
     dfCircles = pd.DataFrame(circlesArray, columns = ['geometry', 'color', 'mw', 'plantName', 'year'])
     
     dfDict[year] = dfCircles
