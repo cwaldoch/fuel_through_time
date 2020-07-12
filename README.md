@@ -20,12 +20,12 @@ plantRef = pd.read_csv(localPath+"plants_fuels_together.csv")
 vaPlants = plantRef[plantRef['state'] == 'VA']
 ```
 
-I do have one error exception in this API handling, which should only trigger for plants that are in my underlying data, but havne't been bulit yet and therefore don't exist in the fuel/generation API data evne though they have a plant code and location. 
+I do have one error exception in this API handling, which should only trigger for plants that are in my underlying data, but havne't been built yet and therefore don't exist in the fuel/generation API data even though they have a plant code and location. 
 
-## A bit on the geograpy portion
+## A bit on the geography portion
 The gis_data filder has a shapefile of counties in Virginia. You'll want a shapefile of whatever geography you're working with. If you don't know what a shapefile is, you can download QGIS for free and start messing around with GIS. Most data-heavy federal offices/deparments will have a bunch of shapefiles (BLS, [EIA](https://www.eia.gov/maps/layer_info-m.php), [Census](https://www.census.gov/geographies/mapping-files/time-series/geo/carto-boundary-file.html)) available for free, as will your state and often your local town or county these days with [open data portals](https://gisdata-arlgis.opendata.arcgis.com/). 
 
-There are two potential pain areas with this code, and the shapefile/GIS management is one of them. It's very easy to mess up the cartographic projections piece and end up with a blank or broken map. Fortunately, you will get an error from geopandas in the console (althought he code *will* keep running), so typically you know what's gone wrong. Despite knowing your crs is messed up, it's still easy to lose track of what coordinate system everything is in. It's easiest to handle it up front with every new piece of geographic data you create or import.  You can check the crs on an imported shapefile with ".crs". 
+There are two potential pain areas with this code, and the shapefile/GIS management is one of them. It's very easy to mess up the cartographic projections piece and end up with a blank or broken map. Fortunately, you will get an error from geopandas in the console (although the code *will* keep running), so typically you know what's gone wrong. Despite knowing your crs is messed up, it's still easy to lose track of what coordinate system everything is in. It's easiest to handle it up front with every new piece of geographic data you create or import.  You can check the crs on an imported shapefile with ".crs". 
 
 In the example below, I'm importing a shapefile of Virginia counties, putting it into the GeoDataframe format, checking the crs, and then converting it to the project crs I want to use:
 
@@ -97,3 +97,6 @@ plt.legend(loc=1,handles=[solidsPatch, hydroPatch, gasPatch, wastePatch,
 					 solarPatch, nukePatch,
 					liquidPatch])
 ```
+
+## That's it
+If you're confused or curious, feel free to [hit me up on twitter](https://twitter.com/ConnorWaldoch). 
