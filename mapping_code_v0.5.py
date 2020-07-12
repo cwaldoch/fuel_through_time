@@ -40,7 +40,7 @@ allPlants2 = allPlants.to_crs("epsg:32618")
 dfPlants = pd.read_csv(dataSource+'annual_va_fuel_gen_data.csv')
 dfPlants['plant-fuel'] = [x[:-1]+'-'+y for x,y in zip(dfPlants['plant_name'].values, dfPlants['fuel'].values)]
 
-normBubble = matplotlib.colors.Normalize(0,15000000)
+normBubble = matplotlib.colors.Normalize(0,10000000)
 
 hexColors = []
 faceColors = []
@@ -74,10 +74,16 @@ for year in range(min(dfPlants['year']),max(dfPlants['year'])+1):
 #            pdb.set_trace()
             sumMW = dfPlantFuel['gen'].values[0]
         
-            if sumMW <= 5000:
+            if sumMW >= 0:
+                cSize = 1500
+            if sumMW >= 5000:
+                cSize = 2000
+            if sumMW >= 25000:
                 cSize = 3000
-            else:
-                cSize = normBubble(sumMW) * 25000
+            if sumMW >= 75000:
+                cSize = 4000  
+            if sumMW >= 250000:
+                cSize = normBubble(sumMW) * 22000
         
             hexCircle = singlePoint.buffer(cSize)
     

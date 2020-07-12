@@ -26,8 +26,6 @@ eia860 = pd.read_csv(localPath+"eia860.csv")
 plantRef = pd.read_csv(localPath+"plants_fuels_together.csv")
 vaPlants = plantRef[plantRef['state'] == 'VA']
 
-#ELEC.PLANT.GEN.3772-WAT-ALL.A
-
 plantCodes = list(set(vaPlants['plant_code']))
 with open(localPath+"apiKey.txt", 'r') as txt:
     apiKey = txt.read()
