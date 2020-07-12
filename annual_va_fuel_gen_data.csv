@@ -1,0 +1,2885 @@
+year,gen,plant_name,lat,lon,fuel
+2016  ,230.0,Western Branch High School ,36.848105,-76.407143,SUN
+2017  ,1269.0,Western Branch High School ,36.848105,-76.407143,SUN
+2018  ,48.0,Western Branch High School ,36.848105,-76.407143,SUN
+2019  ,0.0,Western Branch High School ,36.848105,-76.407143,SUN
+2017  ,3701.0,Merck ,38.383222,-78.643688,SUN
+2018  ,152.0,Merck ,38.383222,-78.643688,SUN
+2001  ,1840.999,Halifax ,36.7817,-78.9236,WAT
+2002  ,1868.001,Halifax ,36.7817,-78.9236,WAT
+2003  ,6320.999,Halifax ,36.7817,-78.9236,WAT
+2004  ,4701.0,Halifax ,36.7817,-78.9236,WAT
+2005  ,3592.999,Halifax ,36.7817,-78.9236,WAT
+2006  ,2671.0,Halifax ,36.7817,-78.9236,WAT
+2007  ,2457.0,Halifax ,36.7817,-78.9236,WAT
+2008  ,2074.0,Halifax ,36.7817,-78.9236,WAT
+2009  ,3331.0,Halifax ,36.7817,-78.9236,WAT
+2010  ,3051.0,Halifax ,36.7817,-78.9236,WAT
+2011  ,1958.0,Halifax ,36.7817,-78.9236,WAT
+2012  ,1386.0,Halifax ,36.7817,-78.9236,WAT
+2013  ,1338.48,Halifax ,36.7817,-78.9236,WAT
+2014  ,1894.86,Halifax ,36.7817,-78.9236,WAT
+2015  ,2651.0,Halifax ,36.7817,-78.9236,WAT
+2016  ,3887.0,Halifax ,36.7817,-78.9236,WAT
+2017  ,2667.0,Halifax ,36.7817,-78.9236,WAT
+2018  ,3282.0,Halifax ,36.7817,-78.9236,WAT
+2016  ,2553.0,Philip Morris ,37.341838,-77.287027,SUN
+2017  ,2987.0,Philip Morris ,37.341838,-77.287027,SUN
+2018  ,69.0,Philip Morris ,37.341838,-77.287027,SUN
+2019  ,1700.0,Philip Morris ,37.341838,-77.287027,SUN
+2018  ,917306.0,Greensville County Power Station ,36.718236,-77.649559,NG
+2019  ,9859878.0,Greensville County Power Station ,36.718236,-77.649559,NG
+2010  ,95.204,Henrico ,37.6788,-77.5678,DFO
+2011  ,49.244,Henrico ,37.6788,-77.5678,DFO
+2012  ,395.087,Henrico ,37.6788,-77.5678,DFO
+2013  ,202.023,Henrico ,37.6788,-77.5678,DFO
+2014  ,796.956,Henrico ,37.6788,-77.5678,DFO
+2015  ,1044.716,Henrico ,37.6788,-77.5678,DFO
+2016  ,1400.344,Henrico ,37.6788,-77.5678,DFO
+2017  ,1133.686,Henrico ,37.6788,-77.5678,DFO
+2018  ,811.045,Henrico ,37.6788,-77.5678,DFO
+2010  ,478.796,Henrico ,37.6788,-77.5678,LFG
+2011  ,312.756,Henrico ,37.6788,-77.5678,LFG
+2012  ,10189.913,Henrico ,37.6788,-77.5678,LFG
+2013  ,6755.977,Henrico ,37.6788,-77.5678,LFG
+2014  ,11660.044,Henrico ,37.6788,-77.5678,LFG
+2015  ,13318.284,Henrico ,37.6788,-77.5678,LFG
+2016  ,21061.656,Henrico ,37.6788,-77.5678,LFG
+2017  ,19046.314,Henrico ,37.6788,-77.5678,LFG
+2018  ,15351.955,Henrico ,37.6788,-77.5678,LFG
+2017  ,225.0,Palmer Solar Center ,37.96724,-78.230963,SUN
+2018  ,10323.0,Palmer Solar Center ,37.96724,-78.230963,SUN
+2017  ,277.0,Martin Solar Center ,37.88051,-78.049191,SUN
+2018  ,8793.0,Martin Solar Center ,37.88051,-78.049191,SUN
+2013  ,85040.525,Hopewell Power Station ,37.297834,-77.282982,WDS
+2014  ,265593.351,Hopewell Power Station ,37.297834,-77.282982,WDS
+2015  ,262522.915,Hopewell Power Station ,37.297834,-77.282982,WDS
+2016  ,305991.951,Hopewell Power Station ,37.297834,-77.282982,WDS
+2017  ,294812.958,Hopewell Power Station ,37.297834,-77.282982,WDS
+2018  ,305729.386,Hopewell Power Station ,37.297834,-77.282982,WDS
+2003  ,0.0,Altavista Power Station ,37.118674,-79.273551,WDS
+2004  ,0.0,Altavista Power Station ,37.118674,-79.273551,WDS
+2005  ,74.0,Altavista Power Station ,37.118674,-79.273551,WDS
+2006  ,11887.0,Altavista Power Station ,37.118674,-79.273551,WDS
+2007  ,19749.453,Altavista Power Station ,37.118674,-79.273551,WDS
+2008  ,18554.027,Altavista Power Station ,37.118674,-79.273551,WDS
+2009  ,10922.831,Altavista Power Station ,37.118674,-79.273551,WDS
+2010  ,9674.248,Altavista Power Station ,37.118674,-79.273551,WDS
+2013  ,143290.277,Altavista Power Station ,37.118674,-79.273551,WDS
+2014  ,226281.752,Altavista Power Station ,37.118674,-79.273551,WDS
+2015  ,268269.591,Altavista Power Station ,37.118674,-79.273551,WDS
+2016  ,281461.661,Altavista Power Station ,37.118674,-79.273551,WDS
+2017  ,274990.668,Altavista Power Station ,37.118674,-79.273551,WDS
+2018  ,272934.275,Altavista Power Station ,37.118674,-79.273551,WDS
+2003  ,100.0,Altavista Power Station ,37.118674,-79.273551,NG
+2004  ,431.0,Altavista Power Station ,37.118674,-79.273551,NG
+2005  ,1367.0,Altavista Power Station ,37.118674,-79.273551,NG
+2006  ,2204.0,Altavista Power Station ,37.118674,-79.273551,NG
+2007  ,2599.45,Altavista Power Station ,37.118674,-79.273551,NG
+2008  ,4206.403,Altavista Power Station ,37.118674,-79.273551,NG
+2009  ,2143.533,Altavista Power Station ,37.118674,-79.273551,NG
+2010  ,890.63,Altavista Power Station ,37.118674,-79.273551,NG
+2012  ,0.0,Altavista Power Station ,37.118674,-79.273551,NG
+2013  ,1502.723,Altavista Power Station ,37.118674,-79.273551,NG
+2014  ,595.248,Altavista Power Station ,37.118674,-79.273551,NG
+2015  ,425.409,Altavista Power Station ,37.118674,-79.273551,NG
+2016  ,1215.339,Altavista Power Station ,37.118674,-79.273551,NG
+2017  ,612.332,Altavista Power Station ,37.118674,-79.273551,NG
+2018  ,1134.725,Altavista Power Station ,37.118674,-79.273551,NG
+2008  ,0.0,Southampton Power Station ,36.6525,-76.9953,WDS
+2009  ,0.0,Southampton Power Station ,36.6525,-76.9953,WDS
+2010  ,0.0,Southampton Power Station ,36.6525,-76.9953,WDS
+2011  ,0.0,Southampton Power Station ,36.6525,-76.9953,WDS
+2012  ,0.0,Southampton Power Station ,36.6525,-76.9953,WDS
+2013  ,55290.43,Southampton Power Station ,36.6525,-76.9953,WDS
+2014  ,252040.605,Southampton Power Station ,36.6525,-76.9953,WDS
+2015  ,289588.754,Southampton Power Station ,36.6525,-76.9953,WDS
+2016  ,294864.674,Southampton Power Station ,36.6525,-76.9953,WDS
+2017  ,277957.463,Southampton Power Station ,36.6525,-76.9953,WDS
+2018  ,312578.906,Southampton Power Station ,36.6525,-76.9953,WDS
+2001  ,-1615830.0,Bath County ,38.20889,-79.8,WAT
+2002  ,-1413515.0,Bath County ,38.20889,-79.8,WAT
+2003  ,-1066730.0,Bath County ,38.20889,-79.8,WAT
+2004  ,-1039852.0,Bath County ,38.20889,-79.8,WAT
+2005  ,-829353.0,Bath County ,38.20889,-79.8,WAT
+2006  ,-971725.0,Bath County ,38.20889,-79.8,WAT
+2007  ,-898155.0,Bath County ,38.20889,-79.8,WAT
+2008  ,-875471.0,Bath County ,38.20889,-79.8,WAT
+2009  ,-829696.0,Bath County ,38.20889,-79.8,WAT
+2010  ,-1000208.0,Bath County ,38.20889,-79.8,WAT
+2011  ,-983448.0,Bath County ,38.20889,-79.8,WAT
+2012  ,-971903.0,Bath County ,38.20889,-79.8,WAT
+2013  ,-947600.0,Bath County ,38.20889,-79.8,WAT
+2014  ,-989619.0,Bath County ,38.20889,-79.8,WAT
+2015  ,-864428.0,Bath County ,38.20889,-79.8,WAT
+2016  ,-768620.0,Bath County ,38.20889,-79.8,WAT
+2017  ,-934944.0,Bath County ,38.20889,-79.8,WAT
+2018  ,-982622.0,Bath County ,38.20889,-79.8,WAT
+2019  ,-780339.0,Bath County ,38.20889,-79.8,WAT
+2001  ,13096754.0,North Anna ,38.06,-77.7897,NUC
+2002  ,13674036.0,North Anna ,38.06,-77.7897,NUC
+2003  ,13784124.0,North Anna ,38.06,-77.7897,NUC
+2004  ,14806426.0,North Anna ,38.06,-77.7897,NUC
+2005  ,14688289.0,North Anna ,38.06,-77.7897,NUC
+2006  ,15093158.0,North Anna ,38.06,-77.7897,NUC
+2007  ,13986927.0,North Anna ,38.06,-77.7897,NUC
+2008  ,14433425.0,North Anna ,38.06,-77.7897,NUC
+2009  ,15202610.0,North Anna ,38.06,-77.7897,NUC
+2010  ,13399462.0,North Anna ,38.06,-77.7897,NUC
+2011  ,12518517.0,North Anna ,38.06,-77.7897,NUC
+2012  ,15333190.0,North Anna ,38.06,-77.7897,NUC
+2013  ,15005273.0,North Anna ,38.06,-77.7897,NUC
+2014  ,15888652.0,North Anna ,38.06,-77.7897,NUC
+2015  ,16270632.0,North Anna ,38.06,-77.7897,NUC
+2016  ,15121377.0,North Anna ,38.06,-77.7897,NUC
+2017  ,16126087.0,North Anna ,38.06,-77.7897,NUC
+2018  ,16032531.0,North Anna ,38.06,-77.7897,NUC
+2019  ,15324539.0,North Anna ,38.06,-77.7897,NUC
+2001  ,2844.0,North Anna ,38.06,-77.7897,WAT
+2002  ,0.0,North Anna ,38.06,-77.7897,WAT
+2003  ,4781.0,North Anna ,38.06,-77.7897,WAT
+2004  ,5398.0,North Anna ,38.06,-77.7897,WAT
+2005  ,5556.0,North Anna ,38.06,-77.7897,WAT
+2006  ,3455.0,North Anna ,38.06,-77.7897,WAT
+2007  ,1567.0,North Anna ,38.06,-77.7897,WAT
+2008  ,0.0,North Anna ,38.06,-77.7897,WAT
+2009  ,0.0,North Anna ,38.06,-77.7897,WAT
+2010  ,0.0,North Anna ,38.06,-77.7897,WAT
+2011  ,0.0,North Anna ,38.06,-77.7897,WAT
+2012  ,0.0,North Anna ,38.06,-77.7897,WAT
+2013  ,0.0,North Anna ,38.06,-77.7897,WAT
+2014  ,2796.0,North Anna ,38.06,-77.7897,WAT
+2015  ,3632.0,North Anna ,38.06,-77.7897,WAT
+2016  ,3988.0,North Anna ,38.06,-77.7897,WAT
+2017  ,2556.0,North Anna ,38.06,-77.7897,WAT
+2018  ,2291.0,North Anna ,38.06,-77.7897,WAT
+2019  ,516.0,North Anna ,38.06,-77.7897,WAT
+2001  ,1505564.197,Birchwood Power ,38.2667,-77.3147,BIT
+2002  ,1277369.0,Birchwood Power ,38.2667,-77.3147,BIT
+2003  ,1342941.834,Birchwood Power ,38.2667,-77.3147,BIT
+2004  ,1415148.48159,Birchwood Power ,38.2667,-77.3147,BIT
+2005  ,1685079.45584,Birchwood Power ,38.2667,-77.3147,BIT
+2006  ,1264752.11248,Birchwood Power ,38.2667,-77.3147,BIT
+2007  ,1243977.853,Birchwood Power ,38.2667,-77.3147,BIT
+2008  ,1560754.475,Birchwood Power ,38.2667,-77.3147,BIT
+2009  ,485466.126,Birchwood Power ,38.2667,-77.3147,BIT
+2010  ,814528.72,Birchwood Power ,38.2667,-77.3147,BIT
+2011  ,500617.182,Birchwood Power ,38.2667,-77.3147,BIT
+2012  ,398304.216,Birchwood Power ,38.2667,-77.3147,BIT
+2013  ,578800.674,Birchwood Power ,38.2667,-77.3147,BIT
+2014  ,842311.542,Birchwood Power ,38.2667,-77.3147,BIT
+2015  ,553875.954,Birchwood Power ,38.2667,-77.3147,BIT
+2016  ,435896.931,Birchwood Power ,38.2667,-77.3147,BIT
+2017  ,405488.186,Birchwood Power ,38.2667,-77.3147,BIT
+2018  ,541836.036,Birchwood Power ,38.2667,-77.3147,BIT
+2019  ,46172.781,Birchwood Power ,38.2667,-77.3147,BIT
+2019  ,6451.0,Colonial Trail West ,37.138889,-76.902222,SUN
+2012  ,3906.0,Martinsville LFG Generator ,36.717222,-79.845278,LFG
+2013  ,4449.0,Martinsville LFG Generator ,36.717222,-79.845278,LFG
+2014  ,4825.983,Martinsville LFG Generator ,36.717222,-79.845278,LFG
+2015  ,3641.692,Martinsville LFG Generator ,36.717222,-79.845278,LFG
+2016  ,3956.554,Martinsville LFG Generator ,36.717222,-79.845278,LFG
+2017  ,3798.111,Martinsville LFG Generator ,36.717222,-79.845278,LFG
+2018  ,2700.317,Martinsville LFG Generator ,36.717222,-79.845278,LFG
+2019  ,3649.542,Martinsville LFG Generator ,36.717222,-79.845278,LFG
+2014  ,102.017,Martinsville LFG Generator ,36.717222,-79.845278,NG
+2015  ,675.308,Martinsville LFG Generator ,36.717222,-79.845278,NG
+2016  ,3756.446,Martinsville LFG Generator ,36.717222,-79.845278,NG
+2017  ,1878.889,Martinsville LFG Generator ,36.717222,-79.845278,NG
+2018  ,1681.683,Martinsville LFG Generator ,36.717222,-79.845278,NG
+2019  ,2476.398,Martinsville LFG Generator ,36.717222,-79.845278,NG
+2017  ,590.0,Scott-II Solar LLC ,37.526244,-77.944637,SUN
+2018  ,37374.0,Scott-II Solar LLC ,37.526244,-77.944637,SUN
+2012  ,46601.0,Richmond Energy ,37.505833,-77.373889,LFG
+2013  ,49767.0,Richmond Energy ,37.505833,-77.373889,LFG
+2014  ,50909.0,Richmond Energy ,37.505833,-77.373889,LFG
+2015  ,50728.0,Richmond Energy ,37.505833,-77.373889,LFG
+2016  ,48599.0,Richmond Energy ,37.505833,-77.373889,LFG
+2017  ,47432.0,Richmond Energy ,37.505833,-77.373889,LFG
+2018  ,47678.0,Richmond Energy ,37.505833,-77.373889,LFG
+2006  ,0.0,Danville New Design Plant ,36.6308,-79.3894,DFO
+2007  ,17.64,Danville New Design Plant ,36.6308,-79.3894,DFO
+2008  ,6.0,Danville New Design Plant ,36.6308,-79.3894,DFO
+2009  ,11.0,Danville New Design Plant ,36.6308,-79.3894,DFO
+2010  ,19.0,Danville New Design Plant ,36.6308,-79.3894,DFO
+2011  ,2.0,Danville New Design Plant ,36.6308,-79.3894,DFO
+2012  ,0.0,Danville New Design Plant ,36.6308,-79.3894,DFO
+2015  ,0.0,Danville New Design Plant ,36.6308,-79.3894,DFO
+2016  ,0.0,Danville New Design Plant ,36.6308,-79.3894,DFO
+2017  ,0.0,Danville New Design Plant ,36.6308,-79.3894,DFO
+2018  ,0.0,Danville New Design Plant ,36.6308,-79.3894,DFO
+2001  ,10025.0,Darbytown ,37.498223,-77.368544,DFO
+2002  ,5485.0,Darbytown ,37.498223,-77.368544,DFO
+2003  ,63665.0,Darbytown ,37.498223,-77.368544,DFO
+2004  ,7864.0,Darbytown ,37.498223,-77.368544,DFO
+2005  ,13273.0,Darbytown ,37.498223,-77.368544,DFO
+2006  ,2599.0,Darbytown ,37.498223,-77.368544,DFO
+2007  ,15001.281,Darbytown ,37.498223,-77.368544,DFO
+2008  ,8482.123,Darbytown ,37.498223,-77.368544,DFO
+2009  ,13321.447,Darbytown ,37.498223,-77.368544,DFO
+2010  ,4405.112,Darbytown ,37.498223,-77.368544,DFO
+2011  ,637.465,Darbytown ,37.498223,-77.368544,DFO
+2012  ,149.749,Darbytown ,37.498223,-77.368544,DFO
+2013  ,7550.342,Darbytown ,37.498223,-77.368544,DFO
+2014  ,19784.324,Darbytown ,37.498223,-77.368544,DFO
+2015  ,17311.594,Darbytown ,37.498223,-77.368544,DFO
+2016  ,16802.129,Darbytown ,37.498223,-77.368544,DFO
+2017  ,18457.908,Darbytown ,37.498223,-77.368544,DFO
+2018  ,36481.856,Darbytown ,37.498223,-77.368544,DFO
+2001  ,60261.0,Darbytown ,37.498223,-77.368544,NG
+2002  ,36209.0,Darbytown ,37.498223,-77.368544,NG
+2003  ,5940.0,Darbytown ,37.498223,-77.368544,NG
+2004  ,2257.0,Darbytown ,37.498223,-77.368544,NG
+2005  ,136080.0,Darbytown ,37.498223,-77.368544,NG
+2006  ,74589.0,Darbytown ,37.498223,-77.368544,NG
+2007  ,115945.719,Darbytown ,37.498223,-77.368544,NG
+2008  ,88560.877,Darbytown ,37.498223,-77.368544,NG
+2009  ,58093.553,Darbytown ,37.498223,-77.368544,NG
+2010  ,207920.888,Darbytown ,37.498223,-77.368544,NG
+2011  ,91535.535,Darbytown ,37.498223,-77.368544,NG
+2012  ,113624.251,Darbytown ,37.498223,-77.368544,NG
+2013  ,160254.658,Darbytown ,37.498223,-77.368544,NG
+2014  ,28319.676,Darbytown ,37.498223,-77.368544,NG
+2015  ,120124.406,Darbytown ,37.498223,-77.368544,NG
+2016  ,15911.871,Darbytown ,37.498223,-77.368544,NG
+2017  ,93060.092,Darbytown ,37.498223,-77.368544,NG
+2018  ,48784.144,Darbytown ,37.498223,-77.368544,NG
+2001  ,6680121.0,Clover ,36.869,-78.704,BIT
+2002  ,6300385.0,Clover ,36.869,-78.704,BIT
+2003  ,6418469.0,Clover ,36.869,-78.704,BIT
+2004  ,6680858.0,Clover ,36.869,-78.704,BIT
+2005  ,6380515.0,Clover ,36.869,-78.704,BIT
+2006  ,6940393.0,Clover ,36.869,-78.704,BIT
+2007  ,6672377.435,Clover ,36.869,-78.704,BIT
+2008  ,5804607.702,Clover ,36.869,-78.704,BIT
+2009  ,5581403.631,Clover ,36.869,-78.704,BIT
+2010  ,6188095.168,Clover ,36.869,-78.704,BIT
+2011  ,5169320.468,Clover ,36.869,-78.704,BIT
+2012  ,4392862.377,Clover ,36.869,-78.704,BIT
+2013  ,5915350.987,Clover ,36.869,-78.704,BIT
+2014  ,5672547.263,Clover ,36.869,-78.704,BIT
+2015  ,5477766.684,Clover ,36.869,-78.704,BIT
+2016  ,5436986.481,Clover ,36.869,-78.704,BIT
+2017  ,3257085.856,Clover ,36.869,-78.704,BIT
+2018  ,2907274.091,Clover ,36.869,-78.704,BIT
+2019  ,1273159.891,Clover ,36.869,-78.704,BIT
+2001  ,3.0,Waynesboro Virginia Plant ,38.0586,-78.8911,DFO
+2002  ,63.38,Waynesboro Virginia Plant ,38.0586,-78.8911,DFO
+2003  ,10.0,Waynesboro Virginia Plant ,38.0586,-78.8911,DFO
+2004  ,14.01315,Waynesboro Virginia Plant ,38.0586,-78.8911,DFO
+2005  ,0.78773,Waynesboro Virginia Plant ,38.0586,-78.8911,DFO
+2006  ,0.0,Waynesboro Virginia Plant ,38.0586,-78.8911,DFO
+2007  ,0.0,Waynesboro Virginia Plant ,38.0586,-78.8911,DFO
+2008  ,0.0,Waynesboro Virginia Plant ,38.0586,-78.8911,DFO
+2009  ,0.667,Waynesboro Virginia Plant ,38.0586,-78.8911,DFO
+2010  ,0.0,Waynesboro Virginia Plant ,38.0586,-78.8911,DFO
+2001  ,52273.0,Waynesboro Virginia Plant ,38.0586,-78.8911,BIT
+2002  ,42085.149,Waynesboro Virginia Plant ,38.0586,-78.8911,BIT
+2004  ,54891.22885,Waynesboro Virginia Plant ,38.0586,-78.8911,BIT
+2005  ,3775.77132,Waynesboro Virginia Plant ,38.0586,-78.8911,BIT
+2006  ,25515.12138,Waynesboro Virginia Plant ,38.0586,-78.8911,BIT
+2007  ,1499.285,Waynesboro Virginia Plant ,38.0586,-78.8911,BIT
+2008  ,2364.169,Waynesboro Virginia Plant ,38.0586,-78.8911,BIT
+2009  ,83.847,Waynesboro Virginia Plant ,38.0586,-78.8911,BIT
+2010  ,0.0,Waynesboro Virginia Plant ,38.0586,-78.8911,BIT
+2001  ,85.0,Waynesboro Virginia Plant ,38.0586,-78.8911,RFO
+2002  ,861.389,Waynesboro Virginia Plant ,38.0586,-78.8911,RFO
+2004  ,1662.79829,Waynesboro Virginia Plant ,38.0586,-78.8911,RFO
+2005  ,220.15701,Waynesboro Virginia Plant ,38.0586,-78.8911,RFO
+2006  ,1036.67656,Waynesboro Virginia Plant ,38.0586,-78.8911,RFO
+2007  ,5848.325,Waynesboro Virginia Plant ,38.0586,-78.8911,RFO
+2008  ,39.032,Waynesboro Virginia Plant ,38.0586,-78.8911,RFO
+2009  ,1.209,Waynesboro Virginia Plant ,38.0586,-78.8911,RFO
+2010  ,0.0,Waynesboro Virginia Plant ,38.0586,-78.8911,RFO
+2001  ,16974.0,Fries Hydroelectric Project ,36.715103,-80.985621,WAT
+2002  ,4439.0,Fries Hydroelectric Project ,36.715103,-80.985621,WAT
+2003  ,33911.46,Fries Hydroelectric Project ,36.715103,-80.985621,WAT
+2004  ,31434.48,Fries Hydroelectric Project ,36.715103,-80.985621,WAT
+2005  ,26801.001,Fries Hydroelectric Project ,36.715103,-80.985621,WAT
+2006  ,24891.0,Fries Hydroelectric Project ,36.715103,-80.985621,WAT
+2007  ,17184.999,Fries Hydroelectric Project ,36.715103,-80.985621,WAT
+2008  ,18578.0,Fries Hydroelectric Project ,36.715103,-80.985621,WAT
+2009  ,29627.73,Fries Hydroelectric Project ,36.715103,-80.985621,WAT
+2010  ,20935.0,Fries Hydroelectric Project ,36.715103,-80.985621,WAT
+2011  ,26119.0,Fries Hydroelectric Project ,36.715103,-80.985621,WAT
+2012  ,27013.0,Fries Hydroelectric Project ,36.715103,-80.985621,WAT
+2013  ,33306.0,Fries Hydroelectric Project ,36.715103,-80.985621,WAT
+2014  ,26281.0,Fries Hydroelectric Project ,36.715103,-80.985621,WAT
+2015  ,26784.0,Fries Hydroelectric Project ,36.715103,-80.985621,WAT
+2016  ,22266.0,Fries Hydroelectric Project ,36.715103,-80.985621,WAT
+2017  ,23449.0,Fries Hydroelectric Project ,36.715103,-80.985621,WAT
+2018  ,25681.0,Fries Hydroelectric Project ,36.715103,-80.985621,WAT
+2019  ,12523.6,Fries Hydroelectric Project ,36.715103,-80.985621,WAT
+2006  ,0.0,Danville Kentuck Road Plant ,36.6533,-79.2906,DFO
+2007  ,16.659,Danville Kentuck Road Plant ,36.6533,-79.2906,DFO
+2008  ,27.0,Danville Kentuck Road Plant ,36.6533,-79.2906,DFO
+2009  ,9.0,Danville Kentuck Road Plant ,36.6533,-79.2906,DFO
+2010  ,23.0,Danville Kentuck Road Plant ,36.6533,-79.2906,DFO
+2011  ,1.0,Danville Kentuck Road Plant ,36.6533,-79.2906,DFO
+2012  ,0.0,Danville Kentuck Road Plant ,36.6533,-79.2906,DFO
+2015  ,0.0,Danville Kentuck Road Plant ,36.6533,-79.2906,DFO
+2016  ,0.0,Danville Kentuck Road Plant ,36.6533,-79.2906,DFO
+2017  ,0.0,Danville Kentuck Road Plant ,36.6533,-79.2906,DFO
+2018  ,0.0,Danville Kentuck Road Plant ,36.6533,-79.2906,DFO
+2006  ,0.0,Danville Westover Plant ,36.6114,-79.4631,DFO
+2007  ,16.659,Danville Westover Plant ,36.6114,-79.4631,DFO
+2008  ,5.0,Danville Westover Plant ,36.6114,-79.4631,DFO
+2009  ,12.0,Danville Westover Plant ,36.6114,-79.4631,DFO
+2010  ,21.0,Danville Westover Plant ,36.6114,-79.4631,DFO
+2011  ,2.0,Danville Westover Plant ,36.6114,-79.4631,DFO
+2012  ,0.0,Danville Westover Plant ,36.6114,-79.4631,DFO
+2015  ,0.0,Danville Westover Plant ,36.6114,-79.4631,DFO
+2016  ,0.0,Danville Westover Plant ,36.6114,-79.4631,DFO
+2017  ,75.0,Danville Westover Plant ,36.6114,-79.4631,DFO
+2018  ,126.0,Danville Westover Plant ,36.6114,-79.4631,DFO
+2007  ,730.0,Electric Avenue Facility ,38.28,-77.59,DFO
+2008  ,413.0,Electric Avenue Facility ,38.28,-77.59,DFO
+2009  ,336.0,Electric Avenue Facility ,38.28,-77.59,DFO
+2010  ,131.0,Electric Avenue Facility ,38.28,-77.59,DFO
+2011  ,63.0,Electric Avenue Facility ,38.28,-77.59,DFO
+2012  ,139.0,Electric Avenue Facility ,38.28,-77.59,DFO
+2013  ,86.0,Electric Avenue Facility ,38.28,-77.59,DFO
+2014  ,91.0,Electric Avenue Facility ,38.28,-77.59,DFO
+2015  ,144.0,Electric Avenue Facility ,38.28,-77.59,DFO
+2016  ,50.0,Electric Avenue Facility ,38.28,-77.59,DFO
+2017  ,29.0,Electric Avenue Facility ,38.28,-77.59,DFO
+2018  ,120.0,Electric Avenue Facility ,38.28,-77.59,DFO
+2007  ,129.0,Water Treatment Plant Generators ,38.760695,-77.62089,DFO
+2008  ,97.0,Water Treatment Plant Generators ,38.760695,-77.62089,DFO
+2009  ,40.0,Water Treatment Plant Generators ,38.760695,-77.62089,DFO
+2010  ,29.0,Water Treatment Plant Generators ,38.760695,-77.62089,DFO
+2011  ,28.0,Water Treatment Plant Generators ,38.760695,-77.62089,DFO
+2012  ,8.0,Water Treatment Plant Generators ,38.760695,-77.62089,DFO
+2013  ,18.0,Water Treatment Plant Generators ,38.760695,-77.62089,DFO
+2014  ,24.0,Water Treatment Plant Generators ,38.760695,-77.62089,DFO
+2015  ,43.0,Water Treatment Plant Generators ,38.760695,-77.62089,DFO
+2016  ,5.0,Water Treatment Plant Generators ,38.760695,-77.62089,DFO
+2017  ,13.0,Water Treatment Plant Generators ,38.760695,-77.62089,DFO
+2018  ,4.0,Water Treatment Plant Generators ,38.760695,-77.62089,DFO
+2001  ,41861.582,Gordonsville Energy LP ,38.124688,-78.203543,DFO
+2002  ,40984.0,Gordonsville Energy LP ,38.124688,-78.203543,DFO
+2003  ,127992.0,Gordonsville Energy LP ,38.124688,-78.203543,DFO
+2004  ,38642.0,Gordonsville Energy LP ,38.124688,-78.203543,DFO
+2005  ,14751.0,Gordonsville Energy LP ,38.124688,-78.203543,DFO
+2006  ,1064.0,Gordonsville Energy LP ,38.124688,-78.203543,DFO
+2007  ,21863.258,Gordonsville Energy LP ,38.124688,-78.203543,DFO
+2008  ,4328.418,Gordonsville Energy LP ,38.124688,-78.203543,DFO
+2009  ,20077.611,Gordonsville Energy LP ,38.124688,-78.203543,DFO
+2010  ,750.277,Gordonsville Energy LP ,38.124688,-78.203543,DFO
+2011  ,0.0,Gordonsville Energy LP ,38.124688,-78.203543,DFO
+2012  ,0.0,Gordonsville Energy LP ,38.124688,-78.203543,DFO
+2013  ,0.0,Gordonsville Energy LP ,38.124688,-78.203543,DFO
+2014  ,26502.537,Gordonsville Energy LP ,38.124688,-78.203543,DFO
+2015  ,35676.246,Gordonsville Energy LP ,38.124688,-78.203543,DFO
+2016  ,2543.481,Gordonsville Energy LP ,38.124688,-78.203543,DFO
+2017  ,1299.572,Gordonsville Energy LP ,38.124688,-78.203543,DFO
+2018  ,25470.294,Gordonsville Energy LP ,38.124688,-78.203543,DFO
+2001  ,126747.699,Gordonsville Energy LP ,38.124688,-78.203543,NG
+2002  ,151431.0,Gordonsville Energy LP ,38.124688,-78.203543,NG
+2003  ,35352.0,Gordonsville Energy LP ,38.124688,-78.203543,NG
+2004  ,262326.0,Gordonsville Energy LP ,38.124688,-78.203543,NG
+2005  ,427758.0,Gordonsville Energy LP ,38.124688,-78.203543,NG
+2006  ,284942.0,Gordonsville Energy LP ,38.124688,-78.203543,NG
+2007  ,421533.742,Gordonsville Energy LP ,38.124688,-78.203543,NG
+2008  ,341769.582,Gordonsville Energy LP ,38.124688,-78.203543,NG
+2009  ,539321.389,Gordonsville Energy LP ,38.124688,-78.203543,NG
+2010  ,647839.723,Gordonsville Energy LP ,38.124688,-78.203543,NG
+2011  ,761846.0,Gordonsville Energy LP ,38.124688,-78.203543,NG
+2012  ,1288917.0,Gordonsville Energy LP ,38.124688,-78.203543,NG
+2013  ,917925.0,Gordonsville Energy LP ,38.124688,-78.203543,NG
+2014  ,604442.463,Gordonsville Energy LP ,38.124688,-78.203543,NG
+2015  ,1114347.754,Gordonsville Energy LP ,38.124688,-78.203543,NG
+2016  ,916501.519,Gordonsville Energy LP ,38.124688,-78.203543,NG
+2017  ,225427.428,Gordonsville Energy LP ,38.124688,-78.203543,NG
+2018  ,790181.706,Gordonsville Energy LP ,38.124688,-78.203543,NG
+2009  ,8841.0,Ameresco Stafford ,38.384167,-77.413056,LFG
+2010  ,15193.0,Ameresco Stafford ,38.384167,-77.413056,LFG
+2011  ,12727.0,Ameresco Stafford ,38.384167,-77.413056,LFG
+2012  ,12444.0,Ameresco Stafford ,38.384167,-77.413056,LFG
+2013  ,6578.0,Ameresco Stafford ,38.384167,-77.413056,LFG
+2014  ,8628.0,Ameresco Stafford ,38.384167,-77.413056,LFG
+2015  ,9122.0,Ameresco Stafford ,38.384167,-77.413056,LFG
+2016  ,8809.0,Ameresco Stafford ,38.384167,-77.413056,LFG
+2017  ,10238.0,Ameresco Stafford ,38.384167,-77.413056,LFG
+2018  ,10959.0,Ameresco Stafford ,38.384167,-77.413056,LFG
+2002  ,120489.0,Commonwealth Chesapeake ,37.9892,-75.54,DFO
+2003  ,215614.0,Commonwealth Chesapeake ,37.9892,-75.54,DFO
+2004  ,140949.0,Commonwealth Chesapeake ,37.9892,-75.54,DFO
+2005  ,100555.0,Commonwealth Chesapeake ,37.9892,-75.54,DFO
+2006  ,41647.0,Commonwealth Chesapeake ,37.9892,-75.54,DFO
+2007  ,46414.0,Commonwealth Chesapeake ,37.9892,-75.54,DFO
+2008  ,37518.0,Commonwealth Chesapeake ,37.9892,-75.54,DFO
+2009  ,21424.0,Commonwealth Chesapeake ,37.9892,-75.54,DFO
+2010  ,52915.0,Commonwealth Chesapeake ,37.9892,-75.54,DFO
+2011  ,31370.0,Commonwealth Chesapeake ,37.9892,-75.54,DFO
+2012  ,75457.0,Commonwealth Chesapeake ,37.9892,-75.54,DFO
+2013  ,41403.0,Commonwealth Chesapeake ,37.9892,-75.54,DFO
+2014  ,155228.0,Commonwealth Chesapeake ,37.9892,-75.54,DFO
+2015  ,134058.0,Commonwealth Chesapeake ,37.9892,-75.54,DFO
+2016  ,100476.0,Commonwealth Chesapeake ,37.9892,-75.54,DFO
+2017  ,72131.0,Commonwealth Chesapeake ,37.9892,-75.54,DFO
+2018  ,104503.0,Commonwealth Chesapeake ,37.9892,-75.54,DFO
+2019  ,13750.0,Commonwealth Chesapeake ,37.9892,-75.54,DFO
+2018  ,6017.0,Hollyfield ,37.672005,-77.170439,SUN
+2001  ,2209.0,Park 500 Philip Morris USA ,37.3389,-77.2806,DFO
+2004  ,178.45438,Park 500 Philip Morris USA ,37.3389,-77.2806,DFO
+2005  ,193.49085,Park 500 Philip Morris USA ,37.3389,-77.2806,DFO
+2006  ,178.54285,Park 500 Philip Morris USA ,37.3389,-77.2806,DFO
+2007  ,0.0,Park 500 Philip Morris USA ,37.3389,-77.2806,DFO
+2008  ,0.0,Park 500 Philip Morris USA ,37.3389,-77.2806,DFO
+2009  ,0.0,Park 500 Philip Morris USA ,37.3389,-77.2806,DFO
+2010  ,0.0,Park 500 Philip Morris USA ,37.3389,-77.2806,DFO
+2011  ,0.0,Park 500 Philip Morris USA ,37.3389,-77.2806,DFO
+2012  ,0.0,Park 500 Philip Morris USA ,37.3389,-77.2806,DFO
+2013  ,117.613,Park 500 Philip Morris USA ,37.3389,-77.2806,DFO
+2014  ,34.873,Park 500 Philip Morris USA ,37.3389,-77.2806,DFO
+2015  ,0.0,Park 500 Philip Morris USA ,37.3389,-77.2806,DFO
+2016  ,0.172,Park 500 Philip Morris USA ,37.3389,-77.2806,DFO
+2017  ,0.0,Park 500 Philip Morris USA ,37.3389,-77.2806,DFO
+2018  ,0.0,Park 500 Philip Morris USA ,37.3389,-77.2806,DFO
+2001  ,101052.999,Park 500 Philip Morris USA ,37.3389,-77.2806,BIT
+2002  ,93491.0,Park 500 Philip Morris USA ,37.3389,-77.2806,BIT
+2004  ,87192.52062,Park 500 Philip Morris USA ,37.3389,-77.2806,BIT
+2005  ,74804.97715,Park 500 Philip Morris USA ,37.3389,-77.2806,BIT
+2006  ,66758.20915,Park 500 Philip Morris USA ,37.3389,-77.2806,BIT
+2007  ,62863.159,Park 500 Philip Morris USA ,37.3389,-77.2806,BIT
+2008  ,57708.268,Park 500 Philip Morris USA ,37.3389,-77.2806,BIT
+2009  ,28879.101,Park 500 Philip Morris USA ,37.3389,-77.2806,BIT
+2010  ,31582.348,Park 500 Philip Morris USA ,37.3389,-77.2806,BIT
+2011  ,39617.178,Park 500 Philip Morris USA ,37.3389,-77.2806,BIT
+2012  ,45739.09,Park 500 Philip Morris USA ,37.3389,-77.2806,BIT
+2013  ,37707.644,Park 500 Philip Morris USA ,37.3389,-77.2806,BIT
+2014  ,8500.274,Park 500 Philip Morris USA ,37.3389,-77.2806,BIT
+2015  ,0.0,Park 500 Philip Morris USA ,37.3389,-77.2806,BIT
+2016  ,0.0,Park 500 Philip Morris USA ,37.3389,-77.2806,BIT
+2017  ,0.0,Park 500 Philip Morris USA ,37.3389,-77.2806,BIT
+2018  ,0.0,Park 500 Philip Morris USA ,37.3389,-77.2806,BIT
+2014  ,0.0,Park 500 Philip Morris USA ,37.3389,-77.2806,NG
+2015  ,31877.159,Park 500 Philip Morris USA ,37.3389,-77.2806,NG
+2016  ,19378.683,Park 500 Philip Morris USA ,37.3389,-77.2806,NG
+2017  ,22071.535,Park 500 Philip Morris USA ,37.3389,-77.2806,NG
+2018  ,23494.701,Park 500 Philip Morris USA ,37.3389,-77.2806,NG
+2001  ,1931.002,Dominion/Lo Mar ,38.7443,-77.4974,DFO
+2002  ,2375.0,Dominion/Lo Mar ,38.7443,-77.4974,DFO
+2003  ,2180.001,Dominion/Lo Mar ,38.7443,-77.4974,DFO
+2004  ,1860.005,Dominion/Lo Mar ,38.7443,-77.4974,DFO
+2005  ,2158.999,Dominion/Lo Mar ,38.7443,-77.4974,DFO
+2006  ,1970.0,Dominion/Lo Mar ,38.7443,-77.4974,DFO
+2007  ,1776.003,Dominion/Lo Mar ,38.7443,-77.4974,DFO
+2008  ,1154.0,Dominion/Lo Mar ,38.7443,-77.4974,DFO
+2009  ,956.0,Dominion/Lo Mar ,38.7443,-77.4974,DFO
+2010  ,408.0,Dominion/Lo Mar ,38.7443,-77.4974,DFO
+2011  ,128.0,Dominion/Lo Mar ,38.7443,-77.4974,DFO
+2012  ,87.0,Dominion/Lo Mar ,38.7443,-77.4974,DFO
+2013  ,180.0,Dominion/Lo Mar ,38.7443,-77.4974,DFO
+2014  ,149.0,Dominion/Lo Mar ,38.7443,-77.4974,DFO
+2015  ,200.0,Dominion/Lo Mar ,38.7443,-77.4974,DFO
+2016  ,80.0,Dominion/Lo Mar ,38.7443,-77.4974,DFO
+2017  ,96.0,Dominion/Lo Mar ,38.7443,-77.4974,DFO
+2018  ,172.0,Dominion/Lo Mar ,38.7443,-77.4974,DFO
+2001  ,291.0,Gateway Gen ,38.725278,-77.509722,DFO
+2002  ,345.001,Gateway Gen ,38.725278,-77.509722,DFO
+2003  ,312.002,Gateway Gen ,38.725278,-77.509722,DFO
+2004  ,303.0,Gateway Gen ,38.725278,-77.509722,DFO
+2005  ,254.001,Gateway Gen ,38.725278,-77.509722,DFO
+2006  ,157.002,Gateway Gen ,38.725278,-77.509722,DFO
+2007  ,229.0,Gateway Gen ,38.725278,-77.509722,DFO
+2008  ,131.0,Gateway Gen ,38.725278,-77.509722,DFO
+2009  ,180.0,Gateway Gen ,38.725278,-77.509722,DFO
+2010  ,106.0,Gateway Gen ,38.725278,-77.509722,DFO
+2011  ,18.0,Gateway Gen ,38.725278,-77.509722,DFO
+2012  ,18.0,Gateway Gen ,38.725278,-77.509722,DFO
+2013  ,44.0,Gateway Gen ,38.725278,-77.509722,DFO
+2014  ,60.0,Gateway Gen ,38.725278,-77.509722,DFO
+2015  ,81.0,Gateway Gen ,38.725278,-77.509722,DFO
+2016  ,21.0,Gateway Gen ,38.725278,-77.509722,DFO
+2017  ,19.0,Gateway Gen ,38.725278,-77.509722,DFO
+2018  ,37.0,Gateway Gen ,38.725278,-77.509722,DFO
+2017  ,3291609.0,Stonewall ,39.058056,-77.545,NG
+2018  ,4868251.0,Stonewall ,39.058056,-77.545,NG
+2019  ,3957679.0,Stonewall ,39.058056,-77.545,NG
+2001  ,77082.0,Hopewell Mill ,37.2914,-77.2816,BIT
+2002  ,72480.248,Hopewell Mill ,37.2914,-77.2816,BIT
+2003  ,80741.001,Hopewell Mill ,37.2914,-77.2816,BIT
+2004  ,56695.63873,Hopewell Mill ,37.2914,-77.2816,BIT
+2005  ,57056.58108,Hopewell Mill ,37.2914,-77.2816,BIT
+2006  ,66274.0596,Hopewell Mill ,37.2914,-77.2816,BIT
+2007  ,65864.042,Hopewell Mill ,37.2914,-77.2816,BIT
+2008  ,81228.116,Hopewell Mill ,37.2914,-77.2816,BIT
+2009  ,72213.174,Hopewell Mill ,37.2914,-77.2816,BIT
+2010  ,77884.914,Hopewell Mill ,37.2914,-77.2816,BIT
+2011  ,58103.731,Hopewell Mill ,37.2914,-77.2816,BIT
+2012  ,51596.068,Hopewell Mill ,37.2914,-77.2816,BIT
+2013  ,25920.226,Hopewell Mill ,37.2914,-77.2816,BIT
+2014  ,34573.272,Hopewell Mill ,37.2914,-77.2816,BIT
+2015  ,19589.525,Hopewell Mill ,37.2914,-77.2816,BIT
+2016  ,15727.548,Hopewell Mill ,37.2914,-77.2816,BIT
+2017  ,4504.116,Hopewell Mill ,37.2914,-77.2816,BIT
+2018  ,5306.617,Hopewell Mill ,37.2914,-77.2816,BIT
+2019  ,4603.365,Hopewell Mill ,37.2914,-77.2816,BIT
+2001  ,92933.0,Hopewell Mill ,37.2914,-77.2816,WDS
+2002  ,80373.223,Hopewell Mill ,37.2914,-77.2816,WDS
+2003  ,81471.001,Hopewell Mill ,37.2914,-77.2816,WDS
+2004  ,89096.77848,Hopewell Mill ,37.2914,-77.2816,WDS
+2005  ,82601.68935,Hopewell Mill ,37.2914,-77.2816,WDS
+2006  ,74775.58393,Hopewell Mill ,37.2914,-77.2816,WDS
+2007  ,76257.759,Hopewell Mill ,37.2914,-77.2816,WDS
+2008  ,100316.211,Hopewell Mill ,37.2914,-77.2816,WDS
+2009  ,99474.352,Hopewell Mill ,37.2914,-77.2816,WDS
+2010  ,93750.779,Hopewell Mill ,37.2914,-77.2816,WDS
+2011  ,72494.197,Hopewell Mill ,37.2914,-77.2816,WDS
+2012  ,83559.373,Hopewell Mill ,37.2914,-77.2816,WDS
+2013  ,83294.67,Hopewell Mill ,37.2914,-77.2816,WDS
+2014  ,67469.737,Hopewell Mill ,37.2914,-77.2816,WDS
+2015  ,70043.737,Hopewell Mill ,37.2914,-77.2816,WDS
+2016  ,72950.999,Hopewell Mill ,37.2914,-77.2816,WDS
+2017  ,92400.852,Hopewell Mill ,37.2914,-77.2816,WDS
+2018  ,79774.393,Hopewell Mill ,37.2914,-77.2816,WDS
+2019  ,73248.68,Hopewell Mill ,37.2914,-77.2816,WDS
+2001  ,181253.0,Hopewell Mill ,37.2914,-77.2816,BLQ
+2002  ,158538.101,Hopewell Mill ,37.2914,-77.2816,BLQ
+2003  ,149658.0,Hopewell Mill ,37.2914,-77.2816,BLQ
+2004  ,173050.69812,Hopewell Mill ,37.2914,-77.2816,BLQ
+2005  ,162798.62136,Hopewell Mill ,37.2914,-77.2816,BLQ
+2006  ,175603.81245,Hopewell Mill ,37.2914,-77.2816,BLQ
+2007  ,173239.745,Hopewell Mill ,37.2914,-77.2816,BLQ
+2008  ,95354.556,Hopewell Mill ,37.2914,-77.2816,BLQ
+2009  ,92044.127,Hopewell Mill ,37.2914,-77.2816,BLQ
+2010  ,76350.887,Hopewell Mill ,37.2914,-77.2816,BLQ
+2011  ,147751.825,Hopewell Mill ,37.2914,-77.2816,BLQ
+2012  ,161116.919,Hopewell Mill ,37.2914,-77.2816,BLQ
+2013  ,139206.709,Hopewell Mill ,37.2914,-77.2816,BLQ
+2014  ,138518.499,Hopewell Mill ,37.2914,-77.2816,BLQ
+2015  ,158956.758,Hopewell Mill ,37.2914,-77.2816,BLQ
+2016  ,144177.101,Hopewell Mill ,37.2914,-77.2816,BLQ
+2017  ,157823.934,Hopewell Mill ,37.2914,-77.2816,BLQ
+2018  ,145762.165,Hopewell Mill ,37.2914,-77.2816,BLQ
+2019  ,124496.097,Hopewell Mill ,37.2914,-77.2816,BLQ
+2013  ,23371.592,Hopewell Mill ,37.2914,-77.2816,NG
+2014  ,21061.445,Hopewell Mill ,37.2914,-77.2816,NG
+2015  ,41072.997,Hopewell Mill ,37.2914,-77.2816,NG
+2016  ,49570.071,Hopewell Mill ,37.2914,-77.2816,NG
+2017  ,50686.291,Hopewell Mill ,37.2914,-77.2816,NG
+2018  ,56513.749,Hopewell Mill ,37.2914,-77.2816,NG
+2019  ,59733.858,Hopewell Mill ,37.2914,-77.2816,NG
+2001  ,6106.0,Hopewell Mill ,37.2914,-77.2816,RFO
+2002  ,6175.896,Hopewell Mill ,37.2914,-77.2816,RFO
+2003  ,6414.999,Hopewell Mill ,37.2914,-77.2816,RFO
+2004  ,2562.17661,Hopewell Mill ,37.2914,-77.2816,RFO
+2005  ,2776.07601,Hopewell Mill ,37.2914,-77.2816,RFO
+2006  ,1642.9439,Hopewell Mill ,37.2914,-77.2816,RFO
+2007  ,2724.7,Hopewell Mill ,37.2914,-77.2816,RFO
+2008  ,3219.835,Hopewell Mill ,37.2914,-77.2816,RFO
+2009  ,4852.152,Hopewell Mill ,37.2914,-77.2816,RFO
+2010  ,4727.209,Hopewell Mill ,37.2914,-77.2816,RFO
+2011  ,2206.282,Hopewell Mill ,37.2914,-77.2816,RFO
+2012  ,2983.75,Hopewell Mill ,37.2914,-77.2816,RFO
+2013  ,4433.423,Hopewell Mill ,37.2914,-77.2816,RFO
+2014  ,468.047,Hopewell Mill ,37.2914,-77.2816,RFO
+2015  ,231.983,Hopewell Mill ,37.2914,-77.2816,RFO
+2016  ,219.281,Hopewell Mill ,37.2914,-77.2816,RFO
+2017  ,77.807,Hopewell Mill ,37.2914,-77.2816,RFO
+2018  ,140.076,Hopewell Mill ,37.2914,-77.2816,RFO
+2019  ,0.0,Hopewell Mill ,37.2914,-77.2816,RFO
+2017  ,3426.0,DG AMP Solar Front Royal ,38.929,-78.18,SUN
+2018  ,4565.0,DG AMP Solar Front Royal ,38.929,-78.18,SUN
+2016  ,8526840.0,Warren County ,38.971667,-78.177222,NG
+2017  ,8896717.0,Warren County ,38.971667,-78.177222,NG
+2018  ,8203122.0,Warren County ,38.971667,-78.177222,NG
+2019  ,8769572.0,Warren County ,38.971667,-78.177222,NG
+2001  ,413517.732,James River Genco LLC ,37.2939,-77.2697,BIT
+2002  ,441102.283,James River Genco LLC ,37.2939,-77.2697,BIT
+2003  ,548066.06,James River Genco LLC ,37.2939,-77.2697,BIT
+2004  ,649156.078,James River Genco LLC ,37.2939,-77.2697,BIT
+2005  ,662964.234,James River Genco LLC ,37.2939,-77.2697,BIT
+2006  ,623298.081,James River Genco LLC ,37.2939,-77.2697,BIT
+2007  ,580233.0,James River Genco LLC ,37.2939,-77.2697,BIT
+2008  ,567904.0,James River Genco LLC ,37.2939,-77.2697,BIT
+2009  ,165847.0,James River Genco LLC ,37.2939,-77.2697,BIT
+2010  ,261371.0,James River Genco LLC ,37.2939,-77.2697,BIT
+2011  ,110695.0,James River Genco LLC ,37.2939,-77.2697,BIT
+2012  ,35556.0,James River Genco LLC ,37.2939,-77.2697,BIT
+2013  ,47360.0,James River Genco LLC ,37.2939,-77.2697,BIT
+2014  ,98623.0,James River Genco LLC ,37.2939,-77.2697,BIT
+2015  ,68146.0,James River Genco LLC ,37.2939,-77.2697,BIT
+2016  ,38320.0,James River Genco LLC ,37.2939,-77.2697,BIT
+2017  ,34839.0,James River Genco LLC ,37.2939,-77.2697,BIT
+2018  ,44177.0,James River Genco LLC ,37.2939,-77.2697,BIT
+2004  ,5859.0,Tenaska Virginia Generating Station ,37.8667,-78.3813,DFO
+2005  ,0.0,Tenaska Virginia Generating Station ,37.8667,-78.3813,DFO
+2006  ,93.0,Tenaska Virginia Generating Station ,37.8667,-78.3813,DFO
+2007  ,132.446,Tenaska Virginia Generating Station ,37.8667,-78.3813,DFO
+2008  ,0.0,Tenaska Virginia Generating Station ,37.8667,-78.3813,DFO
+2009  ,0.0,Tenaska Virginia Generating Station ,37.8667,-78.3813,DFO
+2010  ,0.0,Tenaska Virginia Generating Station ,37.8667,-78.3813,DFO
+2011  ,0.0,Tenaska Virginia Generating Station ,37.8667,-78.3813,DFO
+2012  ,0.0,Tenaska Virginia Generating Station ,37.8667,-78.3813,DFO
+2013  ,0.0,Tenaska Virginia Generating Station ,37.8667,-78.3813,DFO
+2014  ,0.0,Tenaska Virginia Generating Station ,37.8667,-78.3813,DFO
+2015  ,616.643,Tenaska Virginia Generating Station ,37.8667,-78.3813,DFO
+2016  ,0.0,Tenaska Virginia Generating Station ,37.8667,-78.3813,DFO
+2017  ,0.0,Tenaska Virginia Generating Station ,37.8667,-78.3813,DFO
+2018  ,0.0,Tenaska Virginia Generating Station ,37.8667,-78.3813,DFO
+2019  ,5634.068,Tenaska Virginia Generating Station ,37.8667,-78.3813,DFO
+2004  ,311288.0,Tenaska Virginia Generating Station ,37.8667,-78.3813,NG
+2005  ,1113394.0,Tenaska Virginia Generating Station ,37.8667,-78.3813,NG
+2006  ,1169284.0,Tenaska Virginia Generating Station ,37.8667,-78.3813,NG
+2007  ,2051158.554,Tenaska Virginia Generating Station ,37.8667,-78.3813,NG
+2008  ,1494569.0,Tenaska Virginia Generating Station ,37.8667,-78.3813,NG
+2009  ,2065939.0,Tenaska Virginia Generating Station ,37.8667,-78.3813,NG
+2010  ,3579646.0,Tenaska Virginia Generating Station ,37.8667,-78.3813,NG
+2011  ,4332537.0,Tenaska Virginia Generating Station ,37.8667,-78.3813,NG
+2012  ,5349183.0,Tenaska Virginia Generating Station ,37.8667,-78.3813,NG
+2013  ,4482557.0,Tenaska Virginia Generating Station ,37.8667,-78.3813,NG
+2014  ,3701880.0,Tenaska Virginia Generating Station ,37.8667,-78.3813,NG
+2015  ,4999903.357,Tenaska Virginia Generating Station ,37.8667,-78.3813,NG
+2016  ,5207204.0,Tenaska Virginia Generating Station ,37.8667,-78.3813,NG
+2017  ,6038534.0,Tenaska Virginia Generating Station ,37.8667,-78.3813,NG
+2018  ,5771750.0,Tenaska Virginia Generating Station ,37.8667,-78.3813,NG
+2019  ,5932395.932,Tenaska Virginia Generating Station ,37.8667,-78.3813,NG
+2002  ,720.0,Pretlow ,36.659167,-76.926667,DFO
+2003  ,499.001,Pretlow ,36.659167,-76.926667,DFO
+2004  ,527.244,Pretlow ,36.659167,-76.926667,DFO
+2005  ,547.0,Pretlow ,36.659167,-76.926667,DFO
+2006  ,425.999,Pretlow ,36.659167,-76.926667,DFO
+2007  ,393.999,Pretlow ,36.659167,-76.926667,DFO
+2008  ,281.26,Pretlow ,36.659167,-76.926667,DFO
+2009  ,0.0,Pretlow ,36.659167,-76.926667,DFO
+2010  ,105.0,Pretlow ,36.659167,-76.926667,DFO
+2011  ,46.0,Pretlow ,36.659167,-76.926667,DFO
+2012  ,28.0,Pretlow ,36.659167,-76.926667,DFO
+2013  ,35.0,Pretlow ,36.659167,-76.926667,DFO
+2014  ,86.0,Pretlow ,36.659167,-76.926667,DFO
+2015  ,102.0,Pretlow ,36.659167,-76.926667,DFO
+2016  ,31.0,Pretlow ,36.659167,-76.926667,DFO
+2017  ,13.0,Pretlow ,36.659167,-76.926667,DFO
+2018  ,29.0,Pretlow ,36.659167,-76.926667,DFO
+2002  ,513.999,Downtown ,36.680278,-76.921944,DFO
+2003  ,509.0,Downtown ,36.680278,-76.921944,DFO
+2004  ,553.704,Downtown ,36.680278,-76.921944,DFO
+2005  ,518.999,Downtown ,36.680278,-76.921944,DFO
+2006  ,392.004,Downtown ,36.680278,-76.921944,DFO
+2007  ,393.999,Downtown ,36.680278,-76.921944,DFO
+2008  ,318.0,Downtown ,36.680278,-76.921944,DFO
+2009  ,0.0,Downtown ,36.680278,-76.921944,DFO
+2010  ,137.0,Downtown ,36.680278,-76.921944,DFO
+2011  ,34.0,Downtown ,36.680278,-76.921944,DFO
+2012  ,30.0,Downtown ,36.680278,-76.921944,DFO
+2013  ,38.0,Downtown ,36.680278,-76.921944,DFO
+2014  ,84.0,Downtown ,36.680278,-76.921944,DFO
+2015  ,105.0,Downtown ,36.680278,-76.921944,DFO
+2016  ,32.0,Downtown ,36.680278,-76.921944,DFO
+2017  ,21.0,Downtown ,36.680278,-76.921944,DFO
+2018  ,48.0,Downtown ,36.680278,-76.921944,DFO
+2004  ,161.0,Marsh Run Generation Facility ,38.5283,-77.7681,DFO
+2005  ,34848.0,Marsh Run Generation Facility ,38.5283,-77.7681,DFO
+2006  ,3435.0,Marsh Run Generation Facility ,38.5283,-77.7681,DFO
+2007  ,39045.04,Marsh Run Generation Facility ,38.5283,-77.7681,DFO
+2008  ,26229.925,Marsh Run Generation Facility ,38.5283,-77.7681,DFO
+2009  ,13448.628,Marsh Run Generation Facility ,38.5283,-77.7681,DFO
+2010  ,10399.465,Marsh Run Generation Facility ,38.5283,-77.7681,DFO
+2011  ,8536.948,Marsh Run Generation Facility ,38.5283,-77.7681,DFO
+2012  ,0.0,Marsh Run Generation Facility ,38.5283,-77.7681,DFO
+2013  ,606.18,Marsh Run Generation Facility ,38.5283,-77.7681,DFO
+2014  ,63427.003,Marsh Run Generation Facility ,38.5283,-77.7681,DFO
+2015  ,20095.257,Marsh Run Generation Facility ,38.5283,-77.7681,DFO
+2016  ,11413.884,Marsh Run Generation Facility ,38.5283,-77.7681,DFO
+2017  ,9911.639,Marsh Run Generation Facility ,38.5283,-77.7681,DFO
+2018  ,27026.816,Marsh Run Generation Facility ,38.5283,-77.7681,DFO
+2004  ,13491.0,Marsh Run Generation Facility ,38.5283,-77.7681,NG
+2005  ,204478.0,Marsh Run Generation Facility ,38.5283,-77.7681,NG
+2006  ,218195.0,Marsh Run Generation Facility ,38.5283,-77.7681,NG
+2007  ,231583.96,Marsh Run Generation Facility ,38.5283,-77.7681,NG
+2008  ,114414.075,Marsh Run Generation Facility ,38.5283,-77.7681,NG
+2009  ,79309.372,Marsh Run Generation Facility ,38.5283,-77.7681,NG
+2010  ,601980.535,Marsh Run Generation Facility ,38.5283,-77.7681,NG
+2011  ,138255.052,Marsh Run Generation Facility ,38.5283,-77.7681,NG
+2012  ,115364.0,Marsh Run Generation Facility ,38.5283,-77.7681,NG
+2013  ,213653.82,Marsh Run Generation Facility ,38.5283,-77.7681,NG
+2014  ,326015.997,Marsh Run Generation Facility ,38.5283,-77.7681,NG
+2015  ,661191.743,Marsh Run Generation Facility ,38.5283,-77.7681,NG
+2016  ,535748.116,Marsh Run Generation Facility ,38.5283,-77.7681,NG
+2017  ,454754.361,Marsh Run Generation Facility ,38.5283,-77.7681,NG
+2018  ,537037.184,Marsh Run Generation Facility ,38.5283,-77.7681,NG
+2003  ,12121.0,Louisa Generation Facility ,38.1181,-78.2139,DFO
+2004  ,27342.0,Louisa Generation Facility ,38.1181,-78.2139,DFO
+2005  ,28560.0,Louisa Generation Facility ,38.1181,-78.2139,DFO
+2006  ,1581.0,Louisa Generation Facility ,38.1181,-78.2139,DFO
+2007  ,15992.177,Louisa Generation Facility ,38.1181,-78.2139,DFO
+2008  ,20669.415,Louisa Generation Facility ,38.1181,-78.2139,DFO
+2009  ,8378.875,Louisa Generation Facility ,38.1181,-78.2139,DFO
+2010  ,13823.459,Louisa Generation Facility ,38.1181,-78.2139,DFO
+2011  ,6837.899,Louisa Generation Facility ,38.1181,-78.2139,DFO
+2012  ,2.358,Louisa Generation Facility ,38.1181,-78.2139,DFO
+2013  ,582.333,Louisa Generation Facility ,38.1181,-78.2139,DFO
+2014  ,57480.89,Louisa Generation Facility ,38.1181,-78.2139,DFO
+2015  ,19741.452,Louisa Generation Facility ,38.1181,-78.2139,DFO
+2016  ,21429.306,Louisa Generation Facility ,38.1181,-78.2139,DFO
+2017  ,13269.43,Louisa Generation Facility ,38.1181,-78.2139,DFO
+2018  ,22765.875,Louisa Generation Facility ,38.1181,-78.2139,DFO
+2003  ,120153.0,Louisa Generation Facility ,38.1181,-78.2139,NG
+2004  ,179199.0,Louisa Generation Facility ,38.1181,-78.2139,NG
+2005  ,165682.0,Louisa Generation Facility ,38.1181,-78.2139,NG
+2006  ,230218.0,Louisa Generation Facility ,38.1181,-78.2139,NG
+2007  ,210554.823,Louisa Generation Facility ,38.1181,-78.2139,NG
+2008  ,123248.585,Louisa Generation Facility ,38.1181,-78.2139,NG
+2009  ,65171.125,Louisa Generation Facility ,38.1181,-78.2139,NG
+2010  ,357820.541,Louisa Generation Facility ,38.1181,-78.2139,NG
+2011  ,102391.101,Louisa Generation Facility ,38.1181,-78.2139,NG
+2012  ,70905.642,Louisa Generation Facility ,38.1181,-78.2139,NG
+2013  ,124567.667,Louisa Generation Facility ,38.1181,-78.2139,NG
+2014  ,129469.11,Louisa Generation Facility ,38.1181,-78.2139,NG
+2015  ,374966.548,Louisa Generation Facility ,38.1181,-78.2139,NG
+2016  ,339121.694,Louisa Generation Facility ,38.1181,-78.2139,NG
+2017  ,241153.57,Louisa Generation Facility ,38.1181,-78.2139,NG
+2018  ,514459.125,Louisa Generation Facility ,38.1181,-78.2139,NG
+2001  ,1863.0,Remington ,38.5442,-77.7714,DFO
+2002  ,3639.0,Remington ,38.5442,-77.7714,DFO
+2003  ,22078.0,Remington ,38.5442,-77.7714,DFO
+2004  ,16696.0,Remington ,38.5442,-77.7714,DFO
+2005  ,28657.0,Remington ,38.5442,-77.7714,DFO
+2006  ,13756.0,Remington ,38.5442,-77.7714,DFO
+2007  ,24929.872,Remington ,38.5442,-77.7714,DFO
+2008  ,9200.834,Remington ,38.5442,-77.7714,DFO
+2009  ,38444.29,Remington ,38.5442,-77.7714,DFO
+2010  ,42921.875,Remington ,38.5442,-77.7714,DFO
+2011  ,21177.607,Remington ,38.5442,-77.7714,DFO
+2012  ,1519.949,Remington ,38.5442,-77.7714,DFO
+2013  ,3018.095,Remington ,38.5442,-77.7714,DFO
+2014  ,45936.898,Remington ,38.5442,-77.7714,DFO
+2015  ,20862.562,Remington ,38.5442,-77.7714,DFO
+2016  ,9445.829,Remington ,38.5442,-77.7714,DFO
+2017  ,11945.499,Remington ,38.5442,-77.7714,DFO
+2018  ,45200.743,Remington ,38.5442,-77.7714,DFO
+2001  ,77039.0,Remington ,38.5442,-77.7714,NG
+2002  ,189548.0,Remington ,38.5442,-77.7714,NG
+2003  ,66287.0,Remington ,38.5442,-77.7714,NG
+2004  ,88884.0,Remington ,38.5442,-77.7714,NG
+2005  ,102730.0,Remington ,38.5442,-77.7714,NG
+2006  ,102497.0,Remington ,38.5442,-77.7714,NG
+2007  ,154717.128,Remington ,38.5442,-77.7714,NG
+2008  ,215603.166,Remington ,38.5442,-77.7714,NG
+2009  ,223552.71,Remington ,38.5442,-77.7714,NG
+2010  ,403413.125,Remington ,38.5442,-77.7714,NG
+2011  ,258574.393,Remington ,38.5442,-77.7714,NG
+2012  ,298239.051,Remington ,38.5442,-77.7714,NG
+2013  ,592299.905,Remington ,38.5442,-77.7714,NG
+2014  ,402096.102,Remington ,38.5442,-77.7714,NG
+2015  ,869861.438,Remington ,38.5442,-77.7714,NG
+2016  ,657640.171,Remington ,38.5442,-77.7714,NG
+2017  ,497445.501,Remington ,38.5442,-77.7714,NG
+2018  ,909123.257,Remington ,38.5442,-77.7714,NG
+2004  ,10903.0,Ladysmith ,38.0722,-77.5133,DFO
+2005  ,27944.0,Ladysmith ,38.0722,-77.5133,DFO
+2006  ,6727.0,Ladysmith ,38.0722,-77.5133,DFO
+2007  ,21334.786,Ladysmith ,38.0722,-77.5133,DFO
+2008  ,14561.302,Ladysmith ,38.0722,-77.5133,DFO
+2009  ,37524.565,Ladysmith ,38.0722,-77.5133,DFO
+2010  ,57690.603,Ladysmith ,38.0722,-77.5133,DFO
+2011  ,2109.087,Ladysmith ,38.0722,-77.5133,DFO
+2012  ,701.492,Ladysmith ,38.0722,-77.5133,DFO
+2013  ,28748.35,Ladysmith ,38.0722,-77.5133,DFO
+2014  ,89335.753,Ladysmith ,38.0722,-77.5133,DFO
+2015  ,30877.065,Ladysmith ,38.0722,-77.5133,DFO
+2016  ,21301.274,Ladysmith ,38.0722,-77.5133,DFO
+2017  ,49245.924,Ladysmith ,38.0722,-77.5133,DFO
+2018  ,48597.445,Ladysmith ,38.0722,-77.5133,DFO
+2019  ,15154.27,Ladysmith ,38.0722,-77.5133,DFO
+2004  ,44510.0,Ladysmith ,38.0722,-77.5133,NG
+2005  ,104365.0,Ladysmith ,38.0722,-77.5133,NG
+2006  ,102036.0,Ladysmith ,38.0722,-77.5133,NG
+2007  ,185286.214,Ladysmith ,38.0722,-77.5133,NG
+2008  ,240955.698,Ladysmith ,38.0722,-77.5133,NG
+2009  ,286102.435,Ladysmith ,38.0722,-77.5133,NG
+2010  ,826628.397,Ladysmith ,38.0722,-77.5133,NG
+2011  ,400717.913,Ladysmith ,38.0722,-77.5133,NG
+2012  ,583314.508,Ladysmith ,38.0722,-77.5133,NG
+2013  ,757830.65,Ladysmith ,38.0722,-77.5133,NG
+2014  ,661794.247,Ladysmith ,38.0722,-77.5133,NG
+2015  ,414484.935,Ladysmith ,38.0722,-77.5133,NG
+2016  ,748558.726,Ladysmith ,38.0722,-77.5133,NG
+2017  ,524358.076,Ladysmith ,38.0722,-77.5133,NG
+2018  ,649629.555,Ladysmith ,38.0722,-77.5133,NG
+2019  ,640884.73,Ladysmith ,38.0722,-77.5133,NG
+2017  ,943.0,Oceana Solar ,36.789753,-76.051419,SUN
+2018  ,27425.0,Oceana Solar ,36.789753,-76.051419,SUN
+2007  ,454.0,Dean Drive Area Electric Generators ,38.7486,-77.4908,DFO
+2008  ,326.0,Dean Drive Area Electric Generators ,38.7486,-77.4908,DFO
+2009  ,251.0,Dean Drive Area Electric Generators ,38.7486,-77.4908,DFO
+2010  ,100.0,Dean Drive Area Electric Generators ,38.7486,-77.4908,DFO
+2011  ,31.0,Dean Drive Area Electric Generators ,38.7486,-77.4908,DFO
+2012  ,35.0,Dean Drive Area Electric Generators ,38.7486,-77.4908,DFO
+2013  ,48.0,Dean Drive Area Electric Generators ,38.7486,-77.4908,DFO
+2014  ,73.0,Dean Drive Area Electric Generators ,38.7486,-77.4908,DFO
+2015  ,102.0,Dean Drive Area Electric Generators ,38.7486,-77.4908,DFO
+2016  ,49.0,Dean Drive Area Electric Generators ,38.7486,-77.4908,DFO
+2017  ,42.0,Dean Drive Area Electric Generators ,38.7486,-77.4908,DFO
+2018  ,49.0,Dean Drive Area Electric Generators ,38.7486,-77.4908,DFO
+2010  ,40096.0,Waste Management King George LFGTE ,38.2747,-77.3081,LFG
+2011  ,74327.0,Waste Management King George LFGTE ,38.2747,-77.3081,LFG
+2012  ,80325.0,Waste Management King George LFGTE ,38.2747,-77.3081,LFG
+2013  ,84274.0,Waste Management King George LFGTE ,38.2747,-77.3081,LFG
+2014  ,90413.0,Waste Management King George LFGTE ,38.2747,-77.3081,LFG
+2015  ,87054.0,Waste Management King George LFGTE ,38.2747,-77.3081,LFG
+2016  ,86836.0,Waste Management King George LFGTE ,38.2747,-77.3081,LFG
+2017  ,83996.0,Waste Management King George LFGTE ,38.2747,-77.3081,LFG
+2018  ,83002.0,Waste Management King George LFGTE ,38.2747,-77.3081,LFG
+2019  ,74153.0,Waste Management King George LFGTE ,38.2747,-77.3081,LFG
+2009  ,13768.0,Waste Management Middle Peninsula LFGTE ,37.519714,-76.624506,LFG
+2010  ,49045.0,Waste Management Middle Peninsula LFGTE ,37.519714,-76.624506,LFG
+2011  ,43314.0,Waste Management Middle Peninsula LFGTE ,37.519714,-76.624506,LFG
+2012  ,49342.0,Waste Management Middle Peninsula LFGTE ,37.519714,-76.624506,LFG
+2013  ,46057.0,Waste Management Middle Peninsula LFGTE ,37.519714,-76.624506,LFG
+2014  ,48022.0,Waste Management Middle Peninsula LFGTE ,37.519714,-76.624506,LFG
+2015  ,50631.0,Waste Management Middle Peninsula LFGTE ,37.519714,-76.624506,LFG
+2016  ,49056.0,Waste Management Middle Peninsula LFGTE ,37.519714,-76.624506,LFG
+2017  ,47980.0,Waste Management Middle Peninsula LFGTE ,37.519714,-76.624506,LFG
+2018  ,51156.0,Waste Management Middle Peninsula LFGTE ,37.519714,-76.624506,LFG
+2001  ,27772.0,Buck Hydro ,36.808229,-80.938714,WAT
+2002  ,30027.0,Buck Hydro ,36.808229,-80.938714,WAT
+2003  ,48746.0,Buck Hydro ,36.808229,-80.938714,WAT
+2004  ,45853.002,Buck Hydro ,36.808229,-80.938714,WAT
+2005  ,44502.999,Buck Hydro ,36.808229,-80.938714,WAT
+2006  ,37602.0,Buck Hydro ,36.808229,-80.938714,WAT
+2007  ,29789.999,Buck Hydro ,36.808229,-80.938714,WAT
+2008  ,26419.0,Buck Hydro ,36.808229,-80.938714,WAT
+2009  ,40311.0,Buck Hydro ,36.808229,-80.938714,WAT
+2010  ,15951.0,Buck Hydro ,36.808229,-80.938714,WAT
+2011  ,37086.0,Buck Hydro ,36.808229,-80.938714,WAT
+2012  ,37566.0,Buck Hydro ,36.808229,-80.938714,WAT
+2013  ,14728.0,Buck Hydro ,36.808229,-80.938714,WAT
+2014  ,3647.0,Buck Hydro ,36.808229,-80.938714,WAT
+2015  ,37450.0,Buck Hydro ,36.808229,-80.938714,WAT
+2016  ,36979.0,Buck Hydro ,36.808229,-80.938714,WAT
+2017  ,36726.0,Buck Hydro ,36.808229,-80.938714,WAT
+2018  ,37376.0,Buck Hydro ,36.808229,-80.938714,WAT
+2001  ,36948.0,Byllesby 2 ,36.7858,-80.9333,WAT
+2002  ,40241.0,Byllesby 2 ,36.7858,-80.9333,WAT
+2003  ,82288.0,Byllesby 2 ,36.7858,-80.9333,WAT
+2004  ,44005.0,Byllesby 2 ,36.7858,-80.9333,WAT
+2005  ,61963.001,Byllesby 2 ,36.7858,-80.9333,WAT
+2006  ,45503.0,Byllesby 2 ,36.7858,-80.9333,WAT
+2007  ,38919.0,Byllesby 2 ,36.7858,-80.9333,WAT
+2008  ,27268.0,Byllesby 2 ,36.7858,-80.9333,WAT
+2009  ,54287.0,Byllesby 2 ,36.7858,-80.9333,WAT
+2010  ,28237.0,Byllesby 2 ,36.7858,-80.9333,WAT
+2011  ,41731.0,Byllesby 2 ,36.7858,-80.9333,WAT
+2012  ,46877.0,Byllesby 2 ,36.7858,-80.9333,WAT
+2013  ,3374.0,Byllesby 2 ,36.7858,-80.9333,WAT
+2014  ,10757.0,Byllesby 2 ,36.7858,-80.9333,WAT
+2015  ,43042.0,Byllesby 2 ,36.7858,-80.9333,WAT
+2016  ,42097.0,Byllesby 2 ,36.7858,-80.9333,WAT
+2017  ,48330.0,Byllesby 2 ,36.7858,-80.9333,WAT
+2018  ,53416.0,Byllesby 2 ,36.7858,-80.9333,WAT
+2001  ,138214.0,Claytor ,37.075,-80.5847,WAT
+2002  ,143774.0,Claytor ,37.075,-80.5847,WAT
+2003  ,326730.0,Claytor ,37.075,-80.5847,WAT
+2004  ,269818.001,Claytor ,37.075,-80.5847,WAT
+2005  ,218468.001,Claytor ,37.075,-80.5847,WAT
+2006  ,179233.0,Claytor ,37.075,-80.5847,WAT
+2007  ,156991.999,Claytor ,37.075,-80.5847,WAT
+2008  ,128873.0,Claytor ,37.075,-80.5847,WAT
+2009  ,231756.0,Claytor ,37.075,-80.5847,WAT
+2010  ,210911.0,Claytor ,37.075,-80.5847,WAT
+2011  ,222371.0,Claytor ,37.075,-80.5847,WAT
+2012  ,201510.0,Claytor ,37.075,-80.5847,WAT
+2013  ,325290.0,Claytor ,37.075,-80.5847,WAT
+2014  ,8074.0,Claytor ,37.075,-80.5847,WAT
+2015  ,229724.0,Claytor ,37.075,-80.5847,WAT
+2016  ,210339.0,Claytor ,37.075,-80.5847,WAT
+2017  ,176351.0,Claytor ,37.075,-80.5847,WAT
+2018  ,304469.0,Claytor ,37.075,-80.5847,WAT
+2001  ,4208806.0,Clinch River ,36.9333,-82.1997,BIT
+2002  ,4614803.0,Clinch River ,36.9333,-82.1997,BIT
+2003  ,4376150.0,Clinch River ,36.9333,-82.1997,BIT
+2004  ,3928601.0,Clinch River ,36.9333,-82.1997,BIT
+2005  ,3931942.0,Clinch River ,36.9333,-82.1997,BIT
+2006  ,4118417.0,Clinch River ,36.9333,-82.1997,BIT
+2007  ,4047689.482,Clinch River ,36.9333,-82.1997,BIT
+2008  ,3632395.029,Clinch River ,36.9333,-82.1997,BIT
+2009  ,1522044.142,Clinch River ,36.9333,-82.1997,BIT
+2010  ,1496697.28,Clinch River ,36.9333,-82.1997,BIT
+2011  ,1297591.114,Clinch River ,36.9333,-82.1997,BIT
+2012  ,802300.123,Clinch River ,36.9333,-82.1997,BIT
+2013  ,895603.327,Clinch River ,36.9333,-82.1997,BIT
+2014  ,725575.79,Clinch River ,36.9333,-82.1997,BIT
+2015  ,458081.723,Clinch River ,36.9333,-82.1997,BIT
+2016  ,0.0,Clinch River ,36.9333,-82.1997,BIT
+2017  ,0.0,Clinch River ,36.9333,-82.1997,BIT
+2018  ,0.0,Clinch River ,36.9333,-82.1997,BIT
+2019  ,0.0,Clinch River ,36.9333,-82.1997,BIT
+2016  ,297008.0,Clinch River ,36.9333,-82.1997,NG
+2017  ,226677.0,Clinch River ,36.9333,-82.1997,NG
+2018  ,563546.0,Clinch River ,36.9333,-82.1997,NG
+2019  ,338987.0,Clinch River ,36.9333,-82.1997,NG
+2001  ,1442278.0,Glen Lyn ,37.3706,-80.8633,BIT
+2002  ,1709181.0,Glen Lyn ,37.3706,-80.8633,BIT
+2003  ,1613057.0,Glen Lyn ,37.3706,-80.8633,BIT
+2004  ,1282831.0,Glen Lyn ,37.3706,-80.8633,BIT
+2005  ,1641212.0,Glen Lyn ,37.3706,-80.8633,BIT
+2006  ,1703505.0,Glen Lyn ,37.3706,-80.8633,BIT
+2007  ,1535029.374,Glen Lyn ,37.3706,-80.8633,BIT
+2008  ,1392494.633,Glen Lyn ,37.3706,-80.8633,BIT
+2009  ,455360.761,Glen Lyn ,37.3706,-80.8633,BIT
+2010  ,208804.023,Glen Lyn ,37.3706,-80.8633,BIT
+2011  ,221787.862,Glen Lyn ,37.3706,-80.8633,BIT
+2012  ,77078.788,Glen Lyn ,37.3706,-80.8633,BIT
+2013  ,169947.512,Glen Lyn ,37.3706,-80.8633,BIT
+2014  ,88719.596,Glen Lyn ,37.3706,-80.8633,BIT
+2015  ,63803.205,Glen Lyn ,37.3706,-80.8633,BIT
+2001  ,33537.0,Leesville ,37.0933,-79.4025,WAT
+2002  ,20485.0,Leesville ,37.0933,-79.4025,WAT
+2003  ,108332.0,Leesville ,37.0933,-79.4025,WAT
+2004  ,76110.999,Leesville ,37.0933,-79.4025,WAT
+2005  ,61669.0,Leesville ,37.0933,-79.4025,WAT
+2006  ,52919.0,Leesville ,37.0933,-79.4025,WAT
+2007  ,47652.002,Leesville ,37.0933,-79.4025,WAT
+2008  ,29686.0,Leesville ,37.0933,-79.4025,WAT
+2009  ,66238.0,Leesville ,37.0933,-79.4025,WAT
+2010  ,67411.0,Leesville ,37.0933,-79.4025,WAT
+2011  ,57873.0,Leesville ,37.0933,-79.4025,WAT
+2012  ,42008.0,Leesville ,37.0933,-79.4025,WAT
+2013  ,67972.0,Leesville ,37.0933,-79.4025,WAT
+2014  ,58672.0,Leesville ,37.0933,-79.4025,WAT
+2015  ,69804.0,Leesville ,37.0933,-79.4025,WAT
+2016  ,79431.0,Leesville ,37.0933,-79.4025,WAT
+2017  ,57756.0,Leesville ,37.0933,-79.4025,WAT
+2018  ,83759.0,Leesville ,37.0933,-79.4025,WAT
+2001  ,4955.0,Niagara ,37.2544,-79.8756,WAT
+2002  ,3893.0,Niagara ,37.2544,-79.8756,WAT
+2003  ,12257.0,Niagara ,37.2544,-79.8756,WAT
+2004  ,5994.0,Niagara ,37.2544,-79.8756,WAT
+2005  ,8592.001,Niagara ,37.2544,-79.8756,WAT
+2006  ,8127.999,Niagara ,37.2544,-79.8756,WAT
+2007  ,6996.999,Niagara ,37.2544,-79.8756,WAT
+2008  ,4169.0,Niagara ,37.2544,-79.8756,WAT
+2009  ,10132.0,Niagara ,37.2544,-79.8756,WAT
+2010  ,10549.0,Niagara ,37.2544,-79.8756,WAT
+2011  ,9746.0,Niagara ,37.2544,-79.8756,WAT
+2012  ,6693.0,Niagara ,37.2544,-79.8756,WAT
+2013  ,10449.0,Niagara ,37.2544,-79.8756,WAT
+2014  ,8006.0,Niagara ,37.2544,-79.8756,WAT
+2015  ,0.0,Niagara ,37.2544,-79.8756,WAT
+2016  ,0.0,Niagara ,37.2544,-79.8756,WAT
+2017  ,0.0,Niagara ,37.2544,-79.8756,WAT
+2018  ,7858.0,Niagara ,37.2544,-79.8756,WAT
+2001  ,20448.0,Reusens ,37.4639,-79.1856,WAT
+2002  ,21335.0,Reusens ,37.4639,-79.1856,WAT
+2003  ,37944.0,Reusens ,37.4639,-79.1856,WAT
+2004  ,35786.0,Reusens ,37.4639,-79.1856,WAT
+2005  ,26454.999,Reusens ,37.4639,-79.1856,WAT
+2006  ,26935.001,Reusens ,37.4639,-79.1856,WAT
+2007  ,19197.001,Reusens ,37.4639,-79.1856,WAT
+2008  ,20534.0,Reusens ,37.4639,-79.1856,WAT
+2009  ,22173.0,Reusens ,37.4639,-79.1856,WAT
+2010  ,19723.0,Reusens ,37.4639,-79.1856,WAT
+2011  ,14307.0,Reusens ,37.4639,-79.1856,WAT
+2012  ,0.0,Reusens ,37.4639,-79.1856,WAT
+2013  ,0.0,Reusens ,37.4639,-79.1856,WAT
+2014  ,0.0,Reusens ,37.4639,-79.1856,WAT
+2015  ,0.0,Reusens ,37.4639,-79.1856,WAT
+2016  ,0.0,Reusens ,37.4639,-79.1856,WAT
+2017  ,2598.0,Reusens ,37.4639,-79.1856,WAT
+2018  ,29174.0,Reusens ,37.4639,-79.1856,WAT
+2001  ,-199219.0,Smith Mountain ,37.0413,-79.5356,WAT
+2002  ,-207111.0,Smith Mountain ,37.0413,-79.5356,WAT
+2003  ,21764.0,Smith Mountain ,37.0413,-79.5356,WAT
+2004  ,308387.0,Smith Mountain ,37.0413,-79.5356,WAT
+2005  ,-69472.0,Smith Mountain ,37.0413,-79.5356,WAT
+2006  ,345472.0,Smith Mountain ,37.0413,-79.5356,WAT
+2007  ,-206640.0,Smith Mountain ,37.0413,-79.5356,WAT
+2008  ,-325871.0,Smith Mountain ,37.0413,-79.5356,WAT
+2009  ,-73351.0,Smith Mountain ,37.0413,-79.5356,WAT
+2010  ,-6445.0,Smith Mountain ,37.0413,-79.5356,WAT
+2011  ,-74095.0,Smith Mountain ,37.0413,-79.5356,WAT
+2012  ,-73070.0,Smith Mountain ,37.0413,-79.5356,WAT
+2013  ,22348.0,Smith Mountain ,37.0413,-79.5356,WAT
+2014  ,-13671.0,Smith Mountain ,37.0413,-79.5356,WAT
+2015  ,60748.0,Smith Mountain ,37.0413,-79.5356,WAT
+2016  ,-34315.0,Smith Mountain ,37.0413,-79.5356,WAT
+2017  ,-47483.0,Smith Mountain ,37.0413,-79.5356,WAT
+2018  ,52415.0,Smith Mountain ,37.0413,-79.5356,WAT
+2019  ,5802.0,Smith Mountain ,37.0413,-79.5356,WAT
+2003  ,4629.398,Mount Clinton ,38.4681,-78.865,DFO
+2005  ,1253.998,Mount Clinton ,38.4681,-78.865,DFO
+2006  ,994.002,Mount Clinton ,38.4681,-78.865,DFO
+2007  ,650.719,Mount Clinton ,38.4681,-78.865,DFO
+2008  ,614.46,Mount Clinton ,38.4681,-78.865,DFO
+2009  ,665.42,Mount Clinton ,38.4681,-78.865,DFO
+2010  ,800.66,Mount Clinton ,38.4681,-78.865,DFO
+2011  ,206.78,Mount Clinton ,38.4681,-78.865,DFO
+2012  ,0.0,Mount Clinton ,38.4681,-78.865,DFO
+2013  ,145.04,Mount Clinton ,38.4681,-78.865,DFO
+2014  ,231.28,Mount Clinton ,38.4681,-78.865,DFO
+2015  ,479.22,Mount Clinton ,38.4681,-78.865,DFO
+2016  ,146.02,Mount Clinton ,38.4681,-78.865,DFO
+2017  ,89.18,Mount Clinton ,38.4681,-78.865,DFO
+2018  ,229.32,Mount Clinton ,38.4681,-78.865,DFO
+2001  ,28250.001,Bayview ,37.2717,-75.9682,DFO
+2002  ,5873.0,Bayview ,37.2717,-75.9682,DFO
+2003  ,4768.0,Bayview ,37.2717,-75.9682,DFO
+2004  ,3081.0,Bayview ,37.2717,-75.9682,DFO
+2005  ,12113.001,Bayview ,37.2717,-75.9682,DFO
+2006  ,4653.998,Bayview ,37.2717,-75.9682,DFO
+2007  ,6774.997,Bayview ,37.2717,-75.9682,DFO
+2008  ,2912.0,Bayview ,37.2717,-75.9682,DFO
+2009  ,593.0,Bayview ,37.2717,-75.9682,DFO
+2010  ,5311.0,Bayview ,37.2717,-75.9682,DFO
+2011  ,1511.0,Bayview ,37.2717,-75.9682,DFO
+2012  ,814.0,Bayview ,37.2717,-75.9682,DFO
+2013  ,682.0,Bayview ,37.2717,-75.9682,DFO
+2014  ,2677.0,Bayview ,37.2717,-75.9682,DFO
+2015  ,4593.0,Bayview ,37.2717,-75.9682,DFO
+2016  ,3933.0,Bayview ,37.2717,-75.9682,DFO
+2017  ,1619.0,Bayview ,37.2717,-75.9682,DFO
+2018  ,2949.0,Bayview ,37.2717,-75.9682,DFO
+2003  ,4757.991,Pleasant Valley ,38.4006,-78.8983,DFO
+2005  ,1036.001,Pleasant Valley ,38.4006,-78.8983,DFO
+2006  ,744.001,Pleasant Valley ,38.4006,-78.8983,DFO
+2007  ,789.883,Pleasant Valley ,38.4006,-78.8983,DFO
+2008  ,637.98,Pleasant Valley ,38.4006,-78.8983,DFO
+2009  ,625.24,Pleasant Valley ,38.4006,-78.8983,DFO
+2010  ,367.5,Pleasant Valley ,38.4006,-78.8983,DFO
+2011  ,132.3,Pleasant Valley ,38.4006,-78.8983,DFO
+2012  ,0.0,Pleasant Valley ,38.4006,-78.8983,DFO
+2013  ,121.52,Pleasant Valley ,38.4006,-78.8983,DFO
+2014  ,290.08,Pleasant Valley ,38.4006,-78.8983,DFO
+2015  ,335.16,Pleasant Valley ,38.4006,-78.8983,DFO
+2016  ,175.42,Pleasant Valley ,38.4006,-78.8983,DFO
+2017  ,102.9,Pleasant Valley ,38.4006,-78.8983,DFO
+2018  ,205.8,Pleasant Valley ,38.4006,-78.8983,DFO
+2003  ,3187.07,Harrisonburg Power Plant ,38.4319,-78.8642,NG
+2005  ,0.0,Harrisonburg Power Plant ,38.4319,-78.8642,NG
+2006  ,0.0,Harrisonburg Power Plant ,38.4319,-78.8642,NG
+2007  ,0.0,Harrisonburg Power Plant ,38.4319,-78.8642,NG
+2008  ,0.0,Harrisonburg Power Plant ,38.4319,-78.8642,NG
+2009  ,0.0,Harrisonburg Power Plant ,38.4319,-78.8642,NG
+2010  ,0.0,Harrisonburg Power Plant ,38.4319,-78.8642,NG
+2011  ,0.0,Harrisonburg Power Plant ,38.4319,-78.8642,NG
+2012  ,0.0,Harrisonburg Power Plant ,38.4319,-78.8642,NG
+2013  ,0.0,Harrisonburg Power Plant ,38.4319,-78.8642,NG
+2014  ,0.0,Harrisonburg Power Plant ,38.4319,-78.8642,NG
+2015  ,0.0,Harrisonburg Power Plant ,38.4319,-78.8642,NG
+2001  ,30275.002,Tasley ,37.7061,-75.7031,DFO
+2002  ,6197.0,Tasley ,37.7061,-75.7031,DFO
+2004  ,620.0,Tasley ,37.7061,-75.7031,DFO
+2005  ,1929.0,Tasley ,37.7061,-75.7031,DFO
+2006  ,744.002,Tasley ,37.7061,-75.7031,DFO
+2007  ,1339.001,Tasley ,37.7061,-75.7031,DFO
+2008  ,-141.0,Tasley ,37.7061,-75.7031,DFO
+2009  ,-508.0,Tasley ,37.7061,-75.7031,DFO
+2010  ,951.0,Tasley ,37.7061,-75.7031,DFO
+2011  ,429.0,Tasley ,37.7061,-75.7031,DFO
+2012  ,164.0,Tasley ,37.7061,-75.7031,DFO
+2013  ,308.0,Tasley ,37.7061,-75.7031,DFO
+2014  ,2709.0,Tasley ,37.7061,-75.7031,DFO
+2015  ,2432.0,Tasley ,37.7061,-75.7031,DFO
+2016  ,1575.0,Tasley ,37.7061,-75.7031,DFO
+2017  ,654.0,Tasley ,37.7061,-75.7031,DFO
+2018  ,768.0,Tasley ,37.7061,-75.7031,DFO
+2007  ,1.0,Salem Electric Department ,37.2894,-80.07,DFO
+2008  ,4.0,Salem Electric Department ,37.2894,-80.07,DFO
+2009  ,7.0,Salem Electric Department ,37.2894,-80.07,DFO
+2010  ,92.0,Salem Electric Department ,37.2894,-80.07,DFO
+2011  ,68.0,Salem Electric Department ,37.2894,-80.07,DFO
+2012  ,83.0,Salem Electric Department ,37.2894,-80.07,DFO
+2013  ,81.0,Salem Electric Department ,37.2894,-80.07,DFO
+2014  ,55.0,Salem Electric Department ,37.2894,-80.07,DFO
+2015  ,51.0,Salem Electric Department ,37.2894,-80.07,DFO
+2016  ,103.0,Salem Electric Department ,37.2894,-80.07,DFO
+2017  ,66.0,Salem Electric Department ,37.2894,-80.07,DFO
+2018  ,77.0,Salem Electric Department ,37.2894,-80.07,DFO
+2012  ,2906.68,MillerCoors Shenandoah Brewery ,38.356944,-78.676667,OBG
+2013  ,5115.6,MillerCoors Shenandoah Brewery ,38.356944,-78.676667,OBG
+2014  ,1210.0,MillerCoors Shenandoah Brewery ,38.356944,-78.676667,OBG
+2015  ,1712.0,MillerCoors Shenandoah Brewery ,38.356944,-78.676667,OBG
+2016  ,2756.0,MillerCoors Shenandoah Brewery ,38.356944,-78.676667,OBG
+2017  ,5598.44,MillerCoors Shenandoah Brewery ,38.356944,-78.676667,OBG
+2018  ,5552.0,MillerCoors Shenandoah Brewery ,38.356944,-78.676667,OBG
+2019  ,3410.0,MillerCoors Shenandoah Brewery ,38.356944,-78.676667,OBG
+2017  ,71.0,Bedford Solar ,37.335046,-79.480995,SUN
+2018  ,5361.0,Bedford Solar ,37.335046,-79.480995,SUN
+2002  ,0.0,Luray Hydro Station ,38.676667,-78.498888,WAT
+2003  ,7876.999,Luray Hydro Station ,38.676667,-78.498888,WAT
+2004  ,7626.001,Luray Hydro Station ,38.676667,-78.498888,WAT
+2005  ,5948.001,Luray Hydro Station ,38.676667,-78.498888,WAT
+2006  ,5684.001,Luray Hydro Station ,38.676667,-78.498888,WAT
+2007  ,5262.002,Luray Hydro Station ,38.676667,-78.498888,WAT
+2008  ,3931.0,Luray Hydro Station ,38.676667,-78.498888,WAT
+2009  ,3270.0,Luray Hydro Station ,38.676667,-78.498888,WAT
+2010  ,2899.0,Luray Hydro Station ,38.676667,-78.498888,WAT
+2011  ,5494.0,Luray Hydro Station ,38.676667,-78.498888,WAT
+2012  ,6250.0,Luray Hydro Station ,38.676667,-78.498888,WAT
+2013  ,5611.0,Luray Hydro Station ,38.676667,-78.498888,WAT
+2014  ,1183.0,Luray Hydro Station ,38.676667,-78.498888,WAT
+2015  ,5983.0,Luray Hydro Station ,38.676667,-78.498888,WAT
+2016  ,6019.0,Luray Hydro Station ,38.676667,-78.498888,WAT
+2017  ,3894.0,Luray Hydro Station ,38.676667,-78.498888,WAT
+2018  ,5629.0,Luray Hydro Station ,38.676667,-78.498888,WAT
+2002  ,0.0,Newport Hydro Station ,38.571389,-78.593611,WAT
+2003  ,7329.001,Newport Hydro Station ,38.571389,-78.593611,WAT
+2004  ,6687.0,Newport Hydro Station ,38.571389,-78.593611,WAT
+2005  ,6028.999,Newport Hydro Station ,38.571389,-78.593611,WAT
+2006  ,6455.999,Newport Hydro Station ,38.571389,-78.593611,WAT
+2007  ,5722.998,Newport Hydro Station ,38.571389,-78.593611,WAT
+2008  ,4579.0,Newport Hydro Station ,38.571389,-78.593611,WAT
+2009  ,4637.0,Newport Hydro Station ,38.571389,-78.593611,WAT
+2010  ,4643.0,Newport Hydro Station ,38.571389,-78.593611,WAT
+2011  ,5449.0,Newport Hydro Station ,38.571389,-78.593611,WAT
+2012  ,5469.0,Newport Hydro Station ,38.571389,-78.593611,WAT
+2013  ,4909.0,Newport Hydro Station ,38.571389,-78.593611,WAT
+2014  ,1036.0,Newport Hydro Station ,38.571389,-78.593611,WAT
+2015  ,6404.0,Newport Hydro Station ,38.571389,-78.593611,WAT
+2016  ,4871.0,Newport Hydro Station ,38.571389,-78.593611,WAT
+2017  ,4427.0,Newport Hydro Station ,38.571389,-78.593611,WAT
+2018  ,3941.0,Newport Hydro Station ,38.571389,-78.593611,WAT
+2008  ,26320.0,Waste Management Bethel LFGTE ,37.076352,-76.444373,LFG
+2009  ,23763.0,Waste Management Bethel LFGTE ,37.076352,-76.444373,LFG
+2010  ,34317.0,Waste Management Bethel LFGTE ,37.076352,-76.444373,LFG
+2011  ,35472.0,Waste Management Bethel LFGTE ,37.076352,-76.444373,LFG
+2012  ,38175.0,Waste Management Bethel LFGTE ,37.076352,-76.444373,LFG
+2013  ,37650.0,Waste Management Bethel LFGTE ,37.076352,-76.444373,LFG
+2014  ,37575.0,Waste Management Bethel LFGTE ,37.076352,-76.444373,LFG
+2015  ,34531.0,Waste Management Bethel LFGTE ,37.076352,-76.444373,LFG
+2016  ,36767.0,Waste Management Bethel LFGTE ,37.076352,-76.444373,LFG
+2017  ,38383.0,Waste Management Bethel LFGTE ,37.076352,-76.444373,LFG
+2018  ,37515.0,Waste Management Bethel LFGTE ,37.076352,-76.444373,LFG
+2014  ,364153.042,Bremo Bluff ,37.7089,-78.2878,NG
+2015  ,214579.0,Bremo Bluff ,37.7089,-78.2878,NG
+2016  ,401060.0,Bremo Bluff ,37.7089,-78.2878,NG
+2017  ,123735.0,Bremo Bluff ,37.7089,-78.2878,NG
+2018  ,14083.0,Bremo Bluff ,37.7089,-78.2878,NG
+2001  ,340926.0,Chesterfield ,37.3822,-77.3833,DFO
+2002  ,17139.0,Chesterfield ,37.3822,-77.3833,DFO
+2003  ,360019.0,Chesterfield ,37.3822,-77.3833,DFO
+2004  ,140049.0,Chesterfield ,37.3822,-77.3833,DFO
+2005  ,105034.0,Chesterfield ,37.3822,-77.3833,DFO
+2006  ,26035.0,Chesterfield ,37.3822,-77.3833,DFO
+2007  ,34275.73,Chesterfield ,37.3822,-77.3833,DFO
+2008  ,17635.856,Chesterfield ,37.3822,-77.3833,DFO
+2009  ,19440.222,Chesterfield ,37.3822,-77.3833,DFO
+2010  ,22239.252,Chesterfield ,37.3822,-77.3833,DFO
+2011  ,26854.788,Chesterfield ,37.3822,-77.3833,DFO
+2012  ,18080.839,Chesterfield ,37.3822,-77.3833,DFO
+2013  ,21630.525,Chesterfield ,37.3822,-77.3833,DFO
+2014  ,83273.101,Chesterfield ,37.3822,-77.3833,DFO
+2016  ,25103.805,Chesterfield ,37.3822,-77.3833,DFO
+2017  ,26860.94,Chesterfield ,37.3822,-77.3833,DFO
+2019  ,18796.021,Chesterfield ,37.3822,-77.3833,DFO
+2001  ,8112635.0,Chesterfield ,37.3822,-77.3833,BIT
+2002  ,8311736.0,Chesterfield ,37.3822,-77.3833,BIT
+2003  ,8264440.0,Chesterfield ,37.3822,-77.3833,BIT
+2004  ,7138997.0,Chesterfield ,37.3822,-77.3833,BIT
+2005  ,8112483.0,Chesterfield ,37.3822,-77.3833,BIT
+2006  ,7431101.0,Chesterfield ,37.3822,-77.3833,BIT
+2007  ,8098847.214,Chesterfield ,37.3822,-77.3833,BIT
+2008  ,7322230.263,Chesterfield ,37.3822,-77.3833,BIT
+2009  ,8259185.108,Chesterfield ,37.3822,-77.3833,BIT
+2010  ,6691065.365,Chesterfield ,37.3822,-77.3833,BIT
+2011  ,5328827.796,Chesterfield ,37.3822,-77.3833,BIT
+2012  ,3599196.612,Chesterfield ,37.3822,-77.3833,BIT
+2013  ,5952047.614,Chesterfield ,37.3822,-77.3833,BIT
+2014  ,6384302.318,Chesterfield ,37.3822,-77.3833,BIT
+2015  ,6566994.997,Chesterfield ,37.3822,-77.3833,BIT
+2016  ,6261860.195,Chesterfield ,37.3822,-77.3833,BIT
+2017  ,3360222.811,Chesterfield ,37.3822,-77.3833,BIT
+2019  ,919703.287,Chesterfield ,37.3822,-77.3833,BIT
+2001  ,1454917.0,Chesterfield ,37.3822,-77.3833,NG
+2002  ,1280542.0,Chesterfield ,37.3822,-77.3833,NG
+2003  ,1193617.0,Chesterfield ,37.3822,-77.3833,NG
+2004  ,1004246.0,Chesterfield ,37.3822,-77.3833,NG
+2005  ,831768.0,Chesterfield ,37.3822,-77.3833,NG
+2006  ,885234.0,Chesterfield ,37.3822,-77.3833,NG
+2007  ,1627928.05,Chesterfield ,37.3822,-77.3833,NG
+2008  ,1486010.881,Chesterfield ,37.3822,-77.3833,NG
+2009  ,2380425.67,Chesterfield ,37.3822,-77.3833,NG
+2010  ,2111373.383,Chesterfield ,37.3822,-77.3833,NG
+2012  ,2743090.549,Chesterfield ,37.3822,-77.3833,NG
+2013  ,3066915.861,Chesterfield ,37.3822,-77.3833,NG
+2016  ,2400919.0,Chesterfield ,37.3822,-77.3833,NG
+2017  ,3060429.249,Chesterfield ,37.3822,-77.3833,NG
+2019  ,2676333.692,Chesterfield ,37.3822,-77.3833,NG
+2001  ,9458.0,Cushaw ,37.592887,-79.380823,WAT
+2002  ,3920.0,Cushaw ,37.592887,-79.380823,WAT
+2003  ,17917.0,Cushaw ,37.592887,-79.380823,WAT
+2004  ,23411.0,Cushaw ,37.592887,-79.380823,WAT
+2005  ,22200.0,Cushaw ,37.592887,-79.380823,WAT
+2006  ,18578.0,Cushaw ,37.592887,-79.380823,WAT
+2007  ,15371.0,Cushaw ,37.592887,-79.380823,WAT
+2008  ,12650.0,Cushaw ,37.592887,-79.380823,WAT
+2009  ,12207.0,Cushaw ,37.592887,-79.380823,WAT
+2010  ,10096.0,Cushaw ,37.592887,-79.380823,WAT
+2011  ,4861.0,Cushaw ,37.592887,-79.380823,WAT
+2012  ,8535.0,Cushaw ,37.592887,-79.380823,WAT
+2013  ,13829.0,Cushaw ,37.592887,-79.380823,WAT
+2014  ,12391.0,Cushaw ,37.592887,-79.380823,WAT
+2015  ,8900.0,Cushaw ,37.592887,-79.380823,WAT
+2016  ,6841.0,Cushaw ,37.592887,-79.380823,WAT
+2017  ,6796.0,Cushaw ,37.592887,-79.380823,WAT
+2018  ,1710.0,Cushaw ,37.592887,-79.380823,WAT
+2001  ,1615.0,Low Moor ,37.777,-79.892,DFO
+2002  ,63.0,Low Moor ,37.777,-79.892,DFO
+2003  ,1345.0,Low Moor ,37.777,-79.892,DFO
+2004  ,101.0,Low Moor ,37.777,-79.892,DFO
+2005  ,1706.0,Low Moor ,37.777,-79.892,DFO
+2006  ,1117.0,Low Moor ,37.777,-79.892,DFO
+2007  ,1174.0,Low Moor ,37.777,-79.892,DFO
+2008  ,193.0,Low Moor ,37.777,-79.892,DFO
+2009  ,186.0,Low Moor ,37.777,-79.892,DFO
+2010  ,81.0,Low Moor ,37.777,-79.892,DFO
+2011  ,120.0,Low Moor ,37.777,-79.892,DFO
+2012  ,421.0,Low Moor ,37.777,-79.892,DFO
+2013  ,292.0,Low Moor ,37.777,-79.892,DFO
+2014  ,1903.0,Low Moor ,37.777,-79.892,DFO
+2015  ,91.0,Low Moor ,37.777,-79.892,DFO
+2016  ,178.0,Low Moor ,37.777,-79.892,DFO
+2017  ,238.0,Low Moor ,37.777,-79.892,DFO
+2018  ,2916.0,Low Moor ,37.777,-79.892,DFO
+2001  ,1190.0,Northern Neck ,37.95,-76.711,DFO
+2002  ,56.0,Northern Neck ,37.95,-76.711,DFO
+2003  ,971.0,Northern Neck ,37.95,-76.711,DFO
+2004  ,255.0,Northern Neck ,37.95,-76.711,DFO
+2005  ,3640.0,Northern Neck ,37.95,-76.711,DFO
+2006  ,1140.0,Northern Neck ,37.95,-76.711,DFO
+2007  ,1564.0,Northern Neck ,37.95,-76.711,DFO
+2008  ,519.0,Northern Neck ,37.95,-76.711,DFO
+2009  ,2204.0,Northern Neck ,37.95,-76.711,DFO
+2010  ,1341.0,Northern Neck ,37.95,-76.711,DFO
+2011  ,387.0,Northern Neck ,37.95,-76.711,DFO
+2012  ,332.0,Northern Neck ,37.95,-76.711,DFO
+2013  ,260.0,Northern Neck ,37.95,-76.711,DFO
+2014  ,1308.0,Northern Neck ,37.95,-76.711,DFO
+2015  ,102.0,Northern Neck ,37.95,-76.711,DFO
+2016  ,299.0,Northern Neck ,37.95,-76.711,DFO
+2017  ,627.0,Northern Neck ,37.95,-76.711,DFO
+2018  ,2525.0,Northern Neck ,37.95,-76.711,DFO
+2004  ,254620.78254,Covington Facility ,37.799722,-79.9947,BIT
+2006  ,252561.54296,Covington Facility ,37.799722,-79.9947,BIT
+2007  ,238419.995,Covington Facility ,37.799722,-79.9947,BIT
+2008  ,312151.483,Covington Facility ,37.799722,-79.9947,BIT
+2009  ,273191.077,Covington Facility ,37.799722,-79.9947,BIT
+2010  ,260057.671,Covington Facility ,37.799722,-79.9947,BIT
+2011  ,269430.361,Covington Facility ,37.799722,-79.9947,BIT
+2012  ,268815.45,Covington Facility ,37.799722,-79.9947,BIT
+2013  ,240893.067,Covington Facility ,37.799722,-79.9947,BIT
+2014  ,236807.632,Covington Facility ,37.799722,-79.9947,BIT
+2015  ,230712.329,Covington Facility ,37.799722,-79.9947,BIT
+2016  ,209199.436,Covington Facility ,37.799722,-79.9947,BIT
+2017  ,158320.305,Covington Facility ,37.799722,-79.9947,BIT
+2018  ,162109.501,Covington Facility ,37.799722,-79.9947,BIT
+2019  ,146911.418,Covington Facility ,37.799722,-79.9947,BIT
+2002  ,57056.0,Covington Facility ,37.799722,-79.9947,WDS
+2004  ,25654.7731,Covington Facility ,37.799722,-79.9947,WDS
+2006  ,24586.33754,Covington Facility ,37.799722,-79.9947,WDS
+2007  ,27177.522,Covington Facility ,37.799722,-79.9947,WDS
+2008  ,28184.704,Covington Facility ,37.799722,-79.9947,WDS
+2009  ,24724.795,Covington Facility ,37.799722,-79.9947,WDS
+2010  ,17902.83,Covington Facility ,37.799722,-79.9947,WDS
+2011  ,32990.332,Covington Facility ,37.799722,-79.9947,WDS
+2012  ,32360.934,Covington Facility ,37.799722,-79.9947,WDS
+2013  ,44384.355,Covington Facility ,37.799722,-79.9947,WDS
+2014  ,200214.074,Covington Facility ,37.799722,-79.9947,WDS
+2015  ,275457.998,Covington Facility ,37.799722,-79.9947,WDS
+2016  ,190865.527,Covington Facility ,37.799722,-79.9947,WDS
+2017  ,168908.135,Covington Facility ,37.799722,-79.9947,WDS
+2018  ,192653.777,Covington Facility ,37.799722,-79.9947,WDS
+2019  ,170097.088,Covington Facility ,37.799722,-79.9947,WDS
+2002  ,320343.0,Covington Facility ,37.799722,-79.9947,BLQ
+2004  ,271740.40109,Covington Facility ,37.799722,-79.9947,BLQ
+2006  ,279392.53858,Covington Facility ,37.799722,-79.9947,BLQ
+2007  ,297075.911,Covington Facility ,37.799722,-79.9947,BLQ
+2008  ,300702.376,Covington Facility ,37.799722,-79.9947,BLQ
+2009  ,299891.199,Covington Facility ,37.799722,-79.9947,BLQ
+2010  ,279779.226,Covington Facility ,37.799722,-79.9947,BLQ
+2011  ,308607.562,Covington Facility ,37.799722,-79.9947,BLQ
+2012  ,311219.798,Covington Facility ,37.799722,-79.9947,BLQ
+2013  ,302710.599,Covington Facility ,37.799722,-79.9947,BLQ
+2014  ,370316.391,Covington Facility ,37.799722,-79.9947,BLQ
+2015  ,414100.957,Covington Facility ,37.799722,-79.9947,BLQ
+2016  ,456679.503,Covington Facility ,37.799722,-79.9947,BLQ
+2017  ,449854.033,Covington Facility ,37.799722,-79.9947,BLQ
+2018  ,479463.657,Covington Facility ,37.799722,-79.9947,BLQ
+2019  ,424360.231,Covington Facility ,37.799722,-79.9947,BLQ
+2004  ,46795.82868,Covington Facility ,37.799722,-79.9947,NG
+2006  ,32336.4966,Covington Facility ,37.799722,-79.9947,NG
+2007  ,23515.593,Covington Facility ,37.799722,-79.9947,NG
+2008  ,22572.528,Covington Facility ,37.799722,-79.9947,NG
+2009  ,20873.338,Covington Facility ,37.799722,-79.9947,NG
+2010  ,36124.64,Covington Facility ,37.799722,-79.9947,NG
+2011  ,35894.01,Covington Facility ,37.799722,-79.9947,NG
+2012  ,57404.331,Covington Facility ,37.799722,-79.9947,NG
+2013  ,62169.408,Covington Facility ,37.799722,-79.9947,NG
+2014  ,80367.236,Covington Facility ,37.799722,-79.9947,NG
+2015  ,85577.359,Covington Facility ,37.799722,-79.9947,NG
+2016  ,101963.759,Covington Facility ,37.799722,-79.9947,NG
+2017  ,149710.519,Covington Facility ,37.799722,-79.9947,NG
+2018  ,169504.957,Covington Facility ,37.799722,-79.9947,NG
+2019  ,161608.765,Covington Facility ,37.799722,-79.9947,NG
+2004  ,990.63368,Covington Facility ,37.799722,-79.9947,DFO
+2006  ,945.63328,Covington Facility ,37.799722,-79.9947,DFO
+2007  ,623.497,Covington Facility ,37.799722,-79.9947,DFO
+2008  ,523.339,Covington Facility ,37.799722,-79.9947,DFO
+2009  ,1164.967,Covington Facility ,37.799722,-79.9947,DFO
+2010  ,1242.279,Covington Facility ,37.799722,-79.9947,DFO
+2011  ,861.55,Covington Facility ,37.799722,-79.9947,DFO
+2012  ,1230.98,Covington Facility ,37.799722,-79.9947,DFO
+2013  ,1097.188,Covington Facility ,37.799722,-79.9947,DFO
+2014  ,1344.323,Covington Facility ,37.799722,-79.9947,DFO
+2015  ,1180.468,Covington Facility ,37.799722,-79.9947,DFO
+2016  ,428.212,Covington Facility ,37.799722,-79.9947,DFO
+2017  ,500.291,Covington Facility ,37.799722,-79.9947,DFO
+2018  ,293.009,Covington Facility ,37.799722,-79.9947,DFO
+2019  ,187.345,Covington Facility ,37.799722,-79.9947,DFO
+2004  ,20605.98392,Covington Facility ,37.799722,-79.9947,RFO
+2006  ,13955.01506,Covington Facility ,37.799722,-79.9947,RFO
+2007  ,17570.513,Covington Facility ,37.799722,-79.9947,RFO
+2008  ,8063.94,Covington Facility ,37.799722,-79.9947,RFO
+2009  ,11553.688,Covington Facility ,37.799722,-79.9947,RFO
+2010  ,17875.916,Covington Facility ,37.799722,-79.9947,RFO
+2011  ,4892.369,Covington Facility ,37.799722,-79.9947,RFO
+2012  ,3806.722,Covington Facility ,37.799722,-79.9947,RFO
+2013  ,2779.68,Covington Facility ,37.799722,-79.9947,RFO
+2014  ,4041.56,Covington Facility ,37.799722,-79.9947,RFO
+2015  ,3334.026,Covington Facility ,37.799722,-79.9947,RFO
+2016  ,2332.563,Covington Facility ,37.799722,-79.9947,RFO
+2017  ,1568.717,Covington Facility ,37.799722,-79.9947,RFO
+2018  ,2459.099,Covington Facility ,37.799722,-79.9947,RFO
+2019  ,1275.153,Covington Facility ,37.799722,-79.9947,RFO
+2001  ,21005.0,Wheelabrator Portsmouth ,36.8083,-76.3036,DFO
+2002  ,191.0,Wheelabrator Portsmouth ,36.8083,-76.3036,DFO
+2004  ,1263.07677,Wheelabrator Portsmouth ,36.8083,-76.3036,DFO
+2005  ,635.72987,Wheelabrator Portsmouth ,36.8083,-76.3036,DFO
+2006  ,848.79296,Wheelabrator Portsmouth ,36.8083,-76.3036,DFO
+2007  ,1867.684,Wheelabrator Portsmouth ,36.8083,-76.3036,DFO
+2008  ,0.0,Wheelabrator Portsmouth ,36.8083,-76.3036,DFO
+2009  ,1064.427,Wheelabrator Portsmouth ,36.8083,-76.3036,DFO
+2010  ,1038.208,Wheelabrator Portsmouth ,36.8083,-76.3036,DFO
+2011  ,1353.175,Wheelabrator Portsmouth ,36.8083,-76.3036,DFO
+2012  ,781.367,Wheelabrator Portsmouth ,36.8083,-76.3036,DFO
+2013  ,398.562,Wheelabrator Portsmouth ,36.8083,-76.3036,DFO
+2014  ,657.939,Wheelabrator Portsmouth ,36.8083,-76.3036,DFO
+2015  ,696.65,Wheelabrator Portsmouth ,36.8083,-76.3036,DFO
+2016  ,808.768,Wheelabrator Portsmouth ,36.8083,-76.3036,DFO
+2017  ,28248.344,Wheelabrator Portsmouth ,36.8083,-76.3036,DFO
+2018  ,46837.738,Wheelabrator Portsmouth ,36.8083,-76.3036,DFO
+2019  ,39429.486,Wheelabrator Portsmouth ,36.8083,-76.3036,DFO
+2001  ,173298.0,Wheelabrator Portsmouth ,36.8083,-76.3036,MSW
+2002  ,118032.0,Wheelabrator Portsmouth ,36.8083,-76.3036,MSW
+2004  ,178855.61122,Wheelabrator Portsmouth ,36.8083,-76.3036,MSW
+2005  ,207752.77812,Wheelabrator Portsmouth ,36.8083,-76.3036,MSW
+2001  ,12583.0,Chesapeake ,36.7711,-76.3019,DFO
+2002  ,14766.0,Chesapeake ,36.7711,-76.3019,DFO
+2003  ,23227.0,Chesapeake ,36.7711,-76.3019,DFO
+2004  ,14428.0,Chesapeake ,36.7711,-76.3019,DFO
+2005  ,32954.0,Chesapeake ,36.7711,-76.3019,DFO
+2006  ,23039.0,Chesapeake ,36.7711,-76.3019,DFO
+2007  ,20106.564,Chesapeake ,36.7711,-76.3019,DFO
+2008  ,34057.435,Chesapeake ,36.7711,-76.3019,DFO
+2009  ,25624.803,Chesapeake ,36.7711,-76.3019,DFO
+2010  ,51694.779,Chesapeake ,36.7711,-76.3019,DFO
+2011  ,35170.41,Chesapeake ,36.7711,-76.3019,DFO
+2012  ,22008.182,Chesapeake ,36.7711,-76.3019,DFO
+2013  ,24147.168,Chesapeake ,36.7711,-76.3019,DFO
+2014  ,44375.121,Chesapeake ,36.7711,-76.3019,DFO
+2015  ,380.0,Chesapeake ,36.7711,-76.3019,DFO
+2016  ,134.0,Chesapeake ,36.7711,-76.3019,DFO
+2017  ,0.0,Chesapeake ,36.7711,-76.3019,DFO
+2018  ,1529.0,Chesapeake ,36.7711,-76.3019,DFO
+2001  ,4217382.0,Chesapeake ,36.7711,-76.3019,BIT
+2002  ,4126398.0,Chesapeake ,36.7711,-76.3019,BIT
+2003  ,3593212.0,Chesapeake ,36.7711,-76.3019,BIT
+2004  ,4101861.0,Chesapeake ,36.7711,-76.3019,BIT
+2005  ,3752931.0,Chesapeake ,36.7711,-76.3019,BIT
+2006  ,3656806.0,Chesapeake ,36.7711,-76.3019,BIT
+2007  ,3845765.439,Chesapeake ,36.7711,-76.3019,BIT
+2008  ,3375987.565,Chesapeake ,36.7711,-76.3019,BIT
+2009  ,3279086.197,Chesapeake ,36.7711,-76.3019,BIT
+2010  ,3299329.221,Chesapeake ,36.7711,-76.3019,BIT
+2011  ,2710076.59,Chesapeake ,36.7711,-76.3019,BIT
+2012  ,1364970.818,Chesapeake ,36.7711,-76.3019,BIT
+2013  ,1525862.832,Chesapeake ,36.7711,-76.3019,BIT
+2014  ,1361371.879,Chesapeake ,36.7711,-76.3019,BIT
+2015  ,0.0,Chesapeake ,36.7711,-76.3019,BIT
+2016  ,0.0,Chesapeake ,36.7711,-76.3019,BIT
+2017  ,0.0,Chesapeake ,36.7711,-76.3019,BIT
+2018  ,0.0,Chesapeake ,36.7711,-76.3019,BIT
+2001  ,24000.0,Possum Point ,38.5367,-77.2806,DFO
+2002  ,13527.0,Possum Point ,38.5367,-77.2806,DFO
+2003  ,10576.0,Possum Point ,38.5367,-77.2806,DFO
+2004  ,21972.0,Possum Point ,38.5367,-77.2806,DFO
+2005  ,17066.0,Possum Point ,38.5367,-77.2806,DFO
+2006  ,10777.0,Possum Point ,38.5367,-77.2806,DFO
+2007  ,25578.698,Possum Point ,38.5367,-77.2806,DFO
+2008  ,11314.793,Possum Point ,38.5367,-77.2806,DFO
+2009  ,8607.131,Possum Point ,38.5367,-77.2806,DFO
+2010  ,13614.513,Possum Point ,38.5367,-77.2806,DFO
+2011  ,3264.731,Possum Point ,38.5367,-77.2806,DFO
+2012  ,11381.25,Possum Point ,38.5367,-77.2806,DFO
+2013  ,4007.621,Possum Point ,38.5367,-77.2806,DFO
+2014  ,21121.855,Possum Point ,38.5367,-77.2806,DFO
+2016  ,7341.735,Possum Point ,38.5367,-77.2806,DFO
+2018  ,5527.024,Possum Point ,38.5367,-77.2806,DFO
+2019  ,7351.551,Possum Point ,38.5367,-77.2806,DFO
+2001  ,1500430.0,Possum Point ,38.5367,-77.2806,RFO
+2002  ,1016802.0,Possum Point ,38.5367,-77.2806,RFO
+2003  ,1152409.0,Possum Point ,38.5367,-77.2806,RFO
+2004  ,1214555.0,Possum Point ,38.5367,-77.2806,RFO
+2005  ,1593099.0,Possum Point ,38.5367,-77.2806,RFO
+2006  ,258023.0,Possum Point ,38.5367,-77.2806,RFO
+2007  ,490514.302,Possum Point ,38.5367,-77.2806,RFO
+2008  ,324263.218,Possum Point ,38.5367,-77.2806,RFO
+2009  ,213686.56,Possum Point ,38.5367,-77.2806,RFO
+2010  ,377031.052,Possum Point ,38.5367,-77.2806,RFO
+2011  ,70632.759,Possum Point ,38.5367,-77.2806,RFO
+2012  ,70994.69,Possum Point ,38.5367,-77.2806,RFO
+2013  ,29005.215,Possum Point ,38.5367,-77.2806,RFO
+2014  ,183566.425,Possum Point ,38.5367,-77.2806,RFO
+2015  ,222620.595,Possum Point ,38.5367,-77.2806,RFO
+2016  ,84335.38,Possum Point ,38.5367,-77.2806,RFO
+2018  ,49111.861,Possum Point ,38.5367,-77.2806,RFO
+2019  ,30609.027,Possum Point ,38.5367,-77.2806,RFO
+2003  ,1037706.0,Possum Point ,38.5367,-77.2806,NG
+2004  ,2218766.0,Possum Point ,38.5367,-77.2806,NG
+2005  ,1990572.0,Possum Point ,38.5367,-77.2806,NG
+2006  ,1432502.0,Possum Point ,38.5367,-77.2806,NG
+2007  ,2413045.0,Possum Point ,38.5367,-77.2806,NG
+2008  ,2206800.988,Possum Point ,38.5367,-77.2806,NG
+2009  ,3179560.309,Possum Point ,38.5367,-77.2806,NG
+2010  ,3438285.435,Possum Point ,38.5367,-77.2806,NG
+2011  ,2949151.51,Possum Point ,38.5367,-77.2806,NG
+2012  ,4071836.06,Possum Point ,38.5367,-77.2806,NG
+2013  ,3768682.164,Possum Point ,38.5367,-77.2806,NG
+2014  ,3447007.72,Possum Point ,38.5367,-77.2806,NG
+2016  ,3452155.885,Possum Point ,38.5367,-77.2806,NG
+2018  ,3668610.115,Possum Point ,38.5367,-77.2806,NG
+2019  ,2817970.422,Possum Point ,38.5367,-77.2806,NG
+2001  ,12662376.0,Surry ,37.1661,-76.6986,NUC
+2002  ,13672127.0,Surry ,37.1661,-76.6986,NUC
+2003  ,11031898.0,Surry ,37.1661,-76.6986,NUC
+2004  ,13508868.0,Surry ,37.1661,-76.6986,NUC
+2005  ,13230192.0,Surry ,37.1661,-76.6986,NUC
+2006  ,12500358.0,Surry ,37.1661,-76.6986,NUC
+2007  ,13281548.0,Surry ,37.1661,-76.6986,NUC
+2008  ,13497339.0,Surry ,37.1661,-76.6986,NUC
+2009  ,13009642.0,Surry ,37.1661,-76.6986,NUC
+2010  ,13172437.0,Surry ,37.1661,-76.6986,NUC
+2011  ,13029480.0,Surry ,37.1661,-76.6986,NUC
+2012  ,13390200.0,Surry ,37.1661,-76.6986,NUC
+2013  ,14320958.0,Surry ,37.1661,-76.6986,NUC
+2014  ,14332325.0,Surry ,37.1661,-76.6986,NUC
+2015  ,11789726.0,Surry ,37.1661,-76.6986,NUC
+2016  ,14610518.0,Surry ,37.1661,-76.6986,NUC
+2017  ,14427647.0,Surry ,37.1661,-76.6986,NUC
+2018  ,13219137.0,Surry ,37.1661,-76.6986,NUC
+2019  ,14172977.0,Surry ,37.1661,-76.6986,NUC
+2016  ,254.0,Monterey Diesel Generation Facility ,38.421389,-79.591389,DFO
+2017  ,272.0,Monterey Diesel Generation Facility ,38.421389,-79.591389,DFO
+2018  ,253.0,Monterey Diesel Generation Facility ,38.421389,-79.591389,DFO
+2016  ,15912.0,"Eastern Shore Solar, LLC ",37.943895,-75.569556,SUN
+2017  ,157538.0,"Eastern Shore Solar, LLC ",37.943895,-75.569556,SUN
+2018  ,153665.0,"Eastern Shore Solar, LLC ",37.943895,-75.569556,SUN
+2001  ,2078193.0,Yorktown ,37.2144,-76.4611,BIT
+2002  ,1855812.0,Yorktown ,37.2144,-76.4611,BIT
+2003  ,2070583.0,Yorktown ,37.2144,-76.4611,BIT
+2004  ,2265749.0,Yorktown ,37.2144,-76.4611,BIT
+2005  ,2052112.0,Yorktown ,37.2144,-76.4611,BIT
+2006  ,1920174.0,Yorktown ,37.2144,-76.4611,BIT
+2007  ,1953797.718,Yorktown ,37.2144,-76.4611,BIT
+2008  ,1851753.897,Yorktown ,37.2144,-76.4611,BIT
+2009  ,1682637.289,Yorktown ,37.2144,-76.4611,BIT
+2010  ,1524485.951,Yorktown ,37.2144,-76.4611,BIT
+2011  ,1196031.225,Yorktown ,37.2144,-76.4611,BIT
+2012  ,634882.666,Yorktown ,37.2144,-76.4611,BIT
+2013  ,818524.839,Yorktown ,37.2144,-76.4611,BIT
+2014  ,893801.54,Yorktown ,37.2144,-76.4611,BIT
+2015  ,255427.959,Yorktown ,37.2144,-76.4611,BIT
+2016  ,336196.357,Yorktown ,37.2144,-76.4611,BIT
+2018  ,362709.64,Yorktown ,37.2144,-76.4611,BIT
+2019  ,0.0,Yorktown ,37.2144,-76.4611,BIT
+2001  ,2865545.0,Yorktown ,37.2144,-76.4611,RFO
+2002  ,2327665.0,Yorktown ,37.2144,-76.4611,RFO
+2003  ,2953510.0,Yorktown ,37.2144,-76.4611,RFO
+2004  ,3081545.0,Yorktown ,37.2144,-76.4611,RFO
+2005  ,1770689.0,Yorktown ,37.2144,-76.4611,RFO
+2006  ,247096.0,Yorktown ,37.2144,-76.4611,RFO
+2007  ,839081.153,Yorktown ,37.2144,-76.4611,RFO
+2008  ,350547.376,Yorktown ,37.2144,-76.4611,RFO
+2009  ,233150.771,Yorktown ,37.2144,-76.4611,RFO
+2010  ,333285.951,Yorktown ,37.2144,-76.4611,RFO
+2011  ,142424.14,Yorktown ,37.2144,-76.4611,RFO
+2012  ,71689.272,Yorktown ,37.2144,-76.4611,RFO
+2013  ,72637.818,Yorktown ,37.2144,-76.4611,RFO
+2014  ,153472.965,Yorktown ,37.2144,-76.4611,RFO
+2015  ,293015.433,Yorktown ,37.2144,-76.4611,RFO
+2016  ,126915.8,Yorktown ,37.2144,-76.4611,RFO
+2018  ,188798.347,Yorktown ,37.2144,-76.4611,RFO
+2019  ,43095.587,Yorktown ,37.2144,-76.4611,RFO
+2013  ,39080.0,Halifax County Biomass ,36.701389,-78.873333,WDS
+2014  ,202625.0,Halifax County Biomass ,36.701389,-78.873333,WDS
+2015  ,255258.0,Halifax County Biomass ,36.701389,-78.873333,WDS
+2016  ,208730.0,Halifax County Biomass ,36.701389,-78.873333,WDS
+2017  ,213510.606,Halifax County Biomass ,36.701389,-78.873333,WDS
+2018  ,260157.82,Halifax County Biomass ,36.701389,-78.873333,WDS
+2001  ,8439.999,Snowden ,37.5736,-79.3715,WAT
+2002  ,5939.009,Snowden ,37.5736,-79.3715,WAT
+2003  ,25046.0,Snowden ,37.5736,-79.3715,WAT
+2004  ,28848.0,Snowden ,37.5736,-79.3715,WAT
+2005  ,14746.0,Snowden ,37.5736,-79.3715,WAT
+2006  ,16320.0,Snowden ,37.5736,-79.3715,WAT
+2007  ,13112.0,Snowden ,37.5736,-79.3715,WAT
+2008  ,8554.0,Snowden ,37.5736,-79.3715,WAT
+2009  ,11434.0,Snowden ,37.5736,-79.3715,WAT
+2010  ,11578.0,Snowden ,37.5736,-79.3715,WAT
+2011  ,9782.0,Snowden ,37.5736,-79.3715,WAT
+2012  ,15568.0,Snowden ,37.5736,-79.3715,WAT
+2013  ,9214.0,Snowden ,37.5736,-79.3715,WAT
+2014  ,19492.0,Snowden ,37.5736,-79.3715,WAT
+2015  ,19492.0,Snowden ,37.5736,-79.3715,WAT
+2016  ,14567.0,Snowden ,37.5736,-79.3715,WAT
+2017  ,9205.0,Snowden ,37.5736,-79.3715,WAT
+2018  ,12411.0,Snowden ,37.5736,-79.3715,WAT
+2001  ,13600.999,Pinnacles ,36.666866,-80.447897,WAT
+2002  ,6315.0,Pinnacles ,36.666866,-80.447897,WAT
+2003  ,0.0,Pinnacles ,36.666866,-80.447897,WAT
+2004  ,7195.0,Pinnacles ,36.666866,-80.447897,WAT
+2008  ,15312.33,Pinnacles ,36.666866,-80.447897,WAT
+2009  ,27103.0,Pinnacles ,36.666866,-80.447897,WAT
+2010  ,28152.0,Pinnacles ,36.666866,-80.447897,WAT
+2011  ,18315.0,Pinnacles ,36.666866,-80.447897,WAT
+2012  ,28818.0,Pinnacles ,36.666866,-80.447897,WAT
+2013  ,7890.0,Pinnacles ,36.666866,-80.447897,WAT
+2014  ,13962.0,Pinnacles ,36.666866,-80.447897,WAT
+2015  ,35444.0,Pinnacles ,36.666866,-80.447897,WAT
+2016  ,31565.0,Pinnacles ,36.666866,-80.447897,WAT
+2017  ,22696.0,Pinnacles ,36.666866,-80.447897,WAT
+2018  ,34469.0,Pinnacles ,36.666866,-80.447897,WAT
+2001  ,1983.001,Martinsville ,36.664145,-79.883588,WAT
+2002  ,1218.0,Martinsville ,36.664145,-79.883588,WAT
+2003  ,4732.001,Martinsville ,36.664145,-79.883588,WAT
+2004  ,1270.001,Martinsville ,36.664145,-79.883588,WAT
+2005  ,1269.999,Martinsville ,36.664145,-79.883588,WAT
+2006  ,1270.001,Martinsville ,36.664145,-79.883588,WAT
+2007  ,549.0,Martinsville ,36.664145,-79.883588,WAT
+2008  ,0.0,Martinsville ,36.664145,-79.883588,WAT
+2009  ,1399.86,Martinsville ,36.664145,-79.883588,WAT
+2010  ,1099.0,Martinsville ,36.664145,-79.883588,WAT
+2011  ,1420.0,Martinsville ,36.664145,-79.883588,WAT
+2012  ,1359.0,Martinsville ,36.664145,-79.883588,WAT
+2013  ,2308.0,Martinsville ,36.664145,-79.883588,WAT
+2014  ,2004.0,Martinsville ,36.664145,-79.883588,WAT
+2015  ,2491.0,Martinsville ,36.664145,-79.883588,WAT
+2016  ,3217.0,Martinsville ,36.664145,-79.883588,WAT
+2017  ,1294.0,Martinsville ,36.664145,-79.883588,WAT
+2018  ,647.0,Martinsville ,36.664145,-79.883588,WAT
+2001  ,3178.0,Radford ,37.078366,-80.572726,WAT
+2002  ,2986.0,Radford ,37.078366,-80.572726,WAT
+2003  ,7516.999,Radford ,37.078366,-80.572726,WAT
+2004  ,4828.001,Radford ,37.078366,-80.572726,WAT
+2005  ,2988.0,Radford ,37.078366,-80.572726,WAT
+2006  ,4283.001,Radford ,37.078366,-80.572726,WAT
+2007  ,3824.0,Radford ,37.078366,-80.572726,WAT
+2008  ,2242.35,Radford ,37.078366,-80.572726,WAT
+2009  ,3347.0,Radford ,37.078366,-80.572726,WAT
+2010  ,3079.89,Radford ,37.078366,-80.572726,WAT
+2011  ,4167.0,Radford ,37.078366,-80.572726,WAT
+2012  ,4132.0,Radford ,37.078366,-80.572726,WAT
+2013  ,3118.0,Radford ,37.078366,-80.572726,WAT
+2014  ,3088.8,Radford ,37.078366,-80.572726,WAT
+2001  ,378.0,Tangier ,37.8277,-75.9915,DFO
+2002  ,432.999,Tangier ,37.8277,-75.9915,DFO
+2003  ,134.0,Tangier ,37.8277,-75.9915,DFO
+2004  ,102.0,Tangier ,37.8277,-75.9915,DFO
+2005  ,227.0,Tangier ,37.8277,-75.9915,DFO
+2006  ,-21.001,Tangier ,37.8277,-75.9915,DFO
+2007  ,59.78,Tangier ,37.8277,-75.9915,DFO
+2008  ,70.56,Tangier ,37.8277,-75.9915,DFO
+2009  ,59.78,Tangier ,37.8277,-75.9915,DFO
+2010  ,51.94,Tangier ,37.8277,-75.9915,DFO
+2011  ,286.0,Tangier ,37.8277,-75.9915,DFO
+2012  ,117.0,Tangier ,37.8277,-75.9915,DFO
+2013  ,66.0,Tangier ,37.8277,-75.9915,DFO
+2014  ,166.0,Tangier ,37.8277,-75.9915,DFO
+2015  ,159.0,Tangier ,37.8277,-75.9915,DFO
+2016  ,8.0,Tangier ,37.8277,-75.9915,DFO
+2017  ,0.0,Tangier ,37.8277,-75.9915,DFO
+2018  ,165.0,Tangier ,37.8277,-75.9915,DFO
+2001  ,234813.0,John H Kerr ,36.59943,-78.3005,WAT
+2002  ,186602.0,John H Kerr ,36.59943,-78.3005,WAT
+2003  ,498378.0,John H Kerr ,36.59943,-78.3005,WAT
+2004  ,479189.0,John H Kerr ,36.59943,-78.3005,WAT
+2005  ,374849.0,John H Kerr ,36.59943,-78.3005,WAT
+2006  ,315318.0,John H Kerr ,36.59943,-78.3005,WAT
+2007  ,309526.0,John H Kerr ,36.59943,-78.3005,WAT
+2008  ,222798.0,John H Kerr ,36.59943,-78.3005,WAT
+2009  ,459402.0,John H Kerr ,36.59943,-78.3005,WAT
+2010  ,506304.0,John H Kerr ,36.59943,-78.3005,WAT
+2011  ,275517.0,John H Kerr ,36.59943,-78.3005,WAT
+2012  ,239634.0,John H Kerr ,36.59943,-78.3005,WAT
+2013  ,415468.0,John H Kerr ,36.59943,-78.3005,WAT
+2014  ,422083.0,John H Kerr ,36.59943,-78.3005,WAT
+2015  ,363987.0,John H Kerr ,36.59943,-78.3005,WAT
+2016  ,586294.0,John H Kerr ,36.59943,-78.3005,WAT
+2017  ,394864.0,John H Kerr ,36.59943,-78.3005,WAT
+2018  ,735129.0,John H Kerr ,36.59943,-78.3005,WAT
+2001  ,12344.0,Philpott Lake ,36.7803,-80.0281,WAT
+2002  ,5430.0,Philpott Lake ,36.7803,-80.0281,WAT
+2003  ,41932.0,Philpott Lake ,36.7803,-80.0281,WAT
+2004  ,27762.0,Philpott Lake ,36.7803,-80.0281,WAT
+2005  ,25895.0,Philpott Lake ,36.7803,-80.0281,WAT
+2006  ,19972.0,Philpott Lake ,36.7803,-80.0281,WAT
+2007  ,23369.0,Philpott Lake ,36.7803,-80.0281,WAT
+2008  ,12560.0,Philpott Lake ,36.7803,-80.0281,WAT
+2009  ,24660.0,Philpott Lake ,36.7803,-80.0281,WAT
+2010  ,27566.0,Philpott Lake ,36.7803,-80.0281,WAT
+2011  ,22643.0,Philpott Lake ,36.7803,-80.0281,WAT
+2012  ,16057.0,Philpott Lake ,36.7803,-80.0281,WAT
+2013  ,33275.0,Philpott Lake ,36.7803,-80.0281,WAT
+2014  ,24571.0,Philpott Lake ,36.7803,-80.0281,WAT
+2015  ,25036.0,Philpott Lake ,36.7803,-80.0281,WAT
+2016  ,15947.0,Philpott Lake ,36.7803,-80.0281,WAT
+2017  ,1801.0,Philpott Lake ,36.7803,-80.0281,WAT
+2018  ,31780.0,Philpott Lake ,36.7803,-80.0281,WAT
+2005  ,194.999,Ponton Diesel Generating Facility ,37.2953,-77.9862,DFO
+2006  ,148.0,Ponton Diesel Generating Facility ,37.2953,-77.9862,DFO
+2007  ,98.002,Ponton Diesel Generating Facility ,37.2953,-77.9862,DFO
+2008  ,62.0,Ponton Diesel Generating Facility ,37.2953,-77.9862,DFO
+2009  ,97.0,Ponton Diesel Generating Facility ,37.2953,-77.9862,DFO
+2010  ,168.0,Ponton Diesel Generating Facility ,37.2953,-77.9862,DFO
+2011  ,123.0,Ponton Diesel Generating Facility ,37.2953,-77.9862,DFO
+2012  ,110.0,Ponton Diesel Generating Facility ,37.2953,-77.9862,DFO
+2013  ,29.0,Ponton Diesel Generating Facility ,37.2953,-77.9862,DFO
+2014  ,429.0,Ponton Diesel Generating Facility ,37.2953,-77.9862,DFO
+2015  ,188.0,Ponton Diesel Generating Facility ,37.2953,-77.9862,DFO
+2016  ,212.0,Ponton Diesel Generating Facility ,37.2953,-77.9862,DFO
+2017  ,45.0,Ponton Diesel Generating Facility ,37.2953,-77.9862,DFO
+2018  ,166.0,Ponton Diesel Generating Facility ,37.2953,-77.9862,DFO
+2005  ,183.0,Nottoway Diesel Generating Facility ,36.697222,-77.105,DFO
+2006  ,155.001,Nottoway Diesel Generating Facility ,36.697222,-77.105,DFO
+2007  ,92.0,Nottoway Diesel Generating Facility ,36.697222,-77.105,DFO
+2008  ,38.0,Nottoway Diesel Generating Facility ,36.697222,-77.105,DFO
+2009  ,100.0,Nottoway Diesel Generating Facility ,36.697222,-77.105,DFO
+2010  ,165.0,Nottoway Diesel Generating Facility ,36.697222,-77.105,DFO
+2011  ,201.0,Nottoway Diesel Generating Facility ,36.697222,-77.105,DFO
+2012  ,118.0,Nottoway Diesel Generating Facility ,36.697222,-77.105,DFO
+2013  ,106.0,Nottoway Diesel Generating Facility ,36.697222,-77.105,DFO
+2014  ,438.0,Nottoway Diesel Generating Facility ,36.697222,-77.105,DFO
+2015  ,197.0,Nottoway Diesel Generating Facility ,36.697222,-77.105,DFO
+2016  ,195.0,Nottoway Diesel Generating Facility ,36.697222,-77.105,DFO
+2017  ,137.0,Nottoway Diesel Generating Facility ,36.697222,-77.105,DFO
+2018  ,257.0,Nottoway Diesel Generating Facility ,36.697222,-77.105,DFO
+2001  ,899.001,Church Street Plant ,38.752347,-77.462918,DFO
+2002  ,682.0,Church Street Plant ,38.752347,-77.462918,DFO
+2003  ,1007.999,Church Street Plant ,38.752347,-77.462918,DFO
+2004  ,1017.996,Church Street Plant ,38.752347,-77.462918,DFO
+2005  ,934.001,Church Street Plant ,38.752347,-77.462918,DFO
+2006  ,887.001,Church Street Plant ,38.752347,-77.462918,DFO
+2007  ,885.0,Church Street Plant ,38.752347,-77.462918,DFO
+2008  ,408.0,Church Street Plant ,38.752347,-77.462918,DFO
+2009  ,360.0,Church Street Plant ,38.752347,-77.462918,DFO
+2010  ,218.0,Church Street Plant ,38.752347,-77.462918,DFO
+2011  ,55.0,Church Street Plant ,38.752347,-77.462918,DFO
+2012  ,64.0,Church Street Plant ,38.752347,-77.462918,DFO
+2013  ,72.0,Church Street Plant ,38.752347,-77.462918,DFO
+2014  ,100.0,Church Street Plant ,38.752347,-77.462918,DFO
+2015  ,170.0,Church Street Plant ,38.752347,-77.462918,DFO
+2016  ,79.0,Church Street Plant ,38.752347,-77.462918,DFO
+2017  ,50.0,Church Street Plant ,38.752347,-77.462918,DFO
+2018  ,59.0,Church Street Plant ,38.752347,-77.462918,DFO
+2001  ,906.002,Godwin Drive Plant ,38.74054,-77.508061,DFO
+2002  ,1125.0,Godwin Drive Plant ,38.74054,-77.508061,DFO
+2003  ,1028.998,Godwin Drive Plant ,38.74054,-77.508061,DFO
+2004  ,1185.996,Godwin Drive Plant ,38.74054,-77.508061,DFO
+2005  ,1105.999,Godwin Drive Plant ,38.74054,-77.508061,DFO
+2006  ,909.999,Godwin Drive Plant ,38.74054,-77.508061,DFO
+2007  ,839.0,Godwin Drive Plant ,38.74054,-77.508061,DFO
+2008  ,614.0,Godwin Drive Plant ,38.74054,-77.508061,DFO
+2009  ,405.0,Godwin Drive Plant ,38.74054,-77.508061,DFO
+2010  ,107.0,Godwin Drive Plant ,38.74054,-77.508061,DFO
+2011  ,78.0,Godwin Drive Plant ,38.74054,-77.508061,DFO
+2012  ,57.0,Godwin Drive Plant ,38.74054,-77.508061,DFO
+2013  ,97.0,Godwin Drive Plant ,38.74054,-77.508061,DFO
+2014  ,35.0,Godwin Drive Plant ,38.74054,-77.508061,DFO
+2015  ,190.0,Godwin Drive Plant ,38.74054,-77.508061,DFO
+2016  ,68.0,Godwin Drive Plant ,38.74054,-77.508061,DFO
+2017  ,84.0,Godwin Drive Plant ,38.74054,-77.508061,DFO
+2018  ,96.0,Godwin Drive Plant ,38.74054,-77.508061,DFO
+2001  ,1887.999,VMEA 1 Credit Gen ,38.74054,-77.508061,DFO
+2002  ,2937.999,VMEA 1 Credit Gen ,38.74054,-77.508061,DFO
+2003  ,2703.999,VMEA 1 Credit Gen ,38.74054,-77.508061,DFO
+2004  ,2585.004,VMEA 1 Credit Gen ,38.74054,-77.508061,DFO
+2005  ,2999.999,VMEA 1 Credit Gen ,38.74054,-77.508061,DFO
+2006  ,2958.0,VMEA 1 Credit Gen ,38.74054,-77.508061,DFO
+2007  ,2900.001,VMEA 1 Credit Gen ,38.74054,-77.508061,DFO
+2008  ,2003.0,VMEA 1 Credit Gen ,38.74054,-77.508061,DFO
+2009  ,2893.0,VMEA 1 Credit Gen ,38.74054,-77.508061,DFO
+2010  ,2730.0,VMEA 1 Credit Gen ,38.74054,-77.508061,DFO
+2011  ,101.0,VMEA 1 Credit Gen ,38.74054,-77.508061,DFO
+2012  ,122.0,VMEA 1 Credit Gen ,38.74054,-77.508061,DFO
+2013  ,159.0,VMEA 1 Credit Gen ,38.74054,-77.508061,DFO
+2014  ,258.0,VMEA 1 Credit Gen ,38.74054,-77.508061,DFO
+2015  ,361.0,VMEA 1 Credit Gen ,38.74054,-77.508061,DFO
+2016  ,166.0,VMEA 1 Credit Gen ,38.74054,-77.508061,DFO
+2017  ,57.0,VMEA 1 Credit Gen ,38.74054,-77.508061,DFO
+2018  ,185.0,VMEA 1 Credit Gen ,38.74054,-77.508061,DFO
+2001  ,910.002,VMEA Peaking Gen ,38.74054,-77.508061,DFO
+2002  ,1142.001,VMEA Peaking Gen ,38.74054,-77.508061,DFO
+2003  ,1081.998,VMEA Peaking Gen ,38.74054,-77.508061,DFO
+2004  ,1197.0,VMEA Peaking Gen ,38.74054,-77.508061,DFO
+2005  ,1073.001,VMEA Peaking Gen ,38.74054,-77.508061,DFO
+2006  ,918.999,VMEA Peaking Gen ,38.74054,-77.508061,DFO
+2007  ,819.0,VMEA Peaking Gen ,38.74054,-77.508061,DFO
+2008  ,1435.0,VMEA Peaking Gen ,38.74054,-77.508061,DFO
+2009  ,566.0,VMEA Peaking Gen ,38.74054,-77.508061,DFO
+2010  ,470.0,VMEA Peaking Gen ,38.74054,-77.508061,DFO
+2011  ,48.0,VMEA Peaking Gen ,38.74054,-77.508061,DFO
+2012  ,54.0,VMEA Peaking Gen ,38.74054,-77.508061,DFO
+2013  ,86.0,VMEA Peaking Gen ,38.74054,-77.508061,DFO
+2014  ,131.0,VMEA Peaking Gen ,38.74054,-77.508061,DFO
+2015  ,174.0,VMEA Peaking Gen ,38.74054,-77.508061,DFO
+2016  ,36.0,VMEA Peaking Gen ,38.74054,-77.508061,DFO
+2017  ,102.0,VMEA Peaking Gen ,38.74054,-77.508061,DFO
+2018  ,83.0,VMEA Peaking Gen ,38.74054,-77.508061,DFO
+2003  ,105079.0,Bellmeade Power Station ,37.4964,-77.4317,DFO
+2004  ,36955.0,Bellmeade Power Station ,37.4964,-77.4317,DFO
+2005  ,50701.0,Bellmeade Power Station ,37.4964,-77.4317,DFO
+2006  ,2014.0,Bellmeade Power Station ,37.4964,-77.4317,DFO
+2007  ,7568.369,Bellmeade Power Station ,37.4964,-77.4317,DFO
+2008  ,8384.787,Bellmeade Power Station ,37.4964,-77.4317,DFO
+2009  ,20733.388,Bellmeade Power Station ,37.4964,-77.4317,DFO
+2010  ,17307.975,Bellmeade Power Station ,37.4964,-77.4317,DFO
+2011  ,4904.418,Bellmeade Power Station ,37.4964,-77.4317,DFO
+2012  ,345.159,Bellmeade Power Station ,37.4964,-77.4317,DFO
+2013  ,332.998,Bellmeade Power Station ,37.4964,-77.4317,DFO
+2014  ,49522.743,Bellmeade Power Station ,37.4964,-77.4317,DFO
+2016  ,796.65,Bellmeade Power Station ,37.4964,-77.4317,DFO
+2017  ,619.285,Bellmeade Power Station ,37.4964,-77.4317,DFO
+2018  ,37525.124,Bellmeade Power Station ,37.4964,-77.4317,DFO
+2003  ,148276.0,Bellmeade Power Station ,37.4964,-77.4317,NG
+2004  ,141845.0,Bellmeade Power Station ,37.4964,-77.4317,NG
+2005  ,331339.0,Bellmeade Power Station ,37.4964,-77.4317,NG
+2006  ,327353.0,Bellmeade Power Station ,37.4964,-77.4317,NG
+2007  ,374868.631,Bellmeade Power Station ,37.4964,-77.4317,NG
+2008  ,404724.213,Bellmeade Power Station ,37.4964,-77.4317,NG
+2009  ,410082.612,Bellmeade Power Station ,37.4964,-77.4317,NG
+2010  ,699028.025,Bellmeade Power Station ,37.4964,-77.4317,NG
+2011  ,504894.582,Bellmeade Power Station ,37.4964,-77.4317,NG
+2012  ,1199106.841,Bellmeade Power Station ,37.4964,-77.4317,NG
+2013  ,294439.002,Bellmeade Power Station ,37.4964,-77.4317,NG
+2014  ,202269.257,Bellmeade Power Station ,37.4964,-77.4317,NG
+2016  ,935810.35,Bellmeade Power Station ,37.4964,-77.4317,NG
+2017  ,179040.715,Bellmeade Power Station ,37.4964,-77.4317,NG
+2018  ,2266.876,Bellmeade Power Station ,37.4964,-77.4317,NG
+2001  ,93003.632,WestRock-West Point Mill ,37.5392,-76.8053,BIT
+2002  ,114416.865,WestRock-West Point Mill ,37.5392,-76.8053,BIT
+2003  ,89685.945,WestRock-West Point Mill ,37.5392,-76.8053,BIT
+2004  ,82544.51241,WestRock-West Point Mill ,37.5392,-76.8053,BIT
+2005  ,97760.15111,WestRock-West Point Mill ,37.5392,-76.8053,BIT
+2006  ,102223.80616,WestRock-West Point Mill ,37.5392,-76.8053,BIT
+2007  ,95693.377,WestRock-West Point Mill ,37.5392,-76.8053,BIT
+2008  ,97150.011,WestRock-West Point Mill ,37.5392,-76.8053,BIT
+2009  ,100502.275,WestRock-West Point Mill ,37.5392,-76.8053,BIT
+2010  ,105119.906,WestRock-West Point Mill ,37.5392,-76.8053,BIT
+2011  ,103218.323,WestRock-West Point Mill ,37.5392,-76.8053,BIT
+2012  ,107095.566,WestRock-West Point Mill ,37.5392,-76.8053,BIT
+2013  ,49260.18,WestRock-West Point Mill ,37.5392,-76.8053,BIT
+2014  ,19562.061,WestRock-West Point Mill ,37.5392,-76.8053,BIT
+2015  ,16143.101,WestRock-West Point Mill ,37.5392,-76.8053,BIT
+2016  ,22500.857,WestRock-West Point Mill ,37.5392,-76.8053,BIT
+2017  ,17170.498,WestRock-West Point Mill ,37.5392,-76.8053,BIT
+2018  ,14839.987,WestRock-West Point Mill ,37.5392,-76.8053,BIT
+2019  ,15735.786,WestRock-West Point Mill ,37.5392,-76.8053,BIT
+2001  ,187653.242,WestRock-West Point Mill ,37.5392,-76.8053,WDS
+2002  ,139694.841,WestRock-West Point Mill ,37.5392,-76.8053,WDS
+2003  ,110643.506,WestRock-West Point Mill ,37.5392,-76.8053,WDS
+2004  ,115014.90476,WestRock-West Point Mill ,37.5392,-76.8053,WDS
+2005  ,127437.59193,WestRock-West Point Mill ,37.5392,-76.8053,WDS
+2006  ,120047.65664,WestRock-West Point Mill ,37.5392,-76.8053,WDS
+2007  ,140378.458,WestRock-West Point Mill ,37.5392,-76.8053,WDS
+2008  ,137956.714,WestRock-West Point Mill ,37.5392,-76.8053,WDS
+2009  ,124367.801,WestRock-West Point Mill ,37.5392,-76.8053,WDS
+2010  ,123977.409,WestRock-West Point Mill ,37.5392,-76.8053,WDS
+2011  ,136943.802,WestRock-West Point Mill ,37.5392,-76.8053,WDS
+2012  ,144918.414,WestRock-West Point Mill ,37.5392,-76.8053,WDS
+2013  ,146740.538,WestRock-West Point Mill ,37.5392,-76.8053,WDS
+2014  ,129582.007,WestRock-West Point Mill ,37.5392,-76.8053,WDS
+2015  ,128688.485,WestRock-West Point Mill ,37.5392,-76.8053,WDS
+2016  ,121282.949,WestRock-West Point Mill ,37.5392,-76.8053,WDS
+2017  ,96867.149,WestRock-West Point Mill ,37.5392,-76.8053,WDS
+2018  ,93898.67,WestRock-West Point Mill ,37.5392,-76.8053,WDS
+2019  ,80638.471,WestRock-West Point Mill ,37.5392,-76.8053,WDS
+2001  ,219736.341,WestRock-West Point Mill ,37.5392,-76.8053,BLQ
+2002  ,265497.981,WestRock-West Point Mill ,37.5392,-76.8053,BLQ
+2003  ,258788.648,WestRock-West Point Mill ,37.5392,-76.8053,BLQ
+2004  ,277477.20561,WestRock-West Point Mill ,37.5392,-76.8053,BLQ
+2005  ,286884.34604,WestRock-West Point Mill ,37.5392,-76.8053,BLQ
+2006  ,292647.02591,WestRock-West Point Mill ,37.5392,-76.8053,BLQ
+2007  ,284066.346,WestRock-West Point Mill ,37.5392,-76.8053,BLQ
+2008  ,292518.821,WestRock-West Point Mill ,37.5392,-76.8053,BLQ
+2009  ,297122.472,WestRock-West Point Mill ,37.5392,-76.8053,BLQ
+2010  ,288971.639,WestRock-West Point Mill ,37.5392,-76.8053,BLQ
+2011  ,276225.637,WestRock-West Point Mill ,37.5392,-76.8053,BLQ
+2012  ,257072.427,WestRock-West Point Mill ,37.5392,-76.8053,BLQ
+2013  ,252636.252,WestRock-West Point Mill ,37.5392,-76.8053,BLQ
+2014  ,243332.648,WestRock-West Point Mill ,37.5392,-76.8053,BLQ
+2015  ,263893.899,WestRock-West Point Mill ,37.5392,-76.8053,BLQ
+2016  ,267631.718,WestRock-West Point Mill ,37.5392,-76.8053,BLQ
+2017  ,295703.837,WestRock-West Point Mill ,37.5392,-76.8053,BLQ
+2018  ,279862.568,WestRock-West Point Mill ,37.5392,-76.8053,BLQ
+2019  ,285449.067,WestRock-West Point Mill ,37.5392,-76.8053,BLQ
+2013  ,88135.92,WestRock-West Point Mill ,37.5392,-76.8053,NG
+2014  ,138228.02,WestRock-West Point Mill ,37.5392,-76.8053,NG
+2015  ,151137.171,WestRock-West Point Mill ,37.5392,-76.8053,NG
+2016  ,170172.406,WestRock-West Point Mill ,37.5392,-76.8053,NG
+2017  ,164047.253,WestRock-West Point Mill ,37.5392,-76.8053,NG
+2018  ,170301.417,WestRock-West Point Mill ,37.5392,-76.8053,NG
+2019  ,182895.171,WestRock-West Point Mill ,37.5392,-76.8053,NG
+2003  ,22792.914,WestRock-West Point Mill ,37.5392,-76.8053,SLW
+2004  ,20561.72592,WestRock-West Point Mill ,37.5392,-76.8053,SLW
+2005  ,17663.76158,WestRock-West Point Mill ,37.5392,-76.8053,SLW
+2006  ,11337.22592,WestRock-West Point Mill ,37.5392,-76.8053,SLW
+2007  ,17548.706,WestRock-West Point Mill ,37.5392,-76.8053,SLW
+2008  ,18516.261,WestRock-West Point Mill ,37.5392,-76.8053,SLW
+2009  ,12655.585,WestRock-West Point Mill ,37.5392,-76.8053,SLW
+2010  ,10495.682,WestRock-West Point Mill ,37.5392,-76.8053,SLW
+2011  ,5319.9,WestRock-West Point Mill ,37.5392,-76.8053,SLW
+2012  ,2423.03,WestRock-West Point Mill ,37.5392,-76.8053,SLW
+2013  ,5464.058,WestRock-West Point Mill ,37.5392,-76.8053,SLW
+2014  ,4777.456,WestRock-West Point Mill ,37.5392,-76.8053,SLW
+2015  ,5497.217,WestRock-West Point Mill ,37.5392,-76.8053,SLW
+2016  ,4941.568,WestRock-West Point Mill ,37.5392,-76.8053,SLW
+2017  ,9402.849,WestRock-West Point Mill ,37.5392,-76.8053,SLW
+2018  ,8812.234,WestRock-West Point Mill ,37.5392,-76.8053,SLW
+2019  ,10193.171,WestRock-West Point Mill ,37.5392,-76.8053,SLW
+2001  ,66395.64,WestRock-West Point Mill ,37.5392,-76.8053,RFO
+2002  ,42222.471,WestRock-West Point Mill ,37.5392,-76.8053,RFO
+2003  ,37620.687,WestRock-West Point Mill ,37.5392,-76.8053,RFO
+2004  ,43483.00014,WestRock-West Point Mill ,37.5392,-76.8053,RFO
+2005  ,28742.26938,WestRock-West Point Mill ,37.5392,-76.8053,RFO
+2006  ,29638.22169,WestRock-West Point Mill ,37.5392,-76.8053,RFO
+2007  ,25457.552,WestRock-West Point Mill ,37.5392,-76.8053,RFO
+2008  ,19941.333,WestRock-West Point Mill ,37.5392,-76.8053,RFO
+2009  ,26490.281,WestRock-West Point Mill ,37.5392,-76.8053,RFO
+2010  ,26957.776,WestRock-West Point Mill ,37.5392,-76.8053,RFO
+2011  ,22249.974,WestRock-West Point Mill ,37.5392,-76.8053,RFO
+2012  ,14554.127,WestRock-West Point Mill ,37.5392,-76.8053,RFO
+2013  ,10442.954,WestRock-West Point Mill ,37.5392,-76.8053,RFO
+2014  ,1170.45,WestRock-West Point Mill ,37.5392,-76.8053,RFO
+2015  ,1138.825,WestRock-West Point Mill ,37.5392,-76.8053,RFO
+2016  ,826.171,WestRock-West Point Mill ,37.5392,-76.8053,RFO
+2017  ,1055.769,WestRock-West Point Mill ,37.5392,-76.8053,RFO
+2018  ,568.264,WestRock-West Point Mill ,37.5392,-76.8053,RFO
+2019  ,488.324,WestRock-West Point Mill ,37.5392,-76.8053,RFO
+2017  ,6885.0,Remington Solar Facility ,38.548333,-77.776389,SUN
+2018  ,35343.0,Remington Solar Facility ,38.548333,-77.776389,SUN
+2001  ,754686.0,Mecklenburg Power Station ,36.6,-78.53,BIT
+2002  ,630372.0,Mecklenburg Power Station ,36.6,-78.53,BIT
+2003  ,774237.181,Mecklenburg Power Station ,36.6,-78.53,BIT
+2005  ,813596.0,Mecklenburg Power Station ,36.6,-78.53,BIT
+2006  ,702005.0,Mecklenburg Power Station ,36.6,-78.53,BIT
+2007  ,736222.863,Mecklenburg Power Station ,36.6,-78.53,BIT
+2008  ,519362.087,Mecklenburg Power Station ,36.6,-78.53,BIT
+2009  ,390049.309,Mecklenburg Power Station ,36.6,-78.53,BIT
+2010  ,482811.296,Mecklenburg Power Station ,36.6,-78.53,BIT
+2011  ,213953.475,Mecklenburg Power Station ,36.6,-78.53,BIT
+2012  ,168395.671,Mecklenburg Power Station ,36.6,-78.53,BIT
+2013  ,368243.115,Mecklenburg Power Station ,36.6,-78.53,BIT
+2014  ,451289.864,Mecklenburg Power Station ,36.6,-78.53,BIT
+2015  ,333377.21,Mecklenburg Power Station ,36.6,-78.53,BIT
+2016  ,296566.16,Mecklenburg Power Station ,36.6,-78.53,BIT
+2017  ,149788.554,Mecklenburg Power Station ,36.6,-78.53,BIT
+2018  ,57227.04,Mecklenburg Power Station ,36.6,-78.53,BIT
+2001  ,1330.386,Georgia-Pacific Big Island ,37.534,-79.357,WAT
+2002  ,1530.318,Georgia-Pacific Big Island ,37.534,-79.357,WAT
+2003  ,5867.0,Georgia-Pacific Big Island ,37.534,-79.357,WAT
+2004  ,119.789,Georgia-Pacific Big Island ,37.534,-79.357,WAT
+2005  ,0.0,Georgia-Pacific Big Island ,37.534,-79.357,WAT
+2006  ,299.97,Georgia-Pacific Big Island ,37.534,-79.357,WAT
+2007  ,548.001,Georgia-Pacific Big Island ,37.534,-79.357,WAT
+2008  ,0.0,Georgia-Pacific Big Island ,37.534,-79.357,WAT
+2009  ,396.0,Georgia-Pacific Big Island ,37.534,-79.357,WAT
+2010  ,147.0,Georgia-Pacific Big Island ,37.534,-79.357,WAT
+2011  ,212.0,Georgia-Pacific Big Island ,37.534,-79.357,WAT
+2012  ,206.0,Georgia-Pacific Big Island ,37.534,-79.357,WAT
+2013  ,78.0,Georgia-Pacific Big Island ,37.534,-79.357,WAT
+2014  ,164.0,Georgia-Pacific Big Island ,37.534,-79.357,WAT
+2015  ,179.0,Georgia-Pacific Big Island ,37.534,-79.357,WAT
+2016  ,137.0,Georgia-Pacific Big Island ,37.534,-79.357,WAT
+2017  ,198.52,Georgia-Pacific Big Island ,37.534,-79.357,WAT
+2018  ,172.0,Georgia-Pacific Big Island ,37.534,-79.357,WAT
+2019  ,140.0,Georgia-Pacific Big Island ,37.534,-79.357,WAT
+2004  ,1157.91624,Georgia-Pacific Big Island ,37.534,-79.357,OBS
+2005  ,926.02754,Georgia-Pacific Big Island ,37.534,-79.357,OBS
+2006  ,1133.25756,Georgia-Pacific Big Island ,37.534,-79.357,OBS
+2013  ,975.718,Georgia-Pacific Big Island ,37.534,-79.357,OBS
+2014  ,990.484,Georgia-Pacific Big Island ,37.534,-79.357,OBS
+2015  ,2776.077,Georgia-Pacific Big Island ,37.534,-79.357,OBS
+2016  ,4946.973,Georgia-Pacific Big Island ,37.534,-79.357,OBS
+2017  ,4287.729,Georgia-Pacific Big Island ,37.534,-79.357,OBS
+2018  ,3067.652,Georgia-Pacific Big Island ,37.534,-79.357,OBS
+2019  ,1995.587,Georgia-Pacific Big Island ,37.534,-79.357,OBS
+2001  ,14330.737,Georgia-Pacific Big Island ,37.534,-79.357,WDS
+2002  ,17319.656,Georgia-Pacific Big Island ,37.534,-79.357,WDS
+2004  ,15442.0107,Georgia-Pacific Big Island ,37.534,-79.357,WDS
+2005  ,18166.38277,Georgia-Pacific Big Island ,37.534,-79.357,WDS
+2006  ,19040.94757,Georgia-Pacific Big Island ,37.534,-79.357,WDS
+2007  ,19634.838,Georgia-Pacific Big Island ,37.534,-79.357,WDS
+2008  ,15873.47,Georgia-Pacific Big Island ,37.534,-79.357,WDS
+2009  ,17368.219,Georgia-Pacific Big Island ,37.534,-79.357,WDS
+2010  ,19523.792,Georgia-Pacific Big Island ,37.534,-79.357,WDS
+2011  ,19122.554,Georgia-Pacific Big Island ,37.534,-79.357,WDS
+2012  ,15418.658,Georgia-Pacific Big Island ,37.534,-79.357,WDS
+2013  ,48435.328,Georgia-Pacific Big Island ,37.534,-79.357,WDS
+2014  ,44304.17,Georgia-Pacific Big Island ,37.534,-79.357,WDS
+2015  ,42323.176,Georgia-Pacific Big Island ,37.534,-79.357,WDS
+2016  ,49789.545,Georgia-Pacific Big Island ,37.534,-79.357,WDS
+2017  ,41617.925,Georgia-Pacific Big Island ,37.534,-79.357,WDS
+2018  ,44847.595,Georgia-Pacific Big Island ,37.534,-79.357,WDS
+2019  ,32666.061,Georgia-Pacific Big Island ,37.534,-79.357,WDS
+2001  ,18165.815,Georgia-Pacific Big Island ,37.534,-79.357,NG
+2002  ,17580.372,Georgia-Pacific Big Island ,37.534,-79.357,NG
+2004  ,19172.13741,Georgia-Pacific Big Island ,37.534,-79.357,NG
+2005  ,20783.5034,Georgia-Pacific Big Island ,37.534,-79.357,NG
+2006  ,20610.92381,Georgia-Pacific Big Island ,37.534,-79.357,NG
+2007  ,16594.577,Georgia-Pacific Big Island ,37.534,-79.357,NG
+2008  ,15709.437,Georgia-Pacific Big Island ,37.534,-79.357,NG
+2009  ,15184.308,Georgia-Pacific Big Island ,37.534,-79.357,NG
+2010  ,16692.433,Georgia-Pacific Big Island ,37.534,-79.357,NG
+2011  ,17846.327,Georgia-Pacific Big Island ,37.534,-79.357,NG
+2012  ,23085.669,Georgia-Pacific Big Island ,37.534,-79.357,NG
+2013  ,0.0,Georgia-Pacific Big Island ,37.534,-79.357,NG
+2014  ,0.0,Georgia-Pacific Big Island ,37.534,-79.357,NG
+2015  ,5166.747,Georgia-Pacific Big Island ,37.534,-79.357,NG
+2016  ,5369.482,Georgia-Pacific Big Island ,37.534,-79.357,NG
+2017  ,8021.346,Georgia-Pacific Big Island ,37.534,-79.357,NG
+2018  ,5775.753,Georgia-Pacific Big Island ,37.534,-79.357,NG
+2019  ,17042.352,Georgia-Pacific Big Island ,37.534,-79.357,NG
+2001  ,275408.26,Doswell Energy Center ,37.820805,-77.446246,DFO
+2002  ,1499.08,Doswell Energy Center ,37.820805,-77.446246,DFO
+2003  ,90483.32,Doswell Energy Center ,37.820805,-77.446246,DFO
+2004  ,69110.0,Doswell Energy Center ,37.820805,-77.446246,DFO
+2005  ,50487.0,Doswell Energy Center ,37.820805,-77.446246,DFO
+2006  ,3174.0,Doswell Energy Center ,37.820805,-77.446246,DFO
+2007  ,65409.926,Doswell Energy Center ,37.820805,-77.446246,DFO
+2008  ,13544.175,Doswell Energy Center ,37.820805,-77.446246,DFO
+2009  ,106629.154,Doswell Energy Center ,37.820805,-77.446246,DFO
+2010  ,7118.283,Doswell Energy Center ,37.820805,-77.446246,DFO
+2011  ,7006.809,Doswell Energy Center ,37.820805,-77.446246,DFO
+2012  ,527.091,Doswell Energy Center ,37.820805,-77.446246,DFO
+2013  ,1136.047,Doswell Energy Center ,37.820805,-77.446246,DFO
+2014  ,20916.043,Doswell Energy Center ,37.820805,-77.446246,DFO
+2015  ,18067.868,Doswell Energy Center ,37.820805,-77.446246,DFO
+2016  ,13025.498,Doswell Energy Center ,37.820805,-77.446246,DFO
+2017  ,10711.891,Doswell Energy Center ,37.820805,-77.446246,DFO
+2018  ,28521.644,Doswell Energy Center ,37.820805,-77.446246,DFO
+2019  ,12929.983,Doswell Energy Center ,37.820805,-77.446246,DFO
+2001  ,1304859.32,Doswell Energy Center ,37.820805,-77.446246,NG
+2002  ,1211921.8,Doswell Energy Center ,37.820805,-77.446246,NG
+2003  ,1252829.38,Doswell Energy Center ,37.820805,-77.446246,NG
+2004  ,1458208.0,Doswell Energy Center ,37.820805,-77.446246,NG
+2005  ,1723184.0,Doswell Energy Center ,37.820805,-77.446246,NG
+2006  ,1310264.0,Doswell Energy Center ,37.820805,-77.446246,NG
+2007  ,1795982.074,Doswell Energy Center ,37.820805,-77.446246,NG
+2008  ,1537887.325,Doswell Energy Center ,37.820805,-77.446246,NG
+2009  ,1862180.306,Doswell Energy Center ,37.820805,-77.446246,NG
+2010  ,2592818.577,Doswell Energy Center ,37.820805,-77.446246,NG
+2011  ,2780707.431,Doswell Energy Center ,37.820805,-77.446246,NG
+2012  ,3436647.909,Doswell Energy Center ,37.820805,-77.446246,NG
+2013  ,3250810.953,Doswell Energy Center ,37.820805,-77.446246,NG
+2014  ,3751092.967,Doswell Energy Center ,37.820805,-77.446246,NG
+2015  ,4710910.602,Doswell Energy Center ,37.820805,-77.446246,NG
+2016  ,4503922.442,Doswell Energy Center ,37.820805,-77.446246,NG
+2017  ,4075740.899,Doswell Energy Center ,37.820805,-77.446246,NG
+2018  ,4829702.656,Doswell Energy Center ,37.820805,-77.446246,NG
+2019  ,5409409.137,Doswell Energy Center ,37.820805,-77.446246,NG
+2015  ,7.0,Bristol Plant ,36.60194,-82.143089,DFO
+2016  ,420.864,Bristol Plant ,36.60194,-82.143089,DFO
+2017  ,622.764,Bristol Plant ,36.60194,-82.143089,DFO
+2018  ,433.628,Bristol Plant ,36.60194,-82.143089,DFO
+2015  ,0.0,Bristol Plant ,36.60194,-82.143089,LFG
+2016  ,2849.136,Bristol Plant ,36.60194,-82.143089,LFG
+2017  ,8827.236,Bristol Plant ,36.60194,-82.143089,LFG
+2018  ,8300.372,Bristol Plant ,36.60194,-82.143089,LFG
+2001  ,1274299.248,Spruance Operating Services LLC ,37.4556,-77.4308,BIT
+2002  ,1078405.76,Spruance Operating Services LLC ,37.4556,-77.4308,BIT
+2003  ,1329115.357,Spruance Operating Services LLC ,37.4556,-77.4308,BIT
+2004  ,1382859.59083,Spruance Operating Services LLC ,37.4556,-77.4308,BIT
+2005  ,1419323.97387,Spruance Operating Services LLC ,37.4556,-77.4308,BIT
+2006  ,1194421.62295,Spruance Operating Services LLC ,37.4556,-77.4308,BIT
+2007  ,1308308.904,Spruance Operating Services LLC ,37.4556,-77.4308,BIT
+2008  ,1361255.626,Spruance Operating Services LLC ,37.4556,-77.4308,BIT
+2009  ,956465.019,Spruance Operating Services LLC ,37.4556,-77.4308,BIT
+2010  ,1122769.871,Spruance Operating Services LLC ,37.4556,-77.4308,BIT
+2011  ,890787.947,Spruance Operating Services LLC ,37.4556,-77.4308,BIT
+2012  ,202676.0,Spruance Operating Services LLC ,37.4556,-77.4308,BIT
+2013  ,216625.0,Spruance Operating Services LLC ,37.4556,-77.4308,BIT
+2014  ,247766.0,Spruance Operating Services LLC ,37.4556,-77.4308,BIT
+2015  ,190434.0,Spruance Operating Services LLC ,37.4556,-77.4308,BIT
+2016  ,134978.0,Spruance Operating Services LLC ,37.4556,-77.4308,BIT
+2017  ,84026.0,Spruance Operating Services LLC ,37.4556,-77.4308,BIT
+2018  ,38985.0,Spruance Operating Services LLC ,37.4556,-77.4308,BIT
+2019  ,7923.914,Spruance Operating Services LLC ,37.4556,-77.4308,BIT
+2003  ,0.0,Spruance Operating Services LLC ,37.4556,-77.4308,NG
+2004  ,0.0,Spruance Operating Services LLC ,37.4556,-77.4308,NG
+2019  ,8295.086,Spruance Operating Services LLC ,37.4556,-77.4308,NG
+2018  ,3381.0,Puller Solar ,37.57245,-76.46734,SUN
+2015  ,289.0,Belle Haven Diesel Generation Facility ,37.54864,-75.790823,DFO
+2016  ,215.0,Belle Haven Diesel Generation Facility ,37.54864,-75.790823,DFO
+2017  ,114.0,Belle Haven Diesel Generation Facility ,37.54864,-75.790823,DFO
+2018  ,248.0,Belle Haven Diesel Generation Facility ,37.54864,-75.790823,DFO
+2015  ,239.0,Perdue Diesel Generation Facility ,37.741967,-75.655979,DFO
+2016  ,225.0,Perdue Diesel Generation Facility ,37.741967,-75.655979,DFO
+2017  ,116.0,Perdue Diesel Generation Facility ,37.741967,-75.655979,DFO
+2018  ,207.0,Perdue Diesel Generation Facility ,37.741967,-75.655979,DFO
+2015  ,284.0,Onancock Diesel Generation Facility ,37.74542,-75.720487,DFO
+2016  ,185.0,Onancock Diesel Generation Facility ,37.74542,-75.720487,DFO
+2017  ,118.0,Onancock Diesel Generation Facility ,37.74542,-75.720487,DFO
+2018  ,193.0,Onancock Diesel Generation Facility ,37.74542,-75.720487,DFO
+2001  ,24310.001,I 95 Municipal Landfill Phase I ,38.6892,-77.2375,LFG
+2002  ,24474.002,I 95 Municipal Landfill Phase I ,38.6892,-77.2375,LFG
+2003  ,22535.999,I 95 Municipal Landfill Phase I ,38.6892,-77.2375,LFG
+2004  ,24245.004,I 95 Municipal Landfill Phase I ,38.6892,-77.2375,LFG
+2005  ,25093.0,I 95 Municipal Landfill Phase I ,38.6892,-77.2375,LFG
+2006  ,24849.001,I 95 Municipal Landfill Phase I ,38.6892,-77.2375,LFG
+2007  ,22954.999,I 95 Municipal Landfill Phase I ,38.6892,-77.2375,LFG
+2008  ,24731.0,I 95 Municipal Landfill Phase I ,38.6892,-77.2375,LFG
+2009  ,25106.0,I 95 Municipal Landfill Phase I ,38.6892,-77.2375,LFG
+2010  ,25867.0,I 95 Municipal Landfill Phase I ,38.6892,-77.2375,LFG
+2011  ,25986.0,I 95 Municipal Landfill Phase I ,38.6892,-77.2375,LFG
+2012  ,24189.0,I 95 Municipal Landfill Phase I ,38.6892,-77.2375,LFG
+2013  ,22723.0,I 95 Municipal Landfill Phase I ,38.6892,-77.2375,LFG
+2014  ,17907.0,I 95 Municipal Landfill Phase I ,38.6892,-77.2375,LFG
+2015  ,16349.0,I 95 Municipal Landfill Phase I ,38.6892,-77.2375,LFG
+2016  ,13082.0,I 95 Municipal Landfill Phase I ,38.6892,-77.2375,LFG
+2017  ,13824.0,I 95 Municipal Landfill Phase I ,38.6892,-77.2375,LFG
+2018  ,13764.0,I 95 Municipal Landfill Phase I ,38.6892,-77.2375,LFG
+2004  ,200.53086,Radford Army Ammunition Plant ,37.180441,-80.542767,DFO
+2006  ,1125.4546,Radford Army Ammunition Plant ,37.180441,-80.542767,DFO
+2007  ,441.932,Radford Army Ammunition Plant ,37.180441,-80.542767,DFO
+2008  ,107.466,Radford Army Ammunition Plant ,37.180441,-80.542767,DFO
+2009  ,103.159,Radford Army Ammunition Plant ,37.180441,-80.542767,DFO
+2010  ,163.825,Radford Army Ammunition Plant ,37.180441,-80.542767,DFO
+2011  ,384.06,Radford Army Ammunition Plant ,37.180441,-80.542767,DFO
+2012  ,154.23,Radford Army Ammunition Plant ,37.180441,-80.542767,DFO
+2013  ,148.241,Radford Army Ammunition Plant ,37.180441,-80.542767,DFO
+2014  ,157.313,Radford Army Ammunition Plant ,37.180441,-80.542767,DFO
+2015  ,449.202,Radford Army Ammunition Plant ,37.180441,-80.542767,DFO
+2016  ,158.061,Radford Army Ammunition Plant ,37.180441,-80.542767,DFO
+2017  ,111.635,Radford Army Ammunition Plant ,37.180441,-80.542767,DFO
+2018  ,0.0,Radford Army Ammunition Plant ,37.180441,-80.542767,DFO
+2017  ,12097.63,Radford Army Ammunition Plant ,37.180441,-80.542767,NG
+2018  ,31726.0,Radford Army Ammunition Plant ,37.180441,-80.542767,NG
+2007  ,6336.003,Amelia ,37.3097,-78.0589,DFO
+2008  ,0.0,Amelia ,37.3097,-78.0589,DFO
+2009  ,0.0,Amelia ,37.3097,-78.0589,DFO
+2010  ,400.967,Amelia ,37.3097,-78.0589,DFO
+2011  ,341.068,Amelia ,37.3097,-78.0589,DFO
+2012  ,1897.067,Amelia ,37.3097,-78.0589,DFO
+2013  ,1361.364,Amelia ,37.3097,-78.0589,DFO
+2014  ,2283.096,Amelia ,37.3097,-78.0589,DFO
+2015  ,2888.656,Amelia ,37.3097,-78.0589,DFO
+2016  ,1942.35,Amelia ,37.3097,-78.0589,DFO
+2017  ,3205.605,Amelia ,37.3097,-78.0589,DFO
+2018  ,2885.113,Amelia ,37.3097,-78.0589,DFO
+2007  ,20846.257,Amelia ,37.3097,-78.0589,LFG
+2008  ,19755.193,Amelia ,37.3097,-78.0589,LFG
+2009  ,5473.949,Amelia ,37.3097,-78.0589,LFG
+2010  ,4026.134,Amelia ,37.3097,-78.0589,LFG
+2011  ,1104.932,Amelia ,37.3097,-78.0589,LFG
+2012  ,28171.933,Amelia ,37.3097,-78.0589,LFG
+2013  ,23080.636,Amelia ,37.3097,-78.0589,LFG
+2014  ,27125.904,Amelia ,37.3097,-78.0589,LFG
+2015  ,36556.344,Amelia ,37.3097,-78.0589,LFG
+2016  ,19977.65,Amelia ,37.3097,-78.0589,LFG
+2017  ,42085.395,Amelia ,37.3097,-78.0589,LFG
+2018  ,42771.887,Amelia ,37.3097,-78.0589,LFG
+2007  ,950.562,Brunswick Landfill Gas ,36.7639,-77.8108,DFO
+2008  ,4678.029,Brunswick Landfill Gas ,36.7639,-77.8108,DFO
+2009  ,959.347,Brunswick Landfill Gas ,36.7639,-77.8108,DFO
+2010  ,1595.262,Brunswick Landfill Gas ,36.7639,-77.8108,DFO
+2011  ,618.548,Brunswick Landfill Gas ,36.7639,-77.8108,DFO
+2012  ,2051.041,Brunswick Landfill Gas ,36.7639,-77.8108,DFO
+2013  ,1372.108,Brunswick Landfill Gas ,36.7639,-77.8108,DFO
+2014  ,3821.649,Brunswick Landfill Gas ,36.7639,-77.8108,DFO
+2015  ,3925.336,Brunswick Landfill Gas ,36.7639,-77.8108,DFO
+2016  ,2963.746,Brunswick Landfill Gas ,36.7639,-77.8108,DFO
+2017  ,3024.596,Brunswick Landfill Gas ,36.7639,-77.8108,DFO
+2018  ,2597.599,Brunswick Landfill Gas ,36.7639,-77.8108,DFO
+2007  ,6208.337,Brunswick Landfill Gas ,36.7639,-77.8108,LFG
+2008  ,30768.971,Brunswick Landfill Gas ,36.7639,-77.8108,LFG
+2009  ,10992.653,Brunswick Landfill Gas ,36.7639,-77.8108,LFG
+2010  ,18099.738,Brunswick Landfill Gas ,36.7639,-77.8108,LFG
+2011  ,6717.452,Brunswick Landfill Gas ,36.7639,-77.8108,LFG
+2012  ,33868.959,Brunswick Landfill Gas ,36.7639,-77.8108,LFG
+2013  ,29180.892,Brunswick Landfill Gas ,36.7639,-77.8108,LFG
+2014  ,45053.351,Brunswick Landfill Gas ,36.7639,-77.8108,LFG
+2015  ,51705.664,Brunswick Landfill Gas ,36.7639,-77.8108,LFG
+2016  ,50484.254,Brunswick Landfill Gas ,36.7639,-77.8108,LFG
+2017  ,50457.404,Brunswick Landfill Gas ,36.7639,-77.8108,LFG
+2018  ,47207.401,Brunswick Landfill Gas ,36.7639,-77.8108,LFG
+2007  ,81.767,Charles City ,37.438889,-77.128611,DFO
+2008  ,173.387,Charles City ,37.438889,-77.128611,DFO
+2009  ,0.0,Charles City ,37.438889,-77.128611,DFO
+2010  ,317.816,Charles City ,37.438889,-77.128611,DFO
+2011  ,301.82,Charles City ,37.438889,-77.128611,DFO
+2012  ,2098.922,Charles City ,37.438889,-77.128611,DFO
+2013  ,1180.061,Charles City ,37.438889,-77.128611,DFO
+2014  ,3065.502,Charles City ,37.438889,-77.128611,DFO
+2015  ,3671.18,Charles City ,37.438889,-77.128611,DFO
+2016  ,3318.655,Charles City ,37.438889,-77.128611,DFO
+2017  ,3792.439,Charles City ,37.438889,-77.128611,DFO
+2018  ,4095.039,Charles City ,37.438889,-77.128611,DFO
+2007  ,14683.928,Charles City ,37.438889,-77.128611,LFG
+2008  ,10670.629,Charles City ,37.438889,-77.128611,LFG
+2009  ,1783.086,Charles City ,37.438889,-77.128611,LFG
+2010  ,4407.897,Charles City ,37.438889,-77.128611,LFG
+2011  ,1001.18,Charles City ,37.438889,-77.128611,LFG
+2012  ,32204.078,Charles City ,37.438889,-77.128611,LFG
+2013  ,24530.939,Charles City ,37.438889,-77.128611,LFG
+2014  ,35255.498,Charles City ,37.438889,-77.128611,LFG
+2015  ,40748.82,Charles City ,37.438889,-77.128611,LFG
+2016  ,45767.345,Charles City ,37.438889,-77.128611,LFG
+2017  ,53505.561,Charles City ,37.438889,-77.128611,LFG
+2018  ,64401.961,Charles City ,37.438889,-77.128611,LFG
+2007  ,3228.133,Chesterfield Landfill Gas ,37.3517,-77.4969,DFO
+2008  ,2702.969,Chesterfield Landfill Gas ,37.3517,-77.4969,DFO
+2009  ,1489.902,Chesterfield Landfill Gas ,37.3517,-77.4969,DFO
+2010  ,1491.542,Chesterfield Landfill Gas ,37.3517,-77.4969,DFO
+2011  ,643.221,Chesterfield Landfill Gas ,37.3517,-77.4969,DFO
+2012  ,1580.788,Chesterfield Landfill Gas ,37.3517,-77.4969,DFO
+2013  ,1058.215,Chesterfield Landfill Gas ,37.3517,-77.4969,DFO
+2014  ,2406.276,Chesterfield Landfill Gas ,37.3517,-77.4969,DFO
+2015  ,3473.135,Chesterfield Landfill Gas ,37.3517,-77.4969,DFO
+2016  ,3363.321,Chesterfield Landfill Gas ,37.3517,-77.4969,DFO
+2017  ,4395.67,Chesterfield Landfill Gas ,37.3517,-77.4969,DFO
+2018  ,3685.559,Chesterfield Landfill Gas ,37.3517,-77.4969,DFO
+2007  ,18237.786,Chesterfield Landfill Gas ,37.3517,-77.4969,LFG
+2008  ,15301.031,Chesterfield Landfill Gas ,37.3517,-77.4969,LFG
+2009  ,10644.098,Chesterfield Landfill Gas ,37.3517,-77.4969,LFG
+2010  ,9099.458,Chesterfield Landfill Gas ,37.3517,-77.4969,LFG
+2011  ,3146.779,Chesterfield Landfill Gas ,37.3517,-77.4969,LFG
+2012  ,23995.212,Chesterfield Landfill Gas ,37.3517,-77.4969,LFG
+2013  ,17141.785,Chesterfield Landfill Gas ,37.3517,-77.4969,LFG
+2014  ,28958.724,Chesterfield Landfill Gas ,37.3517,-77.4969,LFG
+2015  ,42110.865,Chesterfield Landfill Gas ,37.3517,-77.4969,LFG
+2016  ,45392.679,Chesterfield Landfill Gas ,37.3517,-77.4969,LFG
+2017  ,65261.33,Chesterfield Landfill Gas ,37.3517,-77.4969,LFG
+2018  ,60013.441,Chesterfield Landfill Gas ,37.3517,-77.4969,LFG
+2008  ,4250.378,King & Queen ,37.6711,-76.76,DFO
+2009  ,1392.575,King & Queen ,37.6711,-76.76,DFO
+2010  ,1607.712,King & Queen ,37.6711,-76.76,DFO
+2011  ,495.784,King & Queen ,37.6711,-76.76,DFO
+2012  ,2321.978,King & Queen ,37.6711,-76.76,DFO
+2013  ,1492.009,King & Queen ,37.6711,-76.76,DFO
+2014  ,4083.16,King & Queen ,37.6711,-76.76,DFO
+2015  ,3562.497,King & Queen ,37.6711,-76.76,DFO
+2016  ,3727.411,King & Queen ,37.6711,-76.76,DFO
+2017  ,4716.01,King & Queen ,37.6711,-76.76,DFO
+2018  ,4197.255,King & Queen ,37.6711,-76.76,DFO
+2008  ,26953.656,King & Queen ,37.6711,-76.76,LFG
+2009  ,14808.425,King & Queen ,37.6711,-76.76,LFG
+2010  ,23053.288,King & Queen ,37.6711,-76.76,LFG
+2011  ,4786.216,King & Queen ,37.6711,-76.76,LFG
+2012  ,34558.022,King & Queen ,37.6711,-76.76,LFG
+2013  ,33199.991,King & Queen ,37.6711,-76.76,LFG
+2014  ,60044.84,King & Queen ,37.6711,-76.76,LFG
+2015  ,60346.503,King & Queen ,37.6711,-76.76,LFG
+2016  ,58061.589,King & Queen ,37.6711,-76.76,LFG
+2017  ,59683.99,King & Queen ,37.6711,-76.76,LFG
+2018  ,63114.745,King & Queen ,37.6711,-76.76,LFG
+2002  ,12578.999,MM Prince William Energy ,38.638333,-77.414722,LFG
+2003  ,14628.001,MM Prince William Energy ,38.638333,-77.414722,LFG
+2004  ,13824.0,MM Prince William Energy ,38.638333,-77.414722,LFG
+2005  ,12520.0,MM Prince William Energy ,38.638333,-77.414722,LFG
+2006  ,13289.002,MM Prince William Energy ,38.638333,-77.414722,LFG
+2007  ,14150.999,MM Prince William Energy ,38.638333,-77.414722,LFG
+2008  ,12916.0,MM Prince William Energy ,38.638333,-77.414722,LFG
+2009  ,13691.0,MM Prince William Energy ,38.638333,-77.414722,LFG
+2010  ,14004.0,MM Prince William Energy ,38.638333,-77.414722,LFG
+2011  ,12767.0,MM Prince William Energy ,38.638333,-77.414722,LFG
+2012  ,12943.0,MM Prince William Energy ,38.638333,-77.414722,LFG
+2013  ,11555.0,MM Prince William Energy ,38.638333,-77.414722,LFG
+2014  ,52468.0,MM Prince William Energy ,38.638333,-77.414722,LFG
+2015  ,50792.0,MM Prince William Energy ,38.638333,-77.414722,LFG
+2016  ,51675.0,MM Prince William Energy ,38.638333,-77.414722,LFG
+2017  ,52207.0,MM Prince William Energy ,38.638333,-77.414722,LFG
+2018  ,50978.0,MM Prince William Energy ,38.638333,-77.414722,LFG
+2007  ,12.648,Rockville 1 & 2 ,37.7036,-77.6639,DFO
+2008  ,0.0,Rockville 1 & 2 ,37.7036,-77.6639,DFO
+2009  ,0.0,Rockville 1 & 2 ,37.7036,-77.6639,DFO
+2010  ,161.117,Rockville 1 & 2 ,37.7036,-77.6639,DFO
+2011  ,266.48,Rockville 1 & 2 ,37.7036,-77.6639,DFO
+2012  ,182.0,Rockville 1 & 2 ,37.7036,-77.6639,DFO
+2013  ,0.0,Rockville 1 & 2 ,37.7036,-77.6639,DFO
+2014  ,102.0,Rockville 1 & 2 ,37.7036,-77.6639,DFO
+2015  ,220.0,Rockville 1 & 2 ,37.7036,-77.6639,DFO
+2016  ,94.0,Rockville 1 & 2 ,37.7036,-77.6639,DFO
+2017  ,82.0,Rockville 1 & 2 ,37.7036,-77.6639,DFO
+2018  ,619.0,Rockville 1 & 2 ,37.7036,-77.6639,DFO
+2007  ,52.832,Virginia Beach ,36.7858,-76.2019,DFO
+2008  ,12.093,Virginia Beach ,36.7858,-76.2019,DFO
+2009  ,0.0,Virginia Beach ,36.7858,-76.2019,DFO
+2010  ,250.623,Virginia Beach ,36.7858,-76.2019,DFO
+2011  ,303.687,Virginia Beach ,36.7858,-76.2019,DFO
+2012  ,209.321,Virginia Beach ,36.7858,-76.2019,DFO
+2013  ,64.789,Virginia Beach ,36.7858,-76.2019,DFO
+2014  ,1033.79,Virginia Beach ,36.7858,-76.2019,DFO
+2015  ,872.464,Virginia Beach ,36.7858,-76.2019,DFO
+2016  ,273.232,Virginia Beach ,36.7858,-76.2019,DFO
+2017  ,232.562,Virginia Beach ,36.7858,-76.2019,DFO
+2018  ,805.248,Virginia Beach ,36.7858,-76.2019,DFO
+2007  ,0.479,Virginia Beach ,36.7858,-76.2019,LFG
+2008  ,980.913,Virginia Beach ,36.7858,-76.2019,LFG
+2009  ,187.007,Virginia Beach ,36.7858,-76.2019,LFG
+2010  ,475.439,Virginia Beach ,36.7858,-76.2019,LFG
+2011  ,86.313,Virginia Beach ,36.7858,-76.2019,LFG
+2012  ,1292.679,Virginia Beach ,36.7858,-76.2019,LFG
+2013  ,179.211,Virginia Beach ,36.7858,-76.2019,LFG
+2014  ,1303.21,Virginia Beach ,36.7858,-76.2019,LFG
+2015  ,1010.536,Virginia Beach ,36.7858,-76.2019,LFG
+2016  ,679.768,Virginia Beach ,36.7858,-76.2019,LFG
+2017  ,256.438,Virginia Beach ,36.7858,-76.2019,LFG
+2018  ,683.752,Virginia Beach ,36.7858,-76.2019,LFG
+2001  ,15628.16,Elizabeth River Power Station ,36.775,-76.3083,DFO
+2002  ,3845.88,Elizabeth River Power Station ,36.775,-76.3083,DFO
+2003  ,46270.0,Elizabeth River Power Station ,36.775,-76.3083,DFO
+2005  ,2395.0,Elizabeth River Power Station ,36.775,-76.3083,DFO
+2006  ,8663.0,Elizabeth River Power Station ,36.775,-76.3083,DFO
+2007  ,25446.565,Elizabeth River Power Station ,36.775,-76.3083,DFO
+2008  ,14349.757,Elizabeth River Power Station ,36.775,-76.3083,DFO
+2009  ,28159.927,Elizabeth River Power Station ,36.775,-76.3083,DFO
+2010  ,40316.474,Elizabeth River Power Station ,36.775,-76.3083,DFO
+2011  ,14543.671,Elizabeth River Power Station ,36.775,-76.3083,DFO
+2012  ,2695.0,Elizabeth River Power Station ,36.775,-76.3083,DFO
+2013  ,697.107,Elizabeth River Power Station ,36.775,-76.3083,DFO
+2014  ,25175.112,Elizabeth River Power Station ,36.775,-76.3083,DFO
+2015  ,15440.478,Elizabeth River Power Station ,36.775,-76.3083,DFO
+2016  ,12046.234,Elizabeth River Power Station ,36.775,-76.3083,DFO
+2017  ,20749.384,Elizabeth River Power Station ,36.775,-76.3083,DFO
+2018  ,45084.918,Elizabeth River Power Station ,36.775,-76.3083,DFO
+2001  ,61046.58,Elizabeth River Power Station ,36.775,-76.3083,NG
+2002  ,70076.22,Elizabeth River Power Station ,36.775,-76.3083,NG
+2003  ,38023.0,Elizabeth River Power Station ,36.775,-76.3083,NG
+2005  ,22138.0,Elizabeth River Power Station ,36.775,-76.3083,NG
+2006  ,58793.0,Elizabeth River Power Station ,36.775,-76.3083,NG
+2007  ,120263.435,Elizabeth River Power Station ,36.775,-76.3083,NG
+2008  ,74180.243,Elizabeth River Power Station ,36.775,-76.3083,NG
+2009  ,62405.073,Elizabeth River Power Station ,36.775,-76.3083,NG
+2010  ,142042.526,Elizabeth River Power Station ,36.775,-76.3083,NG
+2011  ,120186.329,Elizabeth River Power Station ,36.775,-76.3083,NG
+2012  ,118557.0,Elizabeth River Power Station ,36.775,-76.3083,NG
+2013  ,44007.893,Elizabeth River Power Station ,36.775,-76.3083,NG
+2014  ,8163.888,Elizabeth River Power Station ,36.775,-76.3083,NG
+2015  ,119172.522,Elizabeth River Power Station ,36.775,-76.3083,NG
+2016  ,136933.766,Elizabeth River Power Station ,36.775,-76.3083,NG
+2017  ,74754.616,Elizabeth River Power Station ,36.775,-76.3083,NG
+2018  ,207030.082,Elizabeth River Power Station ,36.775,-76.3083,NG
+2001  ,13548.0,Gravel Neck ,37.1575,-76.6911,DFO
+2002  ,4697.0,Gravel Neck ,37.1575,-76.6911,DFO
+2003  ,74364.0,Gravel Neck ,37.1575,-76.6911,DFO
+2004  ,9813.0,Gravel Neck ,37.1575,-76.6911,DFO
+2005  ,34075.0,Gravel Neck ,37.1575,-76.6911,DFO
+2006  ,12523.0,Gravel Neck ,37.1575,-76.6911,DFO
+2007  ,29907.524,Gravel Neck ,37.1575,-76.6911,DFO
+2008  ,13319.769,Gravel Neck ,37.1575,-76.6911,DFO
+2009  ,17767.18,Gravel Neck ,37.1575,-76.6911,DFO
+2010  ,13748.951,Gravel Neck ,37.1575,-76.6911,DFO
+2011  ,10540.778,Gravel Neck ,37.1575,-76.6911,DFO
+2012  ,1657.123,Gravel Neck ,37.1575,-76.6911,DFO
+2013  ,2988.813,Gravel Neck ,37.1575,-76.6911,DFO
+2014  ,29649.043,Gravel Neck ,37.1575,-76.6911,DFO
+2015  ,10805.405,Gravel Neck ,37.1575,-76.6911,DFO
+2016  ,9016.142,Gravel Neck ,37.1575,-76.6911,DFO
+2017  ,11124.86,Gravel Neck ,37.1575,-76.6911,DFO
+2018  ,29879.306,Gravel Neck ,37.1575,-76.6911,DFO
+2001  ,24274.0,Gravel Neck ,37.1575,-76.6911,NG
+2002  ,24751.0,Gravel Neck ,37.1575,-76.6911,NG
+2003  ,859.0,Gravel Neck ,37.1575,-76.6911,NG
+2004  ,3744.0,Gravel Neck ,37.1575,-76.6911,NG
+2005  ,88233.0,Gravel Neck ,37.1575,-76.6911,NG
+2006  ,48858.0,Gravel Neck ,37.1575,-76.6911,NG
+2007  ,71750.476,Gravel Neck ,37.1575,-76.6911,NG
+2008  ,35226.231,Gravel Neck ,37.1575,-76.6911,NG
+2009  ,49948.82,Gravel Neck ,37.1575,-76.6911,NG
+2010  ,124559.049,Gravel Neck ,37.1575,-76.6911,NG
+2011  ,55039.222,Gravel Neck ,37.1575,-76.6911,NG
+2012  ,67766.877,Gravel Neck ,37.1575,-76.6911,NG
+2013  ,83845.187,Gravel Neck ,37.1575,-76.6911,NG
+2014  ,23115.957,Gravel Neck ,37.1575,-76.6911,NG
+2015  ,80462.595,Gravel Neck ,37.1575,-76.6911,NG
+2016  ,129229.858,Gravel Neck ,37.1575,-76.6911,NG
+2017  ,51175.14,Gravel Neck ,37.1575,-76.6911,NG
+2018  ,61510.694,Gravel Neck ,37.1575,-76.6911,NG
+2001  ,674.362,Celanese Acetate LLC ,37.3439,-80.765,DFO
+2002  ,1286.0,Celanese Acetate LLC ,37.3439,-80.765,DFO
+2004  ,55.84141,Celanese Acetate LLC ,37.3439,-80.765,DFO
+2005  ,342.08635,Celanese Acetate LLC ,37.3439,-80.765,DFO
+2006  ,372.99888,Celanese Acetate LLC ,37.3439,-80.765,DFO
+2007  ,889.55,Celanese Acetate LLC ,37.3439,-80.765,DFO
+2008  ,426.439,Celanese Acetate LLC ,37.3439,-80.765,DFO
+2009  ,684.926,Celanese Acetate LLC ,37.3439,-80.765,DFO
+2010  ,1565.637,Celanese Acetate LLC ,37.3439,-80.765,DFO
+2011  ,1105.123,Celanese Acetate LLC ,37.3439,-80.765,DFO
+2012  ,556.56,Celanese Acetate LLC ,37.3439,-80.765,DFO
+2013  ,365.307,Celanese Acetate LLC ,37.3439,-80.765,DFO
+2014  ,642.637,Celanese Acetate LLC ,37.3439,-80.765,DFO
+2015  ,109.238,Celanese Acetate LLC ,37.3439,-80.765,DFO
+2016  ,0.0,Celanese Acetate LLC ,37.3439,-80.765,DFO
+2017  ,0.0,Celanese Acetate LLC ,37.3439,-80.765,DFO
+2018  ,0.0,Celanese Acetate LLC ,37.3439,-80.765,DFO
+2019  ,0.0,Celanese Acetate LLC ,37.3439,-80.765,DFO
+2001  ,12447.708,Celanese Acetate LLC ,37.3439,-80.765,NG
+2002  ,8646.001,Celanese Acetate LLC ,37.3439,-80.765,NG
+2004  ,1909.76519,Celanese Acetate LLC ,37.3439,-80.765,NG
+2005  ,3634.74419,Celanese Acetate LLC ,37.3439,-80.765,NG
+2006  ,3494.74513,Celanese Acetate LLC ,37.3439,-80.765,NG
+2007  ,3661.39,Celanese Acetate LLC ,37.3439,-80.765,NG
+2008  ,5975.981,Celanese Acetate LLC ,37.3439,-80.765,NG
+2009  ,8542.633,Celanese Acetate LLC ,37.3439,-80.765,NG
+2010  ,4774.088,Celanese Acetate LLC ,37.3439,-80.765,NG
+2011  ,26286.455,Celanese Acetate LLC ,37.3439,-80.765,NG
+2012  ,25298.51,Celanese Acetate LLC ,37.3439,-80.765,NG
+2013  ,27273.133,Celanese Acetate LLC ,37.3439,-80.765,NG
+2014  ,22432.769,Celanese Acetate LLC ,37.3439,-80.765,NG
+2015  ,132546.473,Celanese Acetate LLC ,37.3439,-80.765,NG
+2016  ,154180.009,Celanese Acetate LLC ,37.3439,-80.765,NG
+2017  ,155580.61,Celanese Acetate LLC ,37.3439,-80.765,NG
+2018  ,171254.238,Celanese Acetate LLC ,37.3439,-80.765,NG
+2019  ,179857.0,Celanese Acetate LLC ,37.3439,-80.765,NG
+2001  ,9356.999,Schoolfield Dam ,36.576778,-79.432503,WAT
+2002  ,9104.0,Schoolfield Dam ,36.576778,-79.432503,WAT
+2003  ,22193.001,Schoolfield Dam ,36.576778,-79.432503,WAT
+2004  ,20628.001,Schoolfield Dam ,36.576778,-79.432503,WAT
+2005  ,18687.0,Schoolfield Dam ,36.576778,-79.432503,WAT
+2006  ,16186.0,Schoolfield Dam ,36.576778,-79.432503,WAT
+2007  ,14481.72,Schoolfield Dam ,36.576778,-79.432503,WAT
+2008  ,11825.0,Schoolfield Dam ,36.576778,-79.432503,WAT
+2009  ,14649.0,Schoolfield Dam ,36.576778,-79.432503,WAT
+2010  ,16403.0,Schoolfield Dam ,36.576778,-79.432503,WAT
+2011  ,13478.0,Schoolfield Dam ,36.576778,-79.432503,WAT
+2012  ,12638.0,Schoolfield Dam ,36.576778,-79.432503,WAT
+2013  ,14430.0,Schoolfield Dam ,36.576778,-79.432503,WAT
+2014  ,15138.0,Schoolfield Dam ,36.576778,-79.432503,WAT
+2015  ,14608.0,Schoolfield Dam ,36.576778,-79.432503,WAT
+2016  ,16457.0,Schoolfield Dam ,36.576778,-79.432503,WAT
+2017  ,14272.0,Schoolfield Dam ,36.576778,-79.432503,WAT
+2018  ,13346.0,Schoolfield Dam ,36.576778,-79.432503,WAT
+2019  ,14781.0,Schoolfield Dam ,36.576778,-79.432503,WAT
+2001  ,12533.37,Hopewell Cogeneration ,37.291667,-77.281111,DFO
+2002  ,36008.88,Hopewell Cogeneration ,37.291667,-77.281111,DFO
+2004  ,112636.59436,Hopewell Cogeneration ,37.291667,-77.281111,DFO
+2006  ,17430.26319,Hopewell Cogeneration ,37.291667,-77.281111,DFO
+2007  ,167289.555,Hopewell Cogeneration ,37.291667,-77.281111,DFO
+2008  ,105049.66,Hopewell Cogeneration ,37.291667,-77.281111,DFO
+2009  ,115750.423,Hopewell Cogeneration ,37.291667,-77.281111,DFO
+2010  ,91340.956,Hopewell Cogeneration ,37.291667,-77.281111,DFO
+2011  ,17167.062,Hopewell Cogeneration ,37.291667,-77.281111,DFO
+2012  ,434.475,Hopewell Cogeneration ,37.291667,-77.281111,DFO
+2013  ,2530.967,Hopewell Cogeneration ,37.291667,-77.281111,DFO
+2014  ,53001.326,Hopewell Cogeneration ,37.291667,-77.281111,DFO
+2016  ,2298.383,Hopewell Cogeneration ,37.291667,-77.281111,DFO
+2017  ,188.022,Hopewell Cogeneration ,37.291667,-77.281111,DFO
+2018  ,43175.595,Hopewell Cogeneration ,37.291667,-77.281111,DFO
+2019  ,171.013,Hopewell Cogeneration ,37.291667,-77.281111,DFO
+2001  ,312990.87,Hopewell Cogeneration ,37.291667,-77.281111,NG
+2002  ,406676.6,Hopewell Cogeneration ,37.291667,-77.281111,NG
+2003  ,247492.0,Hopewell Cogeneration ,37.291667,-77.281111,NG
+2004  ,286528.10564,Hopewell Cogeneration ,37.291667,-77.281111,NG
+2006  ,509684.22681,Hopewell Cogeneration ,37.291667,-77.281111,NG
+2007  ,668688.455,Hopewell Cogeneration ,37.291667,-77.281111,NG
+2008  ,642698.34,Hopewell Cogeneration ,37.291667,-77.281111,NG
+2009  ,698101.577,Hopewell Cogeneration ,37.291667,-77.281111,NG
+2010  ,1048844.044,Hopewell Cogeneration ,37.291667,-77.281111,NG
+2011  ,980615.938,Hopewell Cogeneration ,37.291667,-77.281111,NG
+2012  ,1245772.525,Hopewell Cogeneration ,37.291667,-77.281111,NG
+2013  ,814069.033,Hopewell Cogeneration ,37.291667,-77.281111,NG
+2014  ,964171.674,Hopewell Cogeneration ,37.291667,-77.281111,NG
+2016  ,1197809.617,Hopewell Cogeneration ,37.291667,-77.281111,NG
+2017  ,1104945.978,Hopewell Cogeneration ,37.291667,-77.281111,NG
+2018  ,1390911.405,Hopewell Cogeneration ,37.291667,-77.281111,NG
+2019  ,1495256.987,Hopewell Cogeneration ,37.291667,-77.281111,NG
+2016  ,5895472.0,Brunswick County Power Station ,36.765,-77.713889,NG
+2017  ,8169077.0,Brunswick County Power Station ,36.765,-77.713889,NG
+2018  ,8439453.0,Brunswick County Power Station ,36.765,-77.713889,NG
+2019  ,8333358.0,Brunswick County Power Station ,36.765,-77.713889,NG
+2002  ,278335.129,Multitrade of Pittsylvania LP ,37.104141,-79.276958,WDS
+2003  ,370861.0,Multitrade of Pittsylvania LP ,37.104141,-79.276958,WDS
+2004  ,511523.0,Multitrade of Pittsylvania LP ,37.104141,-79.276958,WDS
+2005  ,540258.0,Multitrade of Pittsylvania LP ,37.104141,-79.276958,WDS
+2006  ,470824.0,Multitrade of Pittsylvania LP ,37.104141,-79.276958,WDS
+2007  ,439405.0,Multitrade of Pittsylvania LP ,37.104141,-79.276958,WDS
+2008  ,488227.0,Multitrade of Pittsylvania LP ,37.104141,-79.276958,WDS
+2009  ,429653.0,Multitrade of Pittsylvania LP ,37.104141,-79.276958,WDS
+2010  ,413120.0,Multitrade of Pittsylvania LP ,37.104141,-79.276958,WDS
+2011  ,392781.0,Multitrade of Pittsylvania LP ,37.104141,-79.276958,WDS
+2012  ,340830.0,Multitrade of Pittsylvania LP ,37.104141,-79.276958,WDS
+2013  ,369339.0,Multitrade of Pittsylvania LP ,37.104141,-79.276958,WDS
+2014  ,322259.0,Multitrade of Pittsylvania LP ,37.104141,-79.276958,WDS
+2015  ,267414.0,Multitrade of Pittsylvania LP ,37.104141,-79.276958,WDS
+2016  ,146658.0,Multitrade of Pittsylvania LP ,37.104141,-79.276958,WDS
+2017  ,109460.0,Multitrade of Pittsylvania LP ,37.104141,-79.276958,WDS
+2018  ,102952.0,Multitrade of Pittsylvania LP ,37.104141,-79.276958,WDS
+2018  ,5661.0,Danville ,36.660591,-79.29906,SUN
+2011  ,13526.0,Frederick County LFGTE Facility ,39.140833,-78.0975,LFG
+2012  ,13377.0,Frederick County LFGTE Facility ,39.140833,-78.0975,LFG
+2013  ,11603.0,Frederick County LFGTE Facility ,39.140833,-78.0975,LFG
+2014  ,12577.0,Frederick County LFGTE Facility ,39.140833,-78.0975,LFG
+2015  ,11763.0,Frederick County LFGTE Facility ,39.140833,-78.0975,LFG
+2016  ,12521.0,Frederick County LFGTE Facility ,39.140833,-78.0975,LFG
+2017  ,11439.0,Frederick County LFGTE Facility ,39.140833,-78.0975,LFG
+2018  ,9719.0,Frederick County LFGTE Facility ,39.140833,-78.0975,LFG
+2016  ,660.0,Scott Solar Farm ,37.523,-77.934,SUN
+2017  ,30262.0,Scott Solar Farm ,37.523,-77.934,SUN
+2018  ,13348.0,Scott Solar Farm ,37.523,-77.934,SUN
+2016  ,563.0,Woodland Solar Farm ,36.89,-76.611,SUN
+2017  ,27546.0,Woodland Solar Farm ,36.89,-76.611,SUN
+2018  ,27099.0,Woodland Solar Farm ,36.89,-76.611,SUN
+2016  ,990.0,Whitehouse Solar Farm ,38.023,-77.972,SUN
+2017  ,35636.0,Whitehouse Solar Farm ,38.023,-77.972,SUN
+2018  ,28485.0,Whitehouse Solar Farm ,38.023,-77.972,SUN
+2001  ,7127.0,Brasfield ,37.220833,-77.524504,WAT
+2002  ,6546.999,Brasfield ,37.220833,-77.524504,WAT
+2003  ,18908.998,Brasfield ,37.220833,-77.524504,WAT
+2004  ,12080.999,Brasfield ,37.220833,-77.524504,WAT
+2005  ,12130.999,Brasfield ,37.220833,-77.524504,WAT
+2006  ,11871.999,Brasfield ,37.220833,-77.524504,WAT
+2007  ,8582.998,Brasfield ,37.220833,-77.524504,WAT
+2008  ,9647.0,Brasfield ,37.220833,-77.524504,WAT
+2009  ,10585.0,Brasfield ,37.220833,-77.524504,WAT
+2010  ,9788.0,Brasfield ,37.220833,-77.524504,WAT
+2011  ,10153.0,Brasfield ,37.220833,-77.524504,WAT
+2012  ,5395.0,Brasfield ,37.220833,-77.524504,WAT
+2013  ,11406.78,Brasfield ,37.220833,-77.524504,WAT
+2014  ,9944.55,Brasfield ,37.220833,-77.524504,WAT
+2015  ,10563.0,Brasfield ,37.220833,-77.524504,WAT
+2016  ,10565.0,Brasfield ,37.220833,-77.524504,WAT
+2017  ,6037.0,Brasfield ,37.220833,-77.524504,WAT
+2018  ,11072.0,Brasfield ,37.220833,-77.524504,WAT
+2001  ,515.0,Elkton ,38.3836,-78.6528,DFO
+2002  ,209.519,Elkton ,38.3836,-78.6528,DFO
+2004  ,97.21376,Elkton ,38.3836,-78.6528,DFO
+2005  ,155.65268,Elkton ,38.3836,-78.6528,DFO
+2006  ,130.28185,Elkton ,38.3836,-78.6528,DFO
+2007  ,116.288,Elkton ,38.3836,-78.6528,DFO
+2008  ,385.576,Elkton ,38.3836,-78.6528,DFO
+2009  ,179.117,Elkton ,38.3836,-78.6528,DFO
+2010  ,103.545,Elkton ,38.3836,-78.6528,DFO
+2011  ,94.822,Elkton ,38.3836,-78.6528,DFO
+2012  ,81.953,Elkton ,38.3836,-78.6528,DFO
+2013  ,11.08,Elkton ,38.3836,-78.6528,DFO
+2014  ,15.847,Elkton ,38.3836,-78.6528,DFO
+2015  ,10.434,Elkton ,38.3836,-78.6528,DFO
+2016  ,17.659,Elkton ,38.3836,-78.6528,DFO
+2017  ,15.245,Elkton ,38.3836,-78.6528,DFO
+2018  ,85.176,Elkton ,38.3836,-78.6528,DFO
+2001  ,10830.0,Elkton ,38.3836,-78.6528,NG
+2002  ,12313.18,Elkton ,38.3836,-78.6528,NG
+2004  ,22640.55824,Elkton ,38.3836,-78.6528,NG
+2005  ,20054.29732,Elkton ,38.3836,-78.6528,NG
+2006  ,22780.14915,Elkton ,38.3836,-78.6528,NG
+2007  ,20734.831,Elkton ,38.3836,-78.6528,NG
+2008  ,9484.424,Elkton ,38.3836,-78.6528,NG
+2009  ,14967.883,Elkton ,38.3836,-78.6528,NG
+2010  ,16224.455,Elkton ,38.3836,-78.6528,NG
+2011  ,14261.178,Elkton ,38.3836,-78.6528,NG
+2012  ,14141.787,Elkton ,38.3836,-78.6528,NG
+2013  ,12942.92,Elkton ,38.3836,-78.6528,NG
+2014  ,15009.153,Elkton ,38.3836,-78.6528,NG
+2015  ,14073.566,Elkton ,38.3836,-78.6528,NG
+2016  ,12185.341,Elkton ,38.3836,-78.6528,NG
+2017  ,11819.755,Elkton ,38.3836,-78.6528,NG
+2018  ,15108.824,Elkton ,38.3836,-78.6528,NG
+2001  ,132654.507,International Paper Franklin Mill ,36.6803,-76.9128,BIT
+2002  ,262730.0,International Paper Franklin Mill ,36.6803,-76.9128,BIT
+2003  ,135681.0,International Paper Franklin Mill ,36.6803,-76.9128,BIT
+2004  ,145278.25456,International Paper Franklin Mill ,36.6803,-76.9128,BIT
+2005  ,80747.56575,International Paper Franklin Mill ,36.6803,-76.9128,BIT
+2006  ,97961.15229,International Paper Franklin Mill ,36.6803,-76.9128,BIT
+2007  ,136751.618,International Paper Franklin Mill ,36.6803,-76.9128,BIT
+2008  ,134961.223,International Paper Franklin Mill ,36.6803,-76.9128,BIT
+2009  ,98800.264,International Paper Franklin Mill ,36.6803,-76.9128,BIT
+2010  ,37554.939,International Paper Franklin Mill ,36.6803,-76.9128,BIT
+2011  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,BIT
+2012  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,BIT
+2013  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,BIT
+2014  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,BIT
+2015  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,BIT
+2016  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,BIT
+2017  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,BIT
+2018  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,BIT
+2019  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,BIT
+2001  ,70643.732,International Paper Franklin Mill ,36.6803,-76.9128,WDS
+2002  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,WDS
+2003  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,WDS
+2008  ,82728.289,International Paper Franklin Mill ,36.6803,-76.9128,WDS
+2009  ,60552.159,International Paper Franklin Mill ,36.6803,-76.9128,WDS
+2010  ,11416.644,International Paper Franklin Mill ,36.6803,-76.9128,WDS
+2011  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,WDS
+2012  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,WDS
+2013  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,WDS
+2014  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,WDS
+2001  ,366641.464,International Paper Franklin Mill ,36.6803,-76.9128,BLQ
+2002  ,79322.0,International Paper Franklin Mill ,36.6803,-76.9128,BLQ
+2003  ,287004.0,International Paper Franklin Mill ,36.6803,-76.9128,BLQ
+2004  ,252013.47475,International Paper Franklin Mill ,36.6803,-76.9128,BLQ
+2005  ,335547.11424,International Paper Franklin Mill ,36.6803,-76.9128,BLQ
+2006  ,311237.61735,International Paper Franklin Mill ,36.6803,-76.9128,BLQ
+2007  ,307279.189,International Paper Franklin Mill ,36.6803,-76.9128,BLQ
+2008  ,349387.009,International Paper Franklin Mill ,36.6803,-76.9128,BLQ
+2009  ,246583.995,International Paper Franklin Mill ,36.6803,-76.9128,BLQ
+2010  ,63204.261,International Paper Franklin Mill ,36.6803,-76.9128,BLQ
+2011  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,BLQ
+2012  ,83677.098,International Paper Franklin Mill ,36.6803,-76.9128,BLQ
+2013  ,219867.706,International Paper Franklin Mill ,36.6803,-76.9128,BLQ
+2014  ,229803.324,International Paper Franklin Mill ,36.6803,-76.9128,BLQ
+2015  ,233796.549,International Paper Franklin Mill ,36.6803,-76.9128,BLQ
+2016  ,219067.346,International Paper Franklin Mill ,36.6803,-76.9128,BLQ
+2017  ,208504.796,International Paper Franklin Mill ,36.6803,-76.9128,BLQ
+2018  ,220628.436,International Paper Franklin Mill ,36.6803,-76.9128,BLQ
+2019  ,254218.916,International Paper Franklin Mill ,36.6803,-76.9128,BLQ
+2001  ,93819.48,International Paper Franklin Mill ,36.6803,-76.9128,NG
+2002  ,312003.0,International Paper Franklin Mill ,36.6803,-76.9128,NG
+2003  ,262896.0,International Paper Franklin Mill ,36.6803,-76.9128,NG
+2004  ,231494.62,International Paper Franklin Mill ,36.6803,-76.9128,NG
+2005  ,193151.14,International Paper Franklin Mill ,36.6803,-76.9128,NG
+2006  ,125981.94,International Paper Franklin Mill ,36.6803,-76.9128,NG
+2007  ,79912.14,International Paper Franklin Mill ,36.6803,-76.9128,NG
+2008  ,78847.9,International Paper Franklin Mill ,36.6803,-76.9128,NG
+2009  ,89425.0,International Paper Franklin Mill ,36.6803,-76.9128,NG
+2010  ,10078.32,International Paper Franklin Mill ,36.6803,-76.9128,NG
+2011  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,NG
+2012  ,97412.771,International Paper Franklin Mill ,36.6803,-76.9128,NG
+2013  ,31385.187,International Paper Franklin Mill ,36.6803,-76.9128,NG
+2014  ,22359.935,International Paper Franklin Mill ,36.6803,-76.9128,NG
+2015  ,19719.725,International Paper Franklin Mill ,36.6803,-76.9128,NG
+2016  ,24105.654,International Paper Franklin Mill ,36.6803,-76.9128,NG
+2017  ,17887.204,International Paper Franklin Mill ,36.6803,-76.9128,NG
+2018  ,16903.564,International Paper Franklin Mill ,36.6803,-76.9128,NG
+2019  ,22422.084,International Paper Franklin Mill ,36.6803,-76.9128,NG
+2001  ,1936.32,International Paper Franklin Mill ,36.6803,-76.9128,AB
+2003  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,AB
+2001  ,1637.374,International Paper Franklin Mill ,36.6803,-76.9128,DFO
+2002  ,36.0,International Paper Franklin Mill ,36.6803,-76.9128,DFO
+2003  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,DFO
+2004  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,DFO
+2008  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,DFO
+2001  ,57753.126,International Paper Franklin Mill ,36.6803,-76.9128,RFO
+2002  ,32503.0,International Paper Franklin Mill ,36.6803,-76.9128,RFO
+2003  ,38336.0,International Paper Franklin Mill ,36.6803,-76.9128,RFO
+2004  ,50175.50413,International Paper Franklin Mill ,36.6803,-76.9128,RFO
+2005  ,31388.28118,International Paper Franklin Mill ,36.6803,-76.9128,RFO
+2006  ,33817.88818,International Paper Franklin Mill ,36.6803,-76.9128,RFO
+2007  ,44479.971,International Paper Franklin Mill ,36.6803,-76.9128,RFO
+2008  ,2861.809,International Paper Franklin Mill ,36.6803,-76.9128,RFO
+2009  ,20400.292,International Paper Franklin Mill ,36.6803,-76.9128,RFO
+2010  ,2743.257,International Paper Franklin Mill ,36.6803,-76.9128,RFO
+2011  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,RFO
+2012  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,RFO
+2013  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,RFO
+2014  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,RFO
+2015  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,RFO
+2016  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,RFO
+2017  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,RFO
+2018  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,RFO
+2019  ,0.0,International Paper Franklin Mill ,36.6803,-76.9128,RFO
+2002  ,35468.0,Buchanan Generation LLC ,37.175278,-81.961388,NG
+2003  ,21098.0,Buchanan Generation LLC ,37.175278,-81.961388,NG
+2004  ,33558.0,Buchanan Generation LLC ,37.175278,-81.961388,NG
+2005  ,80380.0,Buchanan Generation LLC ,37.175278,-81.961388,NG
+2006  ,79684.0,Buchanan Generation LLC ,37.175278,-81.961388,NG
+2007  ,80580.0,Buchanan Generation LLC ,37.175278,-81.961388,NG
+2008  ,32796.0,Buchanan Generation LLC ,37.175278,-81.961388,NG
+2009  ,36184.0,Buchanan Generation LLC ,37.175278,-81.961388,NG
+2010  ,59528.0,Buchanan Generation LLC ,37.175278,-81.961388,NG
+2011  ,35683.0,Buchanan Generation LLC ,37.175278,-81.961388,NG
+2012  ,22208.0,Buchanan Generation LLC ,37.175278,-81.961388,NG
+2013  ,11578.0,Buchanan Generation LLC ,37.175278,-81.961388,NG
+2014  ,58729.0,Buchanan Generation LLC ,37.175278,-81.961388,NG
+2015  ,80569.0,Buchanan Generation LLC ,37.175278,-81.961388,NG
+2016  ,233782.0,Buchanan Generation LLC ,37.175278,-81.961388,NG
+2017  ,175143.0,Buchanan Generation LLC ,37.175278,-81.961388,NG
+2018  ,196485.0,Buchanan Generation LLC ,37.175278,-81.961388,NG
+2017  ,9257.0,Clarke Solar Power Facility ,39.06485,-78.138207,SUN
+2018  ,16330.0,Clarke Solar Power Facility ,39.06485,-78.138207,SUN
+2017  ,5947.0,Cherrydale Solar Power Facility ,37.369398,-75.914127,SUN
+2018  ,31614.0,Cherrydale Solar Power Facility ,37.369398,-75.914127,SUN
+2001  ,25283.998,I 95 Landfill Phase II ,38.6892,-77.2375,LFG
+2002  ,25526.003,I 95 Landfill Phase II ,38.6892,-77.2375,LFG
+2003  ,23080.0,I 95 Landfill Phase II ,38.6892,-77.2375,LFG
+2004  ,25094.004,I 95 Landfill Phase II ,38.6892,-77.2375,LFG
+2005  ,24975.0,I 95 Landfill Phase II ,38.6892,-77.2375,LFG
+2006  ,25392.001,I 95 Landfill Phase II ,38.6892,-77.2375,LFG
+2007  ,25627.0,I 95 Landfill Phase II ,38.6892,-77.2375,LFG
+2008  ,25419.0,I 95 Landfill Phase II ,38.6892,-77.2375,LFG
+2009  ,25875.0,I 95 Landfill Phase II ,38.6892,-77.2375,LFG
+2010  ,26680.0,I 95 Landfill Phase II ,38.6892,-77.2375,LFG
+2011  ,26270.0,I 95 Landfill Phase II ,38.6892,-77.2375,LFG
+2012  ,25125.0,I 95 Landfill Phase II ,38.6892,-77.2375,LFG
+2013  ,16977.0,I 95 Landfill Phase II ,38.6892,-77.2375,LFG
+2014  ,11357.0,I 95 Landfill Phase II ,38.6892,-77.2375,LFG
+2015  ,13053.0,I 95 Landfill Phase II ,38.6892,-77.2375,LFG
+2016  ,17426.0,I 95 Landfill Phase II ,38.6892,-77.2375,LFG
+2017  ,17876.0,I 95 Landfill Phase II ,38.6892,-77.2375,LFG
+2018  ,15781.0,I 95 Landfill Phase II ,38.6892,-77.2375,LFG
+2014  ,0.0,New River ,37.183,-80.699,DFO
+2015  ,1384.071,New River ,37.183,-80.699,DFO
+2016  ,1228.886,New River ,37.183,-80.699,DFO
+2017  ,1182.67,New River ,37.183,-80.699,DFO
+2018  ,1114.436,New River ,37.183,-80.699,DFO
+2015  ,15503.929,New River ,37.183,-80.699,LFG
+2016  ,18013.114,New River ,37.183,-80.699,LFG
+2017  ,17632.33,New River ,37.183,-80.699,LFG
+2018  ,19857.564,New River ,37.183,-80.699,LFG
+2013  ,132.757,Virginia Tech Power Plant ,37.2319,-80.4211,DFO
+2014  ,481.706,Virginia Tech Power Plant ,37.2319,-80.4211,DFO
+2015  ,443.257,Virginia Tech Power Plant ,37.2319,-80.4211,DFO
+2016  ,401.645,Virginia Tech Power Plant ,37.2319,-80.4211,DFO
+2017  ,11.095,Virginia Tech Power Plant ,37.2319,-80.4211,DFO
+2018  ,8.166,Virginia Tech Power Plant ,37.2319,-80.4211,DFO
+2019  ,9.464,Virginia Tech Power Plant ,37.2319,-80.4211,DFO
+2008  ,28389.96,Virginia Tech Power Plant ,37.2319,-80.4211,BIT
+2009  ,26359.75,Virginia Tech Power Plant ,37.2319,-80.4211,BIT
+2010  ,25676.87,Virginia Tech Power Plant ,37.2319,-80.4211,BIT
+2011  ,25969.81,Virginia Tech Power Plant ,37.2319,-80.4211,BIT
+2012  ,9095.69,Virginia Tech Power Plant ,37.2319,-80.4211,BIT
+2013  ,7285.124,Virginia Tech Power Plant ,37.2319,-80.4211,BIT
+2014  ,22415.048,Virginia Tech Power Plant ,37.2319,-80.4211,BIT
+2015  ,18598.474,Virginia Tech Power Plant ,37.2319,-80.4211,BIT
+2016  ,7524.404,Virginia Tech Power Plant ,37.2319,-80.4211,BIT
+2017  ,10860.072,Virginia Tech Power Plant ,37.2319,-80.4211,BIT
+2018  ,6235.341,Virginia Tech Power Plant ,37.2319,-80.4211,BIT
+2019  ,3869.472,Virginia Tech Power Plant ,37.2319,-80.4211,BIT
+2013  ,2643.119,Virginia Tech Power Plant ,37.2319,-80.4211,NG
+2014  ,5027.606,Virginia Tech Power Plant ,37.2319,-80.4211,NG
+2015  ,6128.269,Virginia Tech Power Plant ,37.2319,-80.4211,NG
+2016  ,8723.951,Virginia Tech Power Plant ,37.2319,-80.4211,NG
+2017  ,10076.833,Virginia Tech Power Plant ,37.2319,-80.4211,NG
+2018  ,15536.493,Virginia Tech Power Plant ,37.2319,-80.4211,NG
+2019  ,16690.064,Virginia Tech Power Plant ,37.2319,-80.4211,NG
+2015  ,49678.0,HP Hood CT ,39.132519,-78.187474,NG
+2016  ,93668.0,HP Hood CT ,39.132519,-78.187474,NG
+2017  ,87692.0,HP Hood CT ,39.132519,-78.187474,NG
+2018  ,83390.0,HP Hood CT ,39.132519,-78.187474,NG
+2019  ,84452.0,HP Hood CT ,39.132519,-78.187474,NG
+2017  ,1017.0,Essex Solar Center ,37.834094,-76.799967,SUN
+2018  ,37917.0,Essex Solar Center ,37.834094,-76.799967,SUN
+2005  ,116.001,Salem Water Plant ,37.2875,-80.0771,DFO
+2006  ,106.0,Salem Water Plant ,37.2875,-80.0771,DFO
+2007  ,167.0,Salem Water Plant ,37.2875,-80.0771,DFO
+2008  ,152.0,Salem Water Plant ,37.2875,-80.0771,DFO
+2009  ,81.0,Salem Water Plant ,37.2875,-80.0771,DFO
+2010  ,125.0,Salem Water Plant ,37.2875,-80.0771,DFO
+2011  ,146.0,Salem Water Plant ,37.2875,-80.0771,DFO
+2012  ,141.0,Salem Water Plant ,37.2875,-80.0771,DFO
+2013  ,114.0,Salem Water Plant ,37.2875,-80.0771,DFO
+2014  ,102.0,Salem Water Plant ,37.2875,-80.0771,DFO
+2015  ,104.0,Salem Water Plant ,37.2875,-80.0771,DFO
+2016  ,171.0,Salem Water Plant ,37.2875,-80.0771,DFO
+2017  ,98.0,Salem Water Plant ,37.2875,-80.0771,DFO
+2018  ,115.0,Salem Water Plant ,37.2875,-80.0771,DFO
+2019  ,137.0,Salem Water Plant ,37.2875,-80.0771,DFO
+2005  ,113.999,Salem Street Dept ,37.2794,-80.0447,DFO
+2006  ,122.999,Salem Street Dept ,37.2794,-80.0447,DFO
+2007  ,162.0,Salem Street Dept ,37.2794,-80.0447,DFO
+2008  ,155.0,Salem Street Dept ,37.2794,-80.0447,DFO
+2009  ,75.0,Salem Street Dept ,37.2794,-80.0447,DFO
+2010  ,189.0,Salem Street Dept ,37.2794,-80.0447,DFO
+2011  ,132.0,Salem Street Dept ,37.2794,-80.0447,DFO
+2012  ,137.0,Salem Street Dept ,37.2794,-80.0447,DFO
+2013  ,131.0,Salem Street Dept ,37.2794,-80.0447,DFO
+2014  ,117.0,Salem Street Dept ,37.2794,-80.0447,DFO
+2015  ,112.0,Salem Street Dept ,37.2794,-80.0447,DFO
+2016  ,156.0,Salem Street Dept ,37.2794,-80.0447,DFO
+2017  ,71.0,Salem Street Dept ,37.2794,-80.0447,DFO
+2018  ,120.0,Salem Street Dept ,37.2794,-80.0447,DFO
+2019  ,139.0,Salem Street Dept ,37.2794,-80.0447,DFO
+2001  ,596655.0,Covanta Fairfax Energy ,38.695,-77.2411,MSW
+2002  ,623532.0,Covanta Fairfax Energy ,38.695,-77.2411,MSW
+2003  ,622170.0,Covanta Fairfax Energy ,38.695,-77.2411,MSW
+2004  ,634046.0,Covanta Fairfax Energy ,38.695,-77.2411,MSW
+2005  ,600934.0,Covanta Fairfax Energy ,38.695,-77.2411,MSW
+2003  ,229.0,Covanta Fairfax Energy ,38.695,-77.2411,NG
+2004  ,754.0,Covanta Fairfax Energy ,38.695,-77.2411,NG
+2005  ,3649.0,Covanta Fairfax Energy ,38.695,-77.2411,NG
+2006  ,2864.0,Covanta Fairfax Energy ,38.695,-77.2411,NG
+2007  ,4366.587,Covanta Fairfax Energy ,38.695,-77.2411,NG
+2008  ,8.01,Covanta Fairfax Energy ,38.695,-77.2411,NG
+2009  ,3387.072,Covanta Fairfax Energy ,38.695,-77.2411,NG
+2010  ,2951.882,Covanta Fairfax Energy ,38.695,-77.2411,NG
+2011  ,2019.325,Covanta Fairfax Energy ,38.695,-77.2411,NG
+2012  ,1548.109,Covanta Fairfax Energy ,38.695,-77.2411,NG
+2013  ,17305.268,Covanta Fairfax Energy ,38.695,-77.2411,NG
+2014  ,3439.05,Covanta Fairfax Energy ,38.695,-77.2411,NG
+2015  ,4778.025,Covanta Fairfax Energy ,38.695,-77.2411,NG
+2016  ,9420.461,Covanta Fairfax Energy ,38.695,-77.2411,NG
+2017  ,861.809,Covanta Fairfax Energy ,38.695,-77.2411,NG
+2018  ,5038.528,Covanta Fairfax Energy ,38.695,-77.2411,NG
+2019  ,5018.837,Covanta Fairfax Energy ,38.695,-77.2411,NG
+2002  ,145457.555,Covanta Alexandria/Arlington Energy ,38.8014,-77.1288,MSW
+2003  ,159329.0,Covanta Alexandria/Arlington Energy ,38.8014,-77.1288,MSW
+2004  ,180647.999,Covanta Alexandria/Arlington Energy ,38.8014,-77.1288,MSW
+2005  ,180926.001,Covanta Alexandria/Arlington Energy ,38.8014,-77.1288,MSW
+2011  ,19419.776,Bear Garden ,37.695556,-78.285278,DFO
+2012  ,98.156,Bear Garden ,37.695556,-78.285278,DFO
+2013  ,0.0,Bear Garden ,37.695556,-78.285278,DFO
+2014  ,6512.105,Bear Garden ,37.695556,-78.285278,DFO
+2015  ,38212.069,Bear Garden ,37.695556,-78.285278,DFO
+2016  ,8012.201,Bear Garden ,37.695556,-78.285278,DFO
+2017  ,7561.214,Bear Garden ,37.695556,-78.285278,DFO
+2018  ,15549.241,Bear Garden ,37.695556,-78.285278,DFO
+2019  ,4505.226,Bear Garden ,37.695556,-78.285278,DFO
+2011  ,2215811.224,Bear Garden ,37.695556,-78.285278,NG
+2012  ,3998397.844,Bear Garden ,37.695556,-78.285278,NG
+2013  ,3732284.0,Bear Garden ,37.695556,-78.285278,NG
+2014  ,3165846.895,Bear Garden ,37.695556,-78.285278,NG
+2015  ,3421246.931,Bear Garden ,37.695556,-78.285278,NG
+2016  ,3606377.799,Bear Garden ,37.695556,-78.285278,NG
+2017  ,3210998.786,Bear Garden ,37.695556,-78.285278,NG
+2018  ,3997204.759,Bear Garden ,37.695556,-78.285278,NG
+2019  ,3553934.774,Bear Garden ,37.695556,-78.285278,NG
+2012  ,7796.234,Virginia City Hybrid Energy Center ,36.916389,-82.338055,DFO
+2013  ,9201.111,Virginia City Hybrid Energy Center ,36.916389,-82.338055,DFO
+2014  ,6778.991,Virginia City Hybrid Energy Center ,36.916389,-82.338055,DFO
+2016  ,5436.098,Virginia City Hybrid Energy Center ,36.916389,-82.338055,DFO
+2017  ,7598.8,Virginia City Hybrid Energy Center ,36.916389,-82.338055,DFO
+2018  ,11636.83,Virginia City Hybrid Energy Center ,36.916389,-82.338055,DFO
+2019  ,10222.803,Virginia City Hybrid Energy Center ,36.916389,-82.338055,DFO
+2012  ,1124476.345,Virginia City Hybrid Energy Center ,36.916389,-82.338055,BIT
+2013  ,3549750.563,Virginia City Hybrid Energy Center ,36.916389,-82.338055,BIT
+2014  ,3465887.997,Virginia City Hybrid Energy Center ,36.916389,-82.338055,BIT
+2016  ,3273817.047,Virginia City Hybrid Energy Center ,36.916389,-82.338055,BIT
+2017  ,3106084.827,Virginia City Hybrid Energy Center ,36.916389,-82.338055,BIT
+2018  ,2736100.429,Virginia City Hybrid Energy Center ,36.916389,-82.338055,BIT
+2019  ,982824.133,Virginia City Hybrid Energy Center ,36.916389,-82.338055,BIT
+2012  ,343.421,Virginia City Hybrid Energy Center ,36.916389,-82.338055,WDS
+2013  ,16900.326,Virginia City Hybrid Energy Center ,36.916389,-82.338055,WDS
+2014  ,62452.012,Virginia City Hybrid Energy Center ,36.916389,-82.338055,WDS
+2016  ,225789.855,Virginia City Hybrid Energy Center ,36.916389,-82.338055,WDS
+2017  ,219062.373,Virginia City Hybrid Energy Center ,36.916389,-82.338055,WDS
+2018  ,210023.741,Virginia City Hybrid Energy Center ,36.916389,-82.338055,WDS
+2019  ,192033.064,Virginia City Hybrid Energy Center ,36.916389,-82.338055,WDS
+2002  ,302.0,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,DFO
+2003  ,356.719,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,DFO
+2004  ,12.21432,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,DFO
+2005  ,325.391,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,DFO
+2006  ,1.92199,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,DFO
+2007  ,276.477,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,DFO
+2008  ,92.728,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,DFO
+2009  ,0.0,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,DFO
+2010  ,78.026,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,DFO
+2011  ,318.0,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,DFO
+2012  ,111.0,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,DFO
+2013  ,0.0,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,DFO
+2014  ,56.0,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,DFO
+2015  ,260.0,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,DFO
+2016  ,94.0,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,DFO
+2017  ,159.0,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,DFO
+2018  ,495.0,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,DFO
+2002  ,0.999,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,NG
+2003  ,54.882,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,NG
+2004  ,0.0,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,NG
+2005  ,0.0,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,NG
+2006  ,0.0,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,NG
+2007  ,0.0,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,NG
+2008  ,0.0,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,NG
+2009  ,0.0,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,NG
+2010  ,0.0,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,NG
+2011  ,0.0,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,NG
+2012  ,0.0,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,NG
+2013  ,0.0,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,NG
+2014  ,0.0,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,NG
+2015  ,0.0,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,NG
+2016  ,0.0,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,NG
+2017  ,0.0,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,NG
+2018  ,0.0,Boydton Plank Road Cogen Plant ,37.193584,-77.467185,NG
+2017  ,19745.0,"Southampton Solar, LLC ",36.614,-77.166,SUN
+2018  ,207258.0,"Southampton Solar, LLC ",36.614,-77.166,SUN
+2019  ,223874.0,"Southampton Solar, LLC ",36.614,-77.166,SUN
+2017  ,1779.0,Correctional Solar LLC ,37.471464,-76.856859,SUN
+2018  ,33266.0,Correctional Solar LLC ,37.471464,-76.856859,SUN
+2017  ,2361.0,Sappony Solar LLC ,36.940529,-77.41776,SUN
+2018  ,39067.0,Sappony Solar LLC ,36.940529,-77.41776,SUN
+2001  ,92858.0,Wolf Hills Energy ,36.6644,-82.1044,NG
+2002  ,28182.0,Wolf Hills Energy ,36.6644,-82.1044,NG
+2003  ,11634.0,Wolf Hills Energy ,36.6644,-82.1044,NG
+2004  ,1279.0,Wolf Hills Energy ,36.6644,-82.1044,NG
+2005  ,104866.0,Wolf Hills Energy ,36.6644,-82.1044,NG
+2006  ,153294.0,Wolf Hills Energy ,36.6644,-82.1044,NG
+2007  ,210484.0,Wolf Hills Energy ,36.6644,-82.1044,NG
+2008  ,123877.0,Wolf Hills Energy ,36.6644,-82.1044,NG
+2009  ,38495.98,Wolf Hills Energy ,36.6644,-82.1044,NG
+2010  ,57580.0,Wolf Hills Energy ,36.6644,-82.1044,NG
+2011  ,44364.0,Wolf Hills Energy ,36.6644,-82.1044,NG
+2012  ,56476.0,Wolf Hills Energy ,36.6644,-82.1044,NG
+2013  ,45513.0,Wolf Hills Energy ,36.6644,-82.1044,NG
+2014  ,50519.0,Wolf Hills Energy ,36.6644,-82.1044,NG
+2015  ,103963.0,Wolf Hills Energy ,36.6644,-82.1044,NG
+2016  ,100688.0,Wolf Hills Energy ,36.6644,-82.1044,NG
+2017  ,108396.0,Wolf Hills Energy ,36.6644,-82.1044,NG
+2018  ,109393.0,Wolf Hills Energy ,36.6644,-82.1044,NG
+2017  ,1759.0,Buckingham Solar LLC ,37.502944,-78.379237,SUN
+2018  ,30511.0,Buckingham Solar LLC ,37.502944,-78.379237,SUN
+2005  ,3920.001,Coleman Falls ,37.5035,-79.3006,WAT
+2006  ,1813.999,Coleman Falls ,37.5035,-79.3006,WAT
+2007  ,2486.0,Coleman Falls ,37.5035,-79.3006,WAT
+2008  ,3780.0,Coleman Falls ,37.5035,-79.3006,WAT
+2009  ,4078.0,Coleman Falls ,37.5035,-79.3006,WAT
+2010  ,5100.0,Coleman Falls ,37.5035,-79.3006,WAT
+2011  ,4900.0,Coleman Falls ,37.5035,-79.3006,WAT
+2012  ,5290.0,Coleman Falls ,37.5035,-79.3006,WAT
+2013  ,4610.0,Coleman Falls ,37.5035,-79.3006,WAT
+2014  ,4869.0,Coleman Falls ,37.5035,-79.3006,WAT
+2015  ,5724.0,Coleman Falls ,37.5035,-79.3006,WAT
+2016  ,5234.0,Coleman Falls ,37.5035,-79.3006,WAT
+2017  ,0.0,Coleman Falls ,37.5035,-79.3006,WAT
+2018  ,0.0,Coleman Falls ,37.5035,-79.3006,WAT
+2019  ,0.0,Coleman Falls ,37.5035,-79.3006,WAT
+2005  ,9315.001,Holcomb Rock ,37.5035,-79.3006,WAT
+2006  ,4189.999,Holcomb Rock ,37.5035,-79.3006,WAT
+2007  ,3729.001,Holcomb Rock ,37.5035,-79.3006,WAT
+2008  ,5130.0,Holcomb Rock ,37.5035,-79.3006,WAT
+2009  ,5750.0,Holcomb Rock ,37.5035,-79.3006,WAT
+2010  ,6700.0,Holcomb Rock ,37.5035,-79.3006,WAT
+2011  ,5800.0,Holcomb Rock ,37.5035,-79.3006,WAT
+2012  ,6700.0,Holcomb Rock ,37.5035,-79.3006,WAT
+2013  ,512.0,Holcomb Rock ,37.5035,-79.3006,WAT
+2014  ,5418.0,Holcomb Rock ,37.5035,-79.3006,WAT
+2015  ,6472.0,Holcomb Rock ,37.5035,-79.3006,WAT
+2016  ,3424.0,Holcomb Rock ,37.5035,-79.3006,WAT
+2017  ,0.0,Holcomb Rock ,37.5035,-79.3006,WAT
+2018  ,0.0,Holcomb Rock ,37.5035,-79.3006,WAT
+2019  ,0.0,Holcomb Rock ,37.5035,-79.3006,WAT
+2002  ,22085.0,Suffolk Energy Partners LP ,36.7589,-76.4961,LFG
+2003  ,22018.0,Suffolk Energy Partners LP ,36.7589,-76.4961,LFG
+2004  ,22004.004,Suffolk Energy Partners LP ,36.7589,-76.4961,LFG
+2005  ,22465.0,Suffolk Energy Partners LP ,36.7589,-76.4961,LFG
+2006  ,21714.002,Suffolk Energy Partners LP ,36.7589,-76.4961,LFG
+2007  ,20711.999,Suffolk Energy Partners LP ,36.7589,-76.4961,LFG
+2008  ,22272.0,Suffolk Energy Partners LP ,36.7589,-76.4961,LFG
+2009  ,22785.0,Suffolk Energy Partners LP ,36.7589,-76.4961,LFG
+2010  ,22861.0,Suffolk Energy Partners LP ,36.7589,-76.4961,LFG
+2011  ,18447.0,Suffolk Energy Partners LP ,36.7589,-76.4961,LFG
+2012  ,22796.0,Suffolk Energy Partners LP ,36.7589,-76.4961,LFG
+2013  ,20808.0,Suffolk Energy Partners LP ,36.7589,-76.4961,LFG
+2014  ,22437.0,Suffolk Energy Partners LP ,36.7589,-76.4961,LFG
+2015  ,22847.0,Suffolk Energy Partners LP ,36.7589,-76.4961,LFG
+2016  ,21468.0,Suffolk Energy Partners LP ,36.7589,-76.4961,LFG
+2017  ,21942.0,Suffolk Energy Partners LP ,36.7589,-76.4961,LFG
+2018  ,19024.0,Suffolk Energy Partners LP ,36.7589,-76.4961,LFG
+2001  ,4030.0,Emporia ,36.696,-77.56,WAT
+2002  ,4353.999,Emporia ,36.696,-77.56,WAT
+2003  ,9368.999,Emporia ,36.696,-77.56,WAT
+2004  ,9659.001,Emporia ,36.696,-77.56,WAT
+2005  ,6777.001,Emporia ,36.696,-77.56,WAT
+2006  ,6422.999,Emporia ,36.696,-77.56,WAT
+2007  ,5455.997,Emporia ,36.696,-77.56,WAT
+2008  ,4037.0,Emporia ,36.696,-77.56,WAT
+2009  ,6194.0,Emporia ,36.696,-77.56,WAT
+2010  ,5910.0,Emporia ,36.696,-77.56,WAT
+2011  ,5011.0,Emporia ,36.696,-77.56,WAT
+2012  ,4069.0,Emporia ,36.696,-77.56,WAT
+2013  ,6805.26,Emporia ,36.696,-77.56,WAT
+2014  ,7651.71,Emporia ,36.696,-77.56,WAT
+2015  ,7356.0,Emporia ,36.696,-77.56,WAT
+2016  ,7636.0,Emporia ,36.696,-77.56,WAT
+2017  ,5069.0,Emporia ,36.696,-77.56,WAT
+2018  ,5479.0,Emporia ,36.696,-77.56,WAT
