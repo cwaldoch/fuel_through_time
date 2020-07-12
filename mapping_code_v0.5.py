@@ -5,7 +5,6 @@ Created on Fri Jul 10 19:32:27 2020
 @author: .3
 """
 
-import numpy as np 
 import pandas as pd 
 import geopandas as gpd 
 import matplotlib.pyplot as plt 
@@ -18,15 +17,16 @@ import imageio
 import os, sys
 
 start = datetime.datetime.now()
+
 dataSource = r'C:\Users\.3\Desktop\fuel_through_time\\'
 fName = 'test8_va.mp4'
 
-vaShape = gpd.read_file(r"C:\Users\.3\Desktop\va_maps\va_counties.shp")
+vaShape = gpd.read_file(dataSource+"gis_data\va_counties.shp")
 
 vaShape2 = gpd.GeoDataFrame(vaShape,geometry='geometry',crs={'init':'epsg:4269'})
 vaShape3 = vaShape2.to_crs("epsg:32618")
 
-eia860 = pd.read_csv(r"C:\Users\.3\Desktop\national_energy\eia860.csv")
+eia860 = pd.read_csv(dataSource+"eia860.csv")
 va860 = eia860[eia860['State'] == 'VA']
 va860['plant-fuel'] = [x+'-'+y for x,y in zip(va860['Plant Name'].values, va860['Energy Source 1'].values)]
 
@@ -128,7 +128,7 @@ aniMap = animation.FuncAnimation(fig, animate, years,interval=1, blit=False)
 Writer = animation.writers['ffmpeg']
 writer = Writer(fps=0.75, metadata=dict(artist='Me'), bitrate=4000)
 
-aniMap.save(dataSource+fName, writer=writer)
+aniMap.save(dataSource+r'output//'+fName, writer=writer)
     
 end = datetime.datetime.now()
 diff = end-start
@@ -155,5 +155,5 @@ def convertFile(inputpath, targetFormat):
     writer.close()
     print("Done.")
 
-convertFile(dataSource+fName, TargetFormat.GIF)
+convertFile(dataSource+r'output//'+fName, TargetFormat.GIF)
     
