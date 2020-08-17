@@ -59,7 +59,7 @@ This part really depends on your mindset: what you're trying to convey and what 
 1). Apply one formula to everything, e.g., size = generation*1000
 2). Decide breakpoints and manually classify, e.g., if generation > 10 then size is 1000, generation > 20 size is 2000, etc.
 
-The range here is really big, so I end up doing both. From my perspetive, I want to show every plant, even if they didn't run, to show that they exist. I classify the first few generation ranges, then apply a formula to everything over 250,000MWh. 
+The range here is really big, so I end up doing both. From my perspective, I want to show every plant, even if they didn't run, to show that they exist. I classify the first few generation ranges, then apply a formula to everything over 250,000MWh. 
 
 ```python            
 	if sumMW >= 0:
